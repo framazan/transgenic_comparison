@@ -1,0 +1,64 @@
+{
+    "parameters": {
+        "out_path": "/Users/filipr/Desktop/transgenic/busco_results",
+        "cpu": "2",
+        "force": "True",
+        "restart": "False",
+        "quiet": "True",
+        "download_path": "/Users/filipr/Desktop/transgenic/busco_downloads",
+        "datasets_version": "odb10",
+        "offline": "True",
+        "download_base_url": "https://busco-data.ezlab.org/v5/data/",
+        "auto-lineage": "False",
+        "auto-lineage-prok": "False",
+        "auto-lineage-euk": "False",
+        "use_augustus": "False",
+        "use_miniprot": "False",
+        "use_metaeuk": "False",
+        "skip_bbtools": "False",
+        "batch_mode": "False",
+        "tar": "False",
+        "opt-out-run-stats": "False",
+        "plot_percentages": "False",
+        "in": "/Users/filipr/Desktop/transgenic/protein_results/P_trichocarpa_helixer.prot.fasta",
+        "out": "P_trichocarpa_helixer",
+        "mode": "proteins",
+        "lineage_dataset": "/Users/filipr/Desktop/transgenic/busco_downloads/lineages/viridiplantae_odb10",
+        "main_out": "/Users/filipr/Desktop/transgenic/busco_results/P_trichocarpa_helixer",
+        "lineage_results_dir": "run_viridiplantae_odb10",
+        "domain": "eukaryota",
+        "orthodb_version": "10.1"
+    },
+    "lineage_dataset": {
+        "name": "viridiplantae_odb10",
+        "creation_date": "2024-01-08",
+        "number_of_buscos": "425",
+        "number_of_species": "57"
+    },
+    "versions": {
+        "python": [
+            3,
+            12,
+            12,
+            "final",
+            0
+        ],
+        "busco": "6.0.0",
+        "hmmsearch": 3.4
+    },
+    "results": {
+        "one_line_summary": "C:99.5%[S:83.3%,D:16.2%],F:0.5%,M:0.0%,n:425",
+        "Complete percentage": 99.5,
+        "Complete BUSCOs": 423,
+        "Single copy percentage": 83.3,
+        "Single copy BUSCOs": 354,
+        "Multi copy percentage": 16.2,
+        "Multi copy BUSCOs": 69,
+        "Fragmented percentage": 0.5,
+        "Fragmented BUSCOs": 2,
+        "Missing percentage": 0.0,
+        "Missing BUSCOs": 0,
+        "n_markers": 425,
+        "domain": "eukaryota"
+    }
+}

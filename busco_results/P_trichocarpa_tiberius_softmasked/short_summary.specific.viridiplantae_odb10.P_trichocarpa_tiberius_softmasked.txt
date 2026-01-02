@@ -1,0 +1,17 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: viridiplantae_odb10 (Creation date: 2024-01-08, number of genomes: 57, number of BUSCOs: 425)
+# Summarized benchmarking in BUSCO notation for file /Users/filipr/Desktop/transgenic/protein_results/P_trichocarpa_tiberius_softmasked.prot.fasta
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:98.8%[S:82.6%,D:16.2%],F:0.7%,M:0.5%,n:425	   
+	420	Complete BUSCOs (C)			   
+	351	Complete and single-copy BUSCOs (S)	   
+	69	Complete and duplicated BUSCOs (D)	   
+	3	Fragmented BUSCOs (F)			   
+	2	Missing BUSCOs (M)			   
+	425	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
