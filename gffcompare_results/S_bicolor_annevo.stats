@@ -1,0 +1,30 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Sbicolor_730_v5.1.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/S_bicolor_annevo /Users/filipr/Desktop/transgenic/standardized_results/S_bicolor_annevo.gff3
+#
+
+#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/S_bicolor_annevo.gff3 
+#     Query mRNAs :   27001 in   27001 loci  (20518 multi-exon transcripts)
+#            (0 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :   44046 in   31749 loci  (36110 multi-exon)
+# Super-loci w/ reference transcripts:    25397
+#-----------------| Sensitivity | Precision  |
+        Base level:    55.1     |    95.7    |
+        Exon level:    49.4     |    62.8    |
+      Intron level:    74.9     |    86.5    |
+Intron chain level:    32.6     |    57.4    |
+  Transcript level:    29.2     |    47.6    |
+       Locus level:    40.3     |    47.6    |
+
+     Matching intron chains:   11771
+       Matching transcripts:   12853
+              Matching loci:   12791
+
+          Missed exons:   32028/181712	( 17.6%)
+           Novel exons:    8181/142214	(  5.8%)
+        Missed introns:   21925/133004	( 16.5%)
+         Novel introns:    4108/115213	(  3.6%)
+           Missed loci:    6284/31749	( 19.8%)
+            Novel loci:    1207/27001	(  4.5%)
+
+ Total union super-loci across all input datasets: 26604 
+27001 out of 27001 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/S_bicolor_annevo.annotated.gtf (0 discarded as redundant)

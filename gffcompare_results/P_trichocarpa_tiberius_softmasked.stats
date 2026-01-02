@@ -1,0 +1,30 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Ptrichocarpa_533_v4.1.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/P_trichocarpa_tiberius_softmasked /Users/filipr/Desktop/transgenic/standardized_results/P_trichocarpa_tiberius_softmasked.gff3
+#
+
+#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/P_trichocarpa_tiberius_softmasked.gff3 
+#     Query mRNAs :   31364 in   31364 loci  (24253 multi-exon transcripts)
+#            (0 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :   52343 in   34289 loci  (44285 multi-exon)
+# Super-loci w/ reference transcripts:    29985
+#-----------------| Sensitivity | Precision  |
+        Base level:    61.9     |    97.9    |
+        Exon level:    55.0     |    70.8    |
+      Intron level:    82.4     |    96.1    |
+Intron chain level:    39.8     |    72.6    |
+  Transcript level:    36.8     |    61.5    |
+       Locus level:    56.1     |    61.5    |
+
+     Matching intron chains:   17609
+       Matching transcripts:   19284
+              Matching loci:   19235
+
+          Missed exons:   29522/221075	( 13.4%)
+           Novel exons:    3538/170696	(  2.1%)
+        Missed introns:   21127/162485	( 13.0%)
+         Novel introns:    2270/139332	(  1.6%)
+           Missed loci:    4188/34289	( 12.2%)
+            Novel loci:     940/31364	(  3.0%)
+
+ Total union super-loci across all input datasets: 30925 
+31364 out of 31364 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/P_trichocarpa_tiberius_softmasked.annotated.gtf (0 discarded as redundant)

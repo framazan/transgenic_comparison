@@ -1,0 +1,30 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Lsativa_467_v5.gene_exons.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/L_sativa_tiberius_softmasked /Users/filipr/Desktop/transgenic/standardized_results/L_sativa_tiberius_softmasked.gff3
+#
+
+#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/L_sativa_tiberius_softmasked.gff3 
+#     Query mRNAs :   31253 in   31253 loci  (22477 multi-exon transcripts)
+#            (0 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :   60638 in   39042 loci  (49359 multi-exon)
+# Super-loci w/ reference transcripts:    26889
+#-----------------| Sensitivity | Precision  |
+        Base level:    64.8     |    93.8    |
+        Exon level:    45.0     |    73.8    |
+      Intron level:    59.4     |    92.4    |
+Intron chain level:    29.8     |    65.5    |
+  Transcript level:    30.0     |    58.2    |
+       Locus level:    46.2     |    58.2    |
+
+     Matching intron chains:   14727
+       Matching transcripts:   18178
+              Matching loci:   18022
+
+          Missed exons:   77390/248041	( 31.2%)
+           Novel exons:    8455/148644	(  5.7%)
+        Missed introns:   58511/182543	( 32.1%)
+         Novel introns:    3621/117391	(  3.1%)
+           Missed loci:   12019/39042	( 30.8%)
+            Novel loci:    3284/31253	( 10.5%)
+
+ Total union super-loci across all input datasets: 30173 
+31253 out of 31253 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/L_sativa_tiberius_softmasked.annotated.gtf (0 discarded as redundant)

@@ -1,0 +1,30 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Sbicolor_730_v5.1.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/S_bicolor_tiberius_softmasked /Users/filipr/Desktop/transgenic/standardized_results/S_bicolor_tiberius_softmasked.gff3
+#
+
+#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/S_bicolor_tiberius_softmasked.gff3 
+#     Query mRNAs :   28975 in   28975 loci  (21223 multi-exon transcripts)
+#            (0 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :   44046 in   31749 loci  (36110 multi-exon)
+# Super-loci w/ reference transcripts:    26687
+#-----------------| Sensitivity | Precision  |
+        Base level:    56.9     |    98.1    |
+        Exon level:    51.3     |    67.3    |
+      Intron level:    78.8     |    96.3    |
+Intron chain level:    41.1     |    70.0    |
+  Transcript level:    36.7     |    55.7    |
+       Locus level:    50.5     |    55.7    |
+
+     Matching intron chains:   14854
+       Matching transcripts:   16143
+              Matching loci:   16018
+
+          Missed exons:   31095/181712	( 17.1%)
+           Novel exons:    3687/137865	(  2.7%)
+        Missed introns:   22815/133004	( 17.2%)
+         Novel introns:    1214/108890	(  1.1%)
+           Missed loci:    5036/31749	( 15.9%)
+            Novel loci:     808/28975	(  2.8%)
+
+ Total union super-loci across all input datasets: 27495 
+28975 out of 28975 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/S_bicolor_tiberius_softmasked.annotated.gtf (0 discarded as redundant)

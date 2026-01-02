@@ -1,0 +1,30 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Slycopersicum_796_ITAG5.0.gene.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/S_lycopersicum_helixer /Users/filipr/Desktop/transgenic/standardized_results/S_lycopersicum_helixer.gff3
+#
+
+#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/S_lycopersicum_helixer.gff3 
+#     Query mRNAs :   37880 in   37880 loci  (27335 multi-exon transcripts)
+#            (0 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :   43706 in   36851 loci  (38357 multi-exon)
+# Super-loci w/ reference transcripts:    23644
+#-----------------| Sensitivity | Precision  |
+        Base level:    77.4     |    70.3    |
+        Exon level:    48.8     |    52.5    |
+      Intron level:    61.0     |    66.1    |
+Intron chain level:    18.3     |    25.7    |
+  Transcript level:    18.3     |    21.1    |
+       Locus level:    21.7     |    21.1    |
+
+     Matching intron chains:    7030
+       Matching transcripts:    7986
+              Matching loci:    7981
+
+          Missed exons:   50107/202477	( 24.7%)
+           Novel exons:   42367/188119	( 22.5%)
+        Missed introns:   37246/162888	( 22.9%)
+         Novel introns:   18461/150239	( 12.3%)
+           Missed loci:   12642/36851	( 34.3%)
+            Novel loci:   10153/37880	( 26.8%)
+
+ Total union super-loci across all input datasets: 33797 
+37880 out of 37880 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/S_lycopersicum_helixer.annotated.gtf (0 discarded as redundant)

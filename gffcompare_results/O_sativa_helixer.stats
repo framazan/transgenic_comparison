@@ -1,0 +1,30 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Osativa_323_v7.0.gene_exons.exon.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/O_sativa_helixer /Users/filipr/Desktop/transgenic/standardized_results/O_sativa_helixer.gff3
+#
+
+#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/O_sativa_helixer.gff3 
+#     Query mRNAs :   36806 in   36806 loci  (30626 multi-exon transcripts)
+#            (0 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :   52367 in   42097 loci  (42051 multi-exon)
+# Super-loci w/ reference transcripts:    31186
+#-----------------| Sensitivity | Precision  |
+        Base level:    80.1     |    79.8    |
+        Exon level:    57.9     |    58.4    |
+      Intron level:    72.0     |    67.8    |
+Intron chain level:    27.1     |    37.2    |
+  Transcript level:    27.7     |    39.4    |
+       Locus level:    34.5     |    39.4    |
+
+     Matching intron chains:   11384
+       Matching transcripts:   14513
+              Matching loci:   14513
+
+          Missed exons:   32045/202034	( 15.9%)
+           Novel exons:   37546/198023	( 19.0%)
+        Missed introns:   19834/151843	( 13.1%)
+         Novel introns:   26917/161217	( 16.7%)
+           Missed loci:   10152/42097	( 24.1%)
+            Novel loci:    3759/36806	( 10.2%)
+
+ Total union super-loci across all input datasets: 34945 
+36806 out of 36806 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/O_sativa_helixer.annotated.gtf (0 discarded as redundant)

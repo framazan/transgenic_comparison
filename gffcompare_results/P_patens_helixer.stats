@@ -1,0 +1,30 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Ppatens_318_v3.3.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/P_patens_helixer /Users/filipr/Desktop/transgenic/standardized_results/P_patens_helixer.gff3
+#
+
+#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/P_patens_helixer.gff3 
+#     Query mRNAs :   21304 in   21304 loci  (19361 multi-exon transcripts)
+#            (0 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :   79252 in   31468 loci  (68510 multi-exon)
+# Super-loci w/ reference transcripts:    19315
+#-----------------| Sensitivity | Precision  |
+        Base level:    69.6     |    90.0    |
+        Exon level:    44.7     |    63.2    |
+      Intron level:    60.3     |    70.1    |
+Intron chain level:     7.9     |    27.9    |
+  Transcript level:     8.0     |    29.9    |
+       Locus level:    20.2     |    29.9    |
+
+     Matching intron chains:    5405
+       Matching transcripts:    6372
+              Matching loci:    6349
+
+          Missed exons:   39888/238653	( 16.7%)
+           Novel exons:   14551/159739	(  9.1%)
+        Missed introns:   26419/160757	( 16.4%)
+         Novel introns:    8090/138435	(  5.8%)
+           Missed loci:   11405/31468	( 36.2%)
+            Novel loci:     337/21304	(  1.6%)
+
+ Total union super-loci across all input datasets: 19652 
+21304 out of 21304 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/P_patens_helixer.annotated.gtf (0 discarded as redundant)
