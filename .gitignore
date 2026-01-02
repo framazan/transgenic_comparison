@@ -1,0 +1,12 @@
+*.log
+*.faa
+*.out
+.DS_Store
+*.hmm
+*.prfl
+busco_downloads/lineages/viridiplantae_odb10
+# Ignore large genome files (>2GB) and their indices
+genomes/*.fa
+genomes/*.fai
+genomes/softmasked/*.fa
+genomes/softmasked/*.fai

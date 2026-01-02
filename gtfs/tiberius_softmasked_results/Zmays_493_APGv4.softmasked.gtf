@@ -1,0 +1,2318 @@
+1	Tiberius	gene	948619	951492	.	+	.	g1
+1	Tiberius	transcript	948619	951492	.	+	.	g1.t1
+1	Tiberius	CDS	948619	950616	.	+	0	transcript_id "g1.t1"; gene_id "g1"; cds_type=initial;
+1	Tiberius	exon	948619	950616	.	+	0	transcript_id "g1.t1"; gene_id "g1"; cds_type=initial;
+1	Tiberius	intron	950617	950692	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+1	Tiberius	CDS	950693	951391	.	+	0	transcript_id "g1.t1"; gene_id "g1"; cds_type=internal;
+1	Tiberius	exon	950693	951391	.	+	0	transcript_id "g1.t1"; gene_id "g1"; cds_type=internal;
+1	Tiberius	intron	951392	951465	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+1	Tiberius	CDS	951466	951492	.	+	0	transcript_id "g1.t1"; gene_id "g1"; cds_type=terminal;
+1	Tiberius	exon	951466	951492	.	+	0	transcript_id "g1.t1"; gene_id "g1"; cds_type=terminal;
+1	Tiberius	gene	26494255	26495769	.	-	.	g2
+1	Tiberius	transcript	26494255	26495769	.	-	.	g2.t1
+1	Tiberius	CDS	26494255	26495769	.	-	0	transcript_id "g2.t1"; gene_id "g2"; cds_type=single;
+1	Tiberius	exon	26494255	26495769	.	-	0	transcript_id "g2.t1"; gene_id "g2"; cds_type=single;
+1	Tiberius	gene	43497032	43497484	.	-	.	g3
+1	Tiberius	transcript	43497032	43497484	.	-	.	g3.t1
+1	Tiberius	CDS	43497032	43497484	.	-	0	transcript_id "g3.t1"; gene_id "g3"; cds_type=single;
+1	Tiberius	exon	43497032	43497484	.	-	0	transcript_id "g3.t1"; gene_id "g3"; cds_type=single;
+1	Tiberius	gene	60283736	60283978	.	+	.	g4
+1	Tiberius	transcript	60283736	60283978	.	+	.	g4.t1
+1	Tiberius	CDS	60283736	60283978	.	+	0	transcript_id "g4.t1"; gene_id "g4"; cds_type=single;
+1	Tiberius	exon	60283736	60283978	.	+	0	transcript_id "g4.t1"; gene_id "g4"; cds_type=single;
+1	Tiberius	gene	68006287	68006697	.	-	.	g5
+1	Tiberius	transcript	68006287	68006697	.	-	.	g5.t1
+1	Tiberius	CDS	68006287	68006697	.	-	0	transcript_id "g5.t1"; gene_id "g5"; cds_type=single;
+1	Tiberius	exon	68006287	68006697	.	-	0	transcript_id "g5.t1"; gene_id "g5"; cds_type=single;
+1	Tiberius	gene	102437653	102437982	.	+	.	g6
+1	Tiberius	transcript	102437653	102437982	.	+	.	g6.t1
+1	Tiberius	CDS	102437653	102437982	.	+	0	transcript_id "g6.t1"; gene_id "g6"; cds_type=single;
+1	Tiberius	exon	102437653	102437982	.	+	0	transcript_id "g6.t1"; gene_id "g6"; cds_type=single;
+1	Tiberius	gene	105762318	105763471	.	-	.	g7
+1	Tiberius	transcript	105762318	105763471	.	-	.	g7.t1
+1	Tiberius	CDS	105762318	105763121	.	-	0	transcript_id "g7.t1"; gene_id "g7"; cds_type=terminal;
+1	Tiberius	exon	105762318	105763121	.	-	0	transcript_id "g7.t1"; gene_id "g7"; cds_type=terminal;
+1	Tiberius	intron	105763122	105763204	.	-	0	transcript_id "g7.t1"; gene_id "g7";
+1	Tiberius	CDS	105763205	105763471	.	-	0	transcript_id "g7.t1"; gene_id "g7"; cds_type=initial;
+1	Tiberius	exon	105763205	105763471	.	-	0	transcript_id "g7.t1"; gene_id "g7"; cds_type=initial;
+1	Tiberius	gene	106999159	107000070	.	-	.	g8
+1	Tiberius	transcript	106999159	107000070	.	-	.	g8.t1
+1	Tiberius	CDS	106999159	107000070	.	-	0	transcript_id "g8.t1"; gene_id "g8"; cds_type=single;
+1	Tiberius	exon	106999159	107000070	.	-	0	transcript_id "g8.t1"; gene_id "g8"; cds_type=single;
+1	Tiberius	gene	107506525	107508556	.	+	.	g9
+1	Tiberius	transcript	107506525	107508556	.	+	.	g9.t1
+1	Tiberius	CDS	107506525	107508552	.	+	0	transcript_id "g9.t1"; gene_id "g9"; cds_type=initial;
+1	Tiberius	exon	107506525	107508552	.	+	0	transcript_id "g9.t1"; gene_id "g9"; cds_type=initial;
+1	Tiberius	intron	107508553	107508553	.	+	0	transcript_id "g9.t1"; gene_id "g9";
+1	Tiberius	CDS	107508554	107508556	.	+	0	transcript_id "g9.t1"; gene_id "g9"; cds_type=terminal;
+1	Tiberius	exon	107508554	107508556	.	+	0	transcript_id "g9.t1"; gene_id "g9"; cds_type=terminal;
+1	Tiberius	gene	119505339	119507165	.	-	.	g10
+1	Tiberius	transcript	119505339	119507165	.	-	.	g10.t1
+1	Tiberius	CDS	119505339	119505342	.	-	1	transcript_id "g10.t1"; gene_id "g10"; cds_type=terminal;
+1	Tiberius	exon	119505339	119505342	.	-	1	transcript_id "g10.t1"; gene_id "g10"; cds_type=terminal;
+1	Tiberius	intron	119505343	119505343	.	-	2	transcript_id "g10.t1"; gene_id "g10";
+1	Tiberius	CDS	119505344	119506131	.	-	0	transcript_id "g10.t1"; gene_id "g10"; cds_type=internal;
+1	Tiberius	exon	119505344	119506131	.	-	0	transcript_id "g10.t1"; gene_id "g10"; cds_type=internal;
+1	Tiberius	intron	119506132	119506214	.	-	0	transcript_id "g10.t1"; gene_id "g10";
+1	Tiberius	CDS	119506215	119507165	.	-	0	transcript_id "g10.t1"; gene_id "g10"; cds_type=initial;
+1	Tiberius	exon	119506215	119507165	.	-	0	transcript_id "g10.t1"; gene_id "g10"; cds_type=initial;
+1	Tiberius	gene	121983626	121986487	.	+	.	g11
+1	Tiberius	transcript	121983626	121986487	.	+	.	g11.t1
+1	Tiberius	CDS	121983626	121986487	.	+	0	transcript_id "g11.t1"; gene_id "g11"; cds_type=single;
+1	Tiberius	exon	121983626	121986487	.	+	0	transcript_id "g11.t1"; gene_id "g11"; cds_type=single;
+1	Tiberius	gene	126494833	126495513	.	+	.	g12
+1	Tiberius	transcript	126494833	126495513	.	+	.	g12.t1
+1	Tiberius	CDS	126494833	126495513	.	+	0	transcript_id "g12.t1"; gene_id "g12"; cds_type=single;
+1	Tiberius	exon	126494833	126495513	.	+	0	transcript_id "g12.t1"; gene_id "g12"; cds_type=single;
+1	Tiberius	gene	147413591	147414154	.	+	.	g13
+1	Tiberius	transcript	147413591	147414154	.	+	.	g13.t1
+1	Tiberius	CDS	147413591	147414154	.	+	0	transcript_id "g13.t1"; gene_id "g13"; cds_type=single;
+1	Tiberius	exon	147413591	147414154	.	+	0	transcript_id "g13.t1"; gene_id "g13"; cds_type=single;
+1	Tiberius	gene	150526196	150527713	.	-	.	g14
+1	Tiberius	transcript	150526196	150527713	.	-	.	g14.t1
+1	Tiberius	CDS	150526196	150527713	.	-	0	transcript_id "g14.t1"; gene_id "g14"; cds_type=single;
+1	Tiberius	exon	150526196	150527713	.	-	0	transcript_id "g14.t1"; gene_id "g14"; cds_type=single;
+1	Tiberius	gene	150968331	150968978	.	-	.	g15
+1	Tiberius	transcript	150968331	150968978	.	-	.	g15.t1
+1	Tiberius	CDS	150968331	150968978	.	-	0	transcript_id "g15.t1"; gene_id "g15"; cds_type=single;
+1	Tiberius	exon	150968331	150968978	.	-	0	transcript_id "g15.t1"; gene_id "g15"; cds_type=single;
+1	Tiberius	gene	150996096	150996557	.	-	.	g16
+1	Tiberius	transcript	150996096	150996557	.	-	.	g16.t1
+1	Tiberius	CDS	150996096	150996557	.	-	0	transcript_id "g16.t1"; gene_id "g16"; cds_type=single;
+1	Tiberius	exon	150996096	150996557	.	-	0	transcript_id "g16.t1"; gene_id "g16"; cds_type=single;
+1	Tiberius	gene	156156363	156156882	.	-	.	g17
+1	Tiberius	transcript	156156363	156156882	.	-	.	g17.t1
+1	Tiberius	CDS	156156363	156156874	.	-	2	transcript_id "g17.t1"; gene_id "g17"; cds_type=terminal;
+1	Tiberius	exon	156156363	156156874	.	-	2	transcript_id "g17.t1"; gene_id "g17"; cds_type=terminal;
+1	Tiberius	intron	156156875	156156878	.	-	1	transcript_id "g17.t1"; gene_id "g17";
+1	Tiberius	CDS	156156879	156156882	.	-	0	transcript_id "g17.t1"; gene_id "g17"; cds_type=initial;
+1	Tiberius	exon	156156879	156156882	.	-	0	transcript_id "g17.t1"; gene_id "g17"; cds_type=initial;
+1	Tiberius	gene	157458270	157458743	.	-	.	g18
+1	Tiberius	transcript	157458270	157458743	.	-	.	g18.t1
+1	Tiberius	CDS	157458270	157458743	.	-	0	transcript_id "g18.t1"; gene_id "g18"; cds_type=single;
+1	Tiberius	exon	157458270	157458743	.	-	0	transcript_id "g18.t1"; gene_id "g18"; cds_type=single;
+1	Tiberius	gene	158583037	158584008	.	+	.	g19
+1	Tiberius	transcript	158583037	158584008	.	+	.	g19.t1
+1	Tiberius	CDS	158583037	158584008	.	+	0	transcript_id "g19.t1"; gene_id "g19"; cds_type=single;
+1	Tiberius	exon	158583037	158584008	.	+	0	transcript_id "g19.t1"; gene_id "g19"; cds_type=single;
+1	Tiberius	gene	167950507	167951623	.	+	.	g20
+1	Tiberius	transcript	167950507	167951623	.	+	.	g20.t1
+1	Tiberius	CDS	167950507	167951619	.	+	0	transcript_id "g20.t1"; gene_id "g20"; cds_type=initial;
+1	Tiberius	exon	167950507	167951619	.	+	0	transcript_id "g20.t1"; gene_id "g20"; cds_type=initial;
+1	Tiberius	intron	167951620	167951620	.	+	0	transcript_id "g20.t1"; gene_id "g20";
+1	Tiberius	CDS	167951621	167951623	.	+	0	transcript_id "g20.t1"; gene_id "g20"; cds_type=terminal;
+1	Tiberius	exon	167951621	167951623	.	+	0	transcript_id "g20.t1"; gene_id "g20"; cds_type=terminal;
+1	Tiberius	gene	193042535	193044225	.	+	.	g21
+1	Tiberius	transcript	193042535	193044225	.	+	.	g21.t1
+1	Tiberius	CDS	193042535	193044212	.	+	0	transcript_id "g21.t1"; gene_id "g21"; cds_type=initial;
+1	Tiberius	exon	193042535	193044212	.	+	0	transcript_id "g21.t1"; gene_id "g21"; cds_type=initial;
+1	Tiberius	intron	193044213	193044217	.	+	2	transcript_id "g21.t1"; gene_id "g21";
+1	Tiberius	CDS	193044218	193044225	.	+	2	transcript_id "g21.t1"; gene_id "g21"; cds_type=terminal;
+1	Tiberius	exon	193044218	193044225	.	+	2	transcript_id "g21.t1"; gene_id "g21"; cds_type=terminal;
+1	Tiberius	gene	193200041	193200682	.	-	.	g22
+1	Tiberius	transcript	193200041	193200682	.	-	.	g22.t1
+1	Tiberius	CDS	193200041	193200682	.	-	0	transcript_id "g22.t1"; gene_id "g22"; cds_type=single;
+1	Tiberius	exon	193200041	193200682	.	-	0	transcript_id "g22.t1"; gene_id "g22"; cds_type=single;
+1	Tiberius	gene	194997665	194997924	.	+	.	g23
+1	Tiberius	transcript	194997665	194997924	.	+	.	g23.t1
+1	Tiberius	CDS	194997665	194997915	.	+	0	transcript_id "g23.t1"; gene_id "g23"; cds_type=initial;
+1	Tiberius	exon	194997665	194997915	.	+	0	transcript_id "g23.t1"; gene_id "g23"; cds_type=initial;
+1	Tiberius	intron	194997916	194997916	.	+	1	transcript_id "g23.t1"; gene_id "g23";
+1	Tiberius	CDS	194997917	194997920	.	+	1	transcript_id "g23.t1"; gene_id "g23"; cds_type=internal;
+1	Tiberius	exon	194997917	194997920	.	+	1	transcript_id "g23.t1"; gene_id "g23"; cds_type=internal;
+1	Tiberius	intron	194997921	194997921	.	+	0	transcript_id "g23.t1"; gene_id "g23";
+1	Tiberius	CDS	194997922	194997924	.	+	0	transcript_id "g23.t1"; gene_id "g23"; cds_type=terminal;
+1	Tiberius	exon	194997922	194997924	.	+	0	transcript_id "g23.t1"; gene_id "g23"; cds_type=terminal;
+1	Tiberius	gene	202502771	202503948	.	-	.	g24
+1	Tiberius	transcript	202502771	202503948	.	-	.	g24.t1
+1	Tiberius	CDS	202502771	202502774	.	-	1	transcript_id "g24.t1"; gene_id "g24"; cds_type=terminal;
+1	Tiberius	exon	202502771	202502774	.	-	1	transcript_id "g24.t1"; gene_id "g24"; cds_type=terminal;
+1	Tiberius	intron	202502775	202502782	.	-	2	transcript_id "g24.t1"; gene_id "g24";
+1	Tiberius	CDS	202502783	202503948	.	-	0	transcript_id "g24.t1"; gene_id "g24"; cds_type=initial;
+1	Tiberius	exon	202502783	202503948	.	-	0	transcript_id "g24.t1"; gene_id "g24"; cds_type=initial;
+1	Tiberius	gene	204845200	204846169	.	-	.	g25
+1	Tiberius	transcript	204845200	204846169	.	-	.	g25.t1
+1	Tiberius	CDS	204845200	204845333	.	-	2	transcript_id "g25.t1"; gene_id "g25"; cds_type=terminal;
+1	Tiberius	exon	204845200	204845333	.	-	2	transcript_id "g25.t1"; gene_id "g25"; cds_type=terminal;
+1	Tiberius	intron	204845334	204845429	.	-	1	transcript_id "g25.t1"; gene_id "g25";
+1	Tiberius	CDS	204845430	204846158	.	-	2	transcript_id "g25.t1"; gene_id "g25"; cds_type=internal;
+1	Tiberius	exon	204845430	204846158	.	-	2	transcript_id "g25.t1"; gene_id "g25"; cds_type=internal;
+1	Tiberius	intron	204846159	204846159	.	-	1	transcript_id "g25.t1"; gene_id "g25";
+1	Tiberius	CDS	204846160	204846169	.	-	0	transcript_id "g25.t1"; gene_id "g25"; cds_type=initial;
+1	Tiberius	exon	204846160	204846169	.	-	0	transcript_id "g25.t1"; gene_id "g25"; cds_type=initial;
+1	Tiberius	gene	206781481	206781977	.	+	.	g26
+1	Tiberius	transcript	206781481	206781977	.	+	.	g26.t1
+1	Tiberius	CDS	206781481	206781967	.	+	0	transcript_id "g26.t1"; gene_id "g26"; cds_type=initial;
+1	Tiberius	exon	206781481	206781967	.	+	0	transcript_id "g26.t1"; gene_id "g26"; cds_type=initial;
+1	Tiberius	intron	206781968	206781972	.	+	2	transcript_id "g26.t1"; gene_id "g26";
+1	Tiberius	CDS	206781973	206781977	.	+	2	transcript_id "g26.t1"; gene_id "g26"; cds_type=terminal;
+1	Tiberius	exon	206781973	206781977	.	+	2	transcript_id "g26.t1"; gene_id "g26"; cds_type=terminal;
+1	Tiberius	gene	212485673	212485878	.	+	.	g27
+1	Tiberius	transcript	212485673	212485878	.	+	.	g27.t1
+1	Tiberius	CDS	212485673	212485868	.	+	0	transcript_id "g27.t1"; gene_id "g27"; cds_type=initial;
+1	Tiberius	exon	212485673	212485868	.	+	0	transcript_id "g27.t1"; gene_id "g27"; cds_type=initial;
+1	Tiberius	intron	212485869	212485873	.	+	2	transcript_id "g27.t1"; gene_id "g27";
+1	Tiberius	CDS	212485874	212485878	.	+	2	transcript_id "g27.t1"; gene_id "g27"; cds_type=terminal;
+1	Tiberius	exon	212485874	212485878	.	+	2	transcript_id "g27.t1"; gene_id "g27"; cds_type=terminal;
+1	Tiberius	gene	212969564	212969960	.	-	.	g28
+1	Tiberius	transcript	212969564	212969960	.	-	.	g28.t1
+1	Tiberius	CDS	212969564	212969567	.	-	1	transcript_id "g28.t1"; gene_id "g28"; cds_type=terminal;
+1	Tiberius	exon	212969564	212969567	.	-	1	transcript_id "g28.t1"; gene_id "g28"; cds_type=terminal;
+1	Tiberius	intron	212969568	212969568	.	-	2	transcript_id "g28.t1"; gene_id "g28";
+1	Tiberius	CDS	212969569	212969960	.	-	0	transcript_id "g28.t1"; gene_id "g28"; cds_type=initial;
+1	Tiberius	exon	212969569	212969960	.	-	0	transcript_id "g28.t1"; gene_id "g28"; cds_type=initial;
+1	Tiberius	gene	212979345	212979605	.	-	.	g29
+1	Tiberius	transcript	212979345	212979605	.	-	.	g29.t1
+1	Tiberius	CDS	212979345	212979605	.	-	0	transcript_id "g29.t1"; gene_id "g29"; cds_type=single;
+1	Tiberius	exon	212979345	212979605	.	-	0	transcript_id "g29.t1"; gene_id "g29"; cds_type=single;
+1	Tiberius	gene	212985630	212988878	.	+	.	g30
+1	Tiberius	transcript	212985630	212988878	.	+	.	g30.t1
+1	Tiberius	CDS	212985630	212988878	.	+	0	transcript_id "g30.t1"; gene_id "g30"; cds_type=single;
+1	Tiberius	exon	212985630	212988878	.	+	0	transcript_id "g30.t1"; gene_id "g30"; cds_type=single;
+1	Tiberius	gene	231996011	231996357	.	+	.	g31
+1	Tiberius	transcript	231996011	231996357	.	+	.	g31.t1
+1	Tiberius	CDS	231996011	231996348	.	+	0	transcript_id "g31.t1"; gene_id "g31"; cds_type=initial;
+1	Tiberius	exon	231996011	231996348	.	+	0	transcript_id "g31.t1"; gene_id "g31"; cds_type=initial;
+1	Tiberius	intron	231996349	231996349	.	+	1	transcript_id "g31.t1"; gene_id "g31";
+1	Tiberius	CDS	231996350	231996353	.	+	1	transcript_id "g31.t1"; gene_id "g31"; cds_type=internal;
+1	Tiberius	exon	231996350	231996353	.	+	1	transcript_id "g31.t1"; gene_id "g31"; cds_type=internal;
+1	Tiberius	intron	231996354	231996354	.	+	0	transcript_id "g31.t1"; gene_id "g31";
+1	Tiberius	CDS	231996355	231996357	.	+	0	transcript_id "g31.t1"; gene_id "g31"; cds_type=terminal;
+1	Tiberius	exon	231996355	231996357	.	+	0	transcript_id "g31.t1"; gene_id "g31"; cds_type=terminal;
+1	Tiberius	gene	231996794	231997910	.	+	.	g32
+1	Tiberius	transcript	231996794	231997910	.	+	.	g32.t1
+1	Tiberius	CDS	231996794	231997905	.	+	0	transcript_id "g32.t1"; gene_id "g32"; cds_type=initial;
+1	Tiberius	exon	231996794	231997905	.	+	0	transcript_id "g32.t1"; gene_id "g32"; cds_type=initial;
+1	Tiberius	intron	231997906	231997906	.	+	1	transcript_id "g32.t1"; gene_id "g32";
+1	Tiberius	CDS	231997907	231997910	.	+	1	transcript_id "g32.t1"; gene_id "g32"; cds_type=terminal;
+1	Tiberius	exon	231997907	231997910	.	+	1	transcript_id "g32.t1"; gene_id "g32"; cds_type=terminal;
+1	Tiberius	gene	242508160	242508770	.	+	.	g33
+1	Tiberius	transcript	242508160	242508770	.	+	.	g33.t1
+1	Tiberius	CDS	242508160	242508755	.	+	0	transcript_id "g33.t1"; gene_id "g33"; cds_type=initial;
+1	Tiberius	exon	242508160	242508755	.	+	0	transcript_id "g33.t1"; gene_id "g33"; cds_type=initial;
+1	Tiberius	intron	242508756	242508766	.	+	1	transcript_id "g33.t1"; gene_id "g33";
+1	Tiberius	CDS	242508767	242508770	.	+	1	transcript_id "g33.t1"; gene_id "g33"; cds_type=terminal;
+1	Tiberius	exon	242508767	242508770	.	+	1	transcript_id "g33.t1"; gene_id "g33"; cds_type=terminal;
+1	Tiberius	gene	242508853	242509221	.	+	.	g34
+1	Tiberius	transcript	242508853	242509221	.	+	.	g34.t1
+1	Tiberius	CDS	242508853	242509221	.	+	0	transcript_id "g34.t1"; gene_id "g34"; cds_type=single;
+1	Tiberius	exon	242508853	242509221	.	+	0	transcript_id "g34.t1"; gene_id "g34"; cds_type=single;
+1	Tiberius	gene	242509420	242509954	.	+	.	g35
+1	Tiberius	transcript	242509420	242509954	.	+	.	g35.t1
+1	Tiberius	CDS	242509420	242509423	.	+	0	transcript_id "g35.t1"; gene_id "g35"; cds_type=initial;
+1	Tiberius	exon	242509420	242509423	.	+	0	transcript_id "g35.t1"; gene_id "g35"; cds_type=initial;
+1	Tiberius	intron	242509424	242509441	.	+	2	transcript_id "g35.t1"; gene_id "g35";
+1	Tiberius	CDS	242509442	242509948	.	+	2	transcript_id "g35.t1"; gene_id "g35"; cds_type=internal;
+1	Tiberius	exon	242509442	242509948	.	+	2	transcript_id "g35.t1"; gene_id "g35"; cds_type=internal;
+1	Tiberius	intron	242509949	242509949	.	+	2	transcript_id "g35.t1"; gene_id "g35";
+1	Tiberius	CDS	242509950	242509954	.	+	2	transcript_id "g35.t1"; gene_id "g35"; cds_type=terminal;
+1	Tiberius	exon	242509950	242509954	.	+	2	transcript_id "g35.t1"; gene_id "g35"; cds_type=terminal;
+1	Tiberius	gene	242510017	242510271	.	+	.	g36
+1	Tiberius	transcript	242510017	242510271	.	+	.	g36.t1
+1	Tiberius	CDS	242510017	242510271	.	+	0	transcript_id "g36.t1"; gene_id "g36"; cds_type=single;
+1	Tiberius	exon	242510017	242510271	.	+	0	transcript_id "g36.t1"; gene_id "g36"; cds_type=single;
+1	Tiberius	gene	242572169	242573349	.	+	.	g37
+1	Tiberius	transcript	242572169	242573349	.	+	.	g37.t1
+1	Tiberius	CDS	242572169	242573313	.	+	0	transcript_id "g37.t1"; gene_id "g37"; cds_type=initial;
+1	Tiberius	exon	242572169	242573313	.	+	0	transcript_id "g37.t1"; gene_id "g37"; cds_type=initial;
+1	Tiberius	intron	242573314	242573314	.	+	1	transcript_id "g37.t1"; gene_id "g37";
+1	Tiberius	CDS	242573315	242573319	.	+	1	transcript_id "g37.t1"; gene_id "g37"; cds_type=internal;
+1	Tiberius	exon	242573315	242573319	.	+	1	transcript_id "g37.t1"; gene_id "g37"; cds_type=internal;
+1	Tiberius	intron	242573320	242573332	.	+	2	transcript_id "g37.t1"; gene_id "g37";
+1	Tiberius	CDS	242573333	242573349	.	+	2	transcript_id "g37.t1"; gene_id "g37"; cds_type=terminal;
+1	Tiberius	exon	242573333	242573349	.	+	2	transcript_id "g37.t1"; gene_id "g37"; cds_type=terminal;
+1	Tiberius	gene	252266795	252268336	.	+	.	g38
+1	Tiberius	transcript	252266795	252268336	.	+	.	g38.t1
+1	Tiberius	CDS	252266795	252268336	.	+	0	transcript_id "g38.t1"; gene_id "g38"; cds_type=single;
+1	Tiberius	exon	252266795	252268336	.	+	0	transcript_id "g38.t1"; gene_id "g38"; cds_type=single;
+1	Tiberius	gene	268929481	268929879	.	-	.	g39
+1	Tiberius	transcript	268929481	268929879	.	-	.	g39.t1
+1	Tiberius	CDS	268929481	268929879	.	-	0	transcript_id "g39.t1"; gene_id "g39"; cds_type=single;
+1	Tiberius	exon	268929481	268929879	.	-	0	transcript_id "g39.t1"; gene_id "g39"; cds_type=single;
+1	Tiberius	gene	268930185	268931043	.	-	.	g40
+1	Tiberius	transcript	268930185	268931043	.	-	.	g40.t1
+1	Tiberius	CDS	268930185	268930187	.	-	0	transcript_id "g40.t1"; gene_id "g40"; cds_type=terminal;
+1	Tiberius	exon	268930185	268930187	.	-	0	transcript_id "g40.t1"; gene_id "g40"; cds_type=terminal;
+1	Tiberius	intron	268930188	268930188	.	-	0	transcript_id "g40.t1"; gene_id "g40";
+1	Tiberius	CDS	268930189	268931043	.	-	0	transcript_id "g40.t1"; gene_id "g40"; cds_type=initial;
+1	Tiberius	exon	268930189	268931043	.	-	0	transcript_id "g40.t1"; gene_id "g40"; cds_type=initial;
+1	Tiberius	gene	268933838	268934057	.	-	.	g41
+1	Tiberius	transcript	268933838	268934057	.	-	.	g41.t1
+1	Tiberius	CDS	268933838	268933844	.	-	1	transcript_id "g41.t1"; gene_id "g41"; cds_type=terminal;
+1	Tiberius	exon	268933838	268933844	.	-	1	transcript_id "g41.t1"; gene_id "g41"; cds_type=terminal;
+1	Tiberius	intron	268933845	268933851	.	-	2	transcript_id "g41.t1"; gene_id "g41";
+1	Tiberius	CDS	268933852	268934057	.	-	0	transcript_id "g41.t1"; gene_id "g41"; cds_type=initial;
+1	Tiberius	exon	268933852	268934057	.	-	0	transcript_id "g41.t1"; gene_id "g41"; cds_type=initial;
+1	Tiberius	gene	271020803	271021702	.	+	.	g42
+1	Tiberius	transcript	271020803	271021702	.	+	.	g42.t1
+1	Tiberius	CDS	271020803	271021702	.	+	0	transcript_id "g42.t1"; gene_id "g42"; cds_type=single;
+1	Tiberius	exon	271020803	271021702	.	+	0	transcript_id "g42.t1"; gene_id "g42"; cds_type=single;
+1	Tiberius	gene	274500525	274501128	.	-	.	g43
+1	Tiberius	transcript	274500525	274501128	.	-	.	g43.t1
+1	Tiberius	CDS	274500525	274500528	.	-	1	transcript_id "g43.t1"; gene_id "g43"; cds_type=terminal;
+1	Tiberius	exon	274500525	274500528	.	-	1	transcript_id "g43.t1"; gene_id "g43"; cds_type=terminal;
+1	Tiberius	intron	274500529	274500529	.	-	2	transcript_id "g43.t1"; gene_id "g43";
+1	Tiberius	CDS	274500530	274501128	.	-	0	transcript_id "g43.t1"; gene_id "g43"; cds_type=initial;
+1	Tiberius	exon	274500530	274501128	.	-	0	transcript_id "g43.t1"; gene_id "g43"; cds_type=initial;
+1	Tiberius	gene	281866999	281869285	.	+	.	g44
+1	Tiberius	transcript	281866999	281869285	.	+	.	g44.t1
+1	Tiberius	CDS	281866999	281869280	.	+	0	transcript_id "g44.t1"; gene_id "g44"; cds_type=initial;
+1	Tiberius	exon	281866999	281869280	.	+	0	transcript_id "g44.t1"; gene_id "g44"; cds_type=initial;
+1	Tiberius	intron	281869281	281869281	.	+	1	transcript_id "g44.t1"; gene_id "g44";
+1	Tiberius	CDS	281869282	281869285	.	+	1	transcript_id "g44.t1"; gene_id "g44"; cds_type=terminal;
+1	Tiberius	exon	281869282	281869285	.	+	1	transcript_id "g44.t1"; gene_id "g44"; cds_type=terminal;
+1	Tiberius	gene	286518697	286520043	.	+	.	g45
+1	Tiberius	transcript	286518697	286520043	.	+	.	g45.t1
+1	Tiberius	CDS	286518697	286520043	.	+	0	transcript_id "g45.t1"; gene_id "g45"; cds_type=single;
+1	Tiberius	exon	286518697	286520043	.	+	0	transcript_id "g45.t1"; gene_id "g45"; cds_type=single;
+1	Tiberius	gene	290596645	290598156	.	-	.	g46
+1	Tiberius	transcript	290596645	290598156	.	-	.	g46.t1
+1	Tiberius	CDS	290596645	290598156	.	-	0	transcript_id "g46.t1"; gene_id "g46"; cds_type=single;
+1	Tiberius	exon	290596645	290598156	.	-	0	transcript_id "g46.t1"; gene_id "g46"; cds_type=single;
+1	Tiberius	gene	299723117	299723785	.	+	.	g47
+1	Tiberius	transcript	299723117	299723785	.	+	.	g47.t1
+1	Tiberius	CDS	299723117	299723555	.	+	0	transcript_id "g47.t1"; gene_id "g47"; cds_type=initial;
+1	Tiberius	exon	299723117	299723555	.	+	0	transcript_id "g47.t1"; gene_id "g47"; cds_type=initial;
+1	Tiberius	intron	299723556	299723651	.	+	2	transcript_id "g47.t1"; gene_id "g47";
+1	Tiberius	CDS	299723652	299723785	.	+	2	transcript_id "g47.t1"; gene_id "g47"; cds_type=terminal;
+1	Tiberius	exon	299723652	299723785	.	+	2	transcript_id "g47.t1"; gene_id "g47"; cds_type=terminal;
+10	Tiberius	gene	2501840	2502688	.	+	.	g48
+10	Tiberius	transcript	2501840	2502688	.	+	.	g48.t1
+10	Tiberius	CDS	2501840	2502688	.	+	0	transcript_id "g48.t1"; gene_id "g48"; cds_type=single;
+10	Tiberius	exon	2501840	2502688	.	+	0	transcript_id "g48.t1"; gene_id "g48"; cds_type=single;
+10	Tiberius	gene	4574941	4575867	.	+	.	g49
+10	Tiberius	transcript	4574941	4575867	.	+	.	g49.t1
+10	Tiberius	CDS	4574941	4575867	.	+	0	transcript_id "g49.t1"; gene_id "g49"; cds_type=single;
+10	Tiberius	exon	4574941	4575867	.	+	0	transcript_id "g49.t1"; gene_id "g49"; cds_type=single;
+10	Tiberius	gene	7005374	7007761	.	+	.	g50
+10	Tiberius	transcript	7005374	7007761	.	+	.	g50.t1
+10	Tiberius	CDS	7005374	7007761	.	+	0	transcript_id "g50.t1"; gene_id "g50"; cds_type=single;
+10	Tiberius	exon	7005374	7007761	.	+	0	transcript_id "g50.t1"; gene_id "g50"; cds_type=single;
+10	Tiberius	gene	7970845	7972850	.	+	.	g51
+10	Tiberius	transcript	7970845	7972850	.	+	.	g51.t1
+10	Tiberius	CDS	7970845	7971963	.	+	0	transcript_id "g51.t1"; gene_id "g51"; cds_type=initial;
+10	Tiberius	exon	7970845	7971963	.	+	0	transcript_id "g51.t1"; gene_id "g51"; cds_type=initial;
+10	Tiberius	intron	7971964	7972046	.	+	0	transcript_id "g51.t1"; gene_id "g51";
+10	Tiberius	CDS	7972047	7972850	.	+	0	transcript_id "g51.t1"; gene_id "g51"; cds_type=terminal;
+10	Tiberius	exon	7972047	7972850	.	+	0	transcript_id "g51.t1"; gene_id "g51"; cds_type=terminal;
+10	Tiberius	gene	12997090	13000032	.	+	.	g52
+10	Tiberius	transcript	12997090	13000032	.	+	.	g52.t1
+10	Tiberius	CDS	12997090	12999150	.	+	0	transcript_id "g52.t1"; gene_id "g52"; cds_type=initial;
+10	Tiberius	exon	12997090	12999150	.	+	0	transcript_id "g52.t1"; gene_id "g52"; cds_type=initial;
+10	Tiberius	intron	12999151	12999228	.	+	0	transcript_id "g52.t1"; gene_id "g52";
+10	Tiberius	CDS	12999229	13000032	.	+	0	transcript_id "g52.t1"; gene_id "g52"; cds_type=terminal;
+10	Tiberius	exon	12999229	13000032	.	+	0	transcript_id "g52.t1"; gene_id "g52"; cds_type=terminal;
+10	Tiberius	gene	13006046	13009999	.	+	.	g53
+10	Tiberius	transcript	13006046	13009999	.	+	.	g53.t1
+10	Tiberius	CDS	13006046	13009999	.	+	0	transcript_id "g53.t1"; gene_id "g53"; cds_type=single;
+10	Tiberius	exon	13006046	13009999	.	+	0	transcript_id "g53.t1"; gene_id "g53"; cds_type=single;
+10	Tiberius	gene	14537606	14537848	.	-	.	g54
+10	Tiberius	transcript	14537606	14537848	.	-	.	g54.t1
+10	Tiberius	CDS	14537606	14537848	.	-	0	transcript_id "g54.t1"; gene_id "g54"; cds_type=single;
+10	Tiberius	exon	14537606	14537848	.	-	0	transcript_id "g54.t1"; gene_id "g54"; cds_type=single;
+10	Tiberius	gene	15482176	15482851	.	+	.	g55
+10	Tiberius	transcript	15482176	15482851	.	+	.	g55.t1
+10	Tiberius	CDS	15482176	15482847	.	+	0	transcript_id "g55.t1"; gene_id "g55"; cds_type=initial;
+10	Tiberius	exon	15482176	15482847	.	+	0	transcript_id "g55.t1"; gene_id "g55"; cds_type=initial;
+10	Tiberius	intron	15482848	15482848	.	+	0	transcript_id "g55.t1"; gene_id "g55";
+10	Tiberius	CDS	15482849	15482851	.	+	0	transcript_id "g55.t1"; gene_id "g55"; cds_type=terminal;
+10	Tiberius	exon	15482849	15482851	.	+	0	transcript_id "g55.t1"; gene_id "g55"; cds_type=terminal;
+10	Tiberius	gene	17007822	17009042	.	+	.	g56
+10	Tiberius	transcript	17007822	17009042	.	+	.	g56.t1
+10	Tiberius	CDS	17007822	17009042	.	+	0	transcript_id "g56.t1"; gene_id "g56"; cds_type=single;
+10	Tiberius	exon	17007822	17009042	.	+	0	transcript_id "g56.t1"; gene_id "g56"; cds_type=single;
+10	Tiberius	gene	22494502	22495260	.	-	.	g57
+10	Tiberius	transcript	22494502	22495260	.	-	.	g57.t1
+10	Tiberius	CDS	22494502	22495260	.	-	0	transcript_id "g57.t1"; gene_id "g57"; cds_type=single;
+10	Tiberius	exon	22494502	22495260	.	-	0	transcript_id "g57.t1"; gene_id "g57"; cds_type=single;
+10	Tiberius	gene	29005614	29007131	.	+	.	g58
+10	Tiberius	transcript	29005614	29007131	.	+	.	g58.t1
+10	Tiberius	CDS	29005614	29007131	.	+	0	transcript_id "g58.t1"; gene_id "g58"; cds_type=single;
+10	Tiberius	exon	29005614	29007131	.	+	0	transcript_id "g58.t1"; gene_id "g58"; cds_type=single;
+10	Tiberius	gene	33933424	33934437	.	+	.	g59
+10	Tiberius	transcript	33933424	33934437	.	+	.	g59.t1
+10	Tiberius	CDS	33933424	33934437	.	+	0	transcript_id "g59.t1"; gene_id "g59"; cds_type=single;
+10	Tiberius	exon	33933424	33934437	.	+	0	transcript_id "g59.t1"; gene_id "g59"; cds_type=single;
+10	Tiberius	gene	34022353	34026315	.	-	.	g60
+10	Tiberius	transcript	34022353	34026315	.	-	.	g60.t1
+10	Tiberius	CDS	34022353	34026315	.	-	0	transcript_id "g60.t1"; gene_id "g60"; cds_type=single;
+10	Tiberius	exon	34022353	34026315	.	-	0	transcript_id "g60.t1"; gene_id "g60"; cds_type=single;
+10	Tiberius	gene	37824964	37825560	.	+	.	g61
+10	Tiberius	transcript	37824964	37825560	.	+	.	g61.t1
+10	Tiberius	CDS	37824964	37825560	.	+	0	transcript_id "g61.t1"; gene_id "g61"; cds_type=single;
+10	Tiberius	exon	37824964	37825560	.	+	0	transcript_id "g61.t1"; gene_id "g61"; cds_type=single;
+10	Tiberius	gene	50000480	50001842	.	+	.	g62
+10	Tiberius	transcript	50000480	50001842	.	+	.	g62.t1
+10	Tiberius	CDS	50000480	50001838	.	+	0	transcript_id "g62.t1"; gene_id "g62"; cds_type=initial;
+10	Tiberius	exon	50000480	50001838	.	+	0	transcript_id "g62.t1"; gene_id "g62"; cds_type=initial;
+10	Tiberius	intron	50001839	50001839	.	+	0	transcript_id "g62.t1"; gene_id "g62";
+10	Tiberius	CDS	50001840	50001842	.	+	0	transcript_id "g62.t1"; gene_id "g62"; cds_type=terminal;
+10	Tiberius	exon	50001840	50001842	.	+	0	transcript_id "g62.t1"; gene_id "g62"; cds_type=terminal;
+10	Tiberius	gene	50008891	50009745	.	-	.	g63
+10	Tiberius	transcript	50008891	50009745	.	-	.	g63.t1
+10	Tiberius	CDS	50008891	50009745	.	-	0	transcript_id "g63.t1"; gene_id "g63"; cds_type=single;
+10	Tiberius	exon	50008891	50009745	.	-	0	transcript_id "g63.t1"; gene_id "g63"; cds_type=single;
+10	Tiberius	gene	50027020	50028396	.	+	.	g64
+10	Tiberius	transcript	50027020	50028396	.	+	.	g64.t1
+10	Tiberius	CDS	50027020	50028396	.	+	0	transcript_id "g64.t1"; gene_id "g64"; cds_type=single;
+10	Tiberius	exon	50027020	50028396	.	+	0	transcript_id "g64.t1"; gene_id "g64"; cds_type=single;
+10	Tiberius	gene	57490322	57490546	.	-	.	g65
+10	Tiberius	transcript	57490322	57490546	.	-	.	g65.t1
+10	Tiberius	CDS	57490322	57490546	.	-	0	transcript_id "g65.t1"; gene_id "g65"; cds_type=single;
+10	Tiberius	exon	57490322	57490546	.	-	0	transcript_id "g65.t1"; gene_id "g65"; cds_type=single;
+10	Tiberius	gene	64462044	64463561	.	+	.	g66
+10	Tiberius	transcript	64462044	64463561	.	+	.	g66.t1
+10	Tiberius	CDS	64462044	64463561	.	+	0	transcript_id "g66.t1"; gene_id "g66"; cds_type=single;
+10	Tiberius	exon	64462044	64463561	.	+	0	transcript_id "g66.t1"; gene_id "g66"; cds_type=single;
+10	Tiberius	gene	64472296	64474047	.	+	.	g67
+10	Tiberius	transcript	64472296	64474047	.	+	.	g67.t1
+10	Tiberius	CDS	64472296	64472574	.	+	0	transcript_id "g67.t1"; gene_id "g67"; cds_type=initial;
+10	Tiberius	exon	64472296	64472574	.	+	0	transcript_id "g67.t1"; gene_id "g67"; cds_type=initial;
+10	Tiberius	intron	64472575	64472625	.	+	0	transcript_id "g67.t1"; gene_id "g67";
+10	Tiberius	CDS	64472626	64474047	.	+	0	transcript_id "g67.t1"; gene_id "g67"; cds_type=terminal;
+10	Tiberius	exon	64472626	64474047	.	+	0	transcript_id "g67.t1"; gene_id "g67"; cds_type=terminal;
+10	Tiberius	gene	64475189	64475516	.	+	.	g68
+10	Tiberius	transcript	64475189	64475516	.	+	.	g68.t1
+10	Tiberius	CDS	64475189	64475508	.	+	0	transcript_id "g68.t1"; gene_id "g68"; cds_type=initial;
+10	Tiberius	exon	64475189	64475508	.	+	0	transcript_id "g68.t1"; gene_id "g68"; cds_type=initial;
+10	Tiberius	intron	64475509	64475509	.	+	1	transcript_id "g68.t1"; gene_id "g68";
+10	Tiberius	CDS	64475510	64475516	.	+	1	transcript_id "g68.t1"; gene_id "g68"; cds_type=terminal;
+10	Tiberius	exon	64475510	64475516	.	+	1	transcript_id "g68.t1"; gene_id "g68"; cds_type=terminal;
+10	Tiberius	gene	64478833	64479360	.	+	.	g69
+10	Tiberius	transcript	64478833	64479360	.	+	.	g69.t1
+10	Tiberius	CDS	64478833	64479360	.	+	0	transcript_id "g69.t1"; gene_id "g69"; cds_type=single;
+10	Tiberius	exon	64478833	64479360	.	+	0	transcript_id "g69.t1"; gene_id "g69"; cds_type=single;
+10	Tiberius	gene	81886201	81887707	.	+	.	g70
+10	Tiberius	transcript	81886201	81887707	.	+	.	g70.t1
+10	Tiberius	CDS	81886201	81887694	.	+	0	transcript_id "g70.t1"; gene_id "g70"; cds_type=initial;
+10	Tiberius	exon	81886201	81887694	.	+	0	transcript_id "g70.t1"; gene_id "g70"; cds_type=initial;
+10	Tiberius	intron	81887695	81887701	.	+	0	transcript_id "g70.t1"; gene_id "g70";
+10	Tiberius	CDS	81887702	81887707	.	+	0	transcript_id "g70.t1"; gene_id "g70"; cds_type=terminal;
+10	Tiberius	exon	81887702	81887707	.	+	0	transcript_id "g70.t1"; gene_id "g70"; cds_type=terminal;
+10	Tiberius	gene	81942737	81944846	.	-	.	g71
+10	Tiberius	transcript	81942737	81944846	.	-	.	g71.t1
+10	Tiberius	CDS	81942737	81942746	.	-	1	transcript_id "g71.t1"; gene_id "g71"; cds_type=terminal;
+10	Tiberius	exon	81942737	81942746	.	-	1	transcript_id "g71.t1"; gene_id "g71"; cds_type=terminal;
+10	Tiberius	intron	81942747	81942747	.	-	2	transcript_id "g71.t1"; gene_id "g71";
+10	Tiberius	CDS	81942748	81944846	.	-	0	transcript_id "g71.t1"; gene_id "g71"; cds_type=initial;
+10	Tiberius	exon	81942748	81944846	.	-	0	transcript_id "g71.t1"; gene_id "g71"; cds_type=initial;
+10	Tiberius	gene	92965704	92966174	.	-	.	g72
+10	Tiberius	transcript	92965704	92966174	.	-	.	g72.t1
+10	Tiberius	CDS	92965704	92965712	.	-	0	transcript_id "g72.t1"; gene_id "g72"; cds_type=terminal;
+10	Tiberius	exon	92965704	92965712	.	-	0	transcript_id "g72.t1"; gene_id "g72"; cds_type=terminal;
+10	Tiberius	intron	92965713	92965713	.	-	0	transcript_id "g72.t1"; gene_id "g72";
+10	Tiberius	CDS	92965714	92965935	.	-	0	transcript_id "g72.t1"; gene_id "g72"; cds_type=internal;
+10	Tiberius	exon	92965714	92965935	.	-	0	transcript_id "g72.t1"; gene_id "g72"; cds_type=internal;
+10	Tiberius	intron	92965936	92966009	.	-	0	transcript_id "g72.t1"; gene_id "g72";
+10	Tiberius	CDS	92966010	92966174	.	-	0	transcript_id "g72.t1"; gene_id "g72"; cds_type=initial;
+10	Tiberius	exon	92966010	92966174	.	-	0	transcript_id "g72.t1"; gene_id "g72"; cds_type=initial;
+10	Tiberius	gene	92973717	92975581	.	+	.	g73
+10	Tiberius	transcript	92973717	92975581	.	+	.	g73.t1
+10	Tiberius	CDS	92973717	92974039	.	+	0	transcript_id "g73.t1"; gene_id "g73"; cds_type=initial;
+10	Tiberius	exon	92973717	92974039	.	+	0	transcript_id "g73.t1"; gene_id "g73"; cds_type=initial;
+10	Tiberius	intron	92974040	92974077	.	+	1	transcript_id "g73.t1"; gene_id "g73";
+10	Tiberius	CDS	92974078	92974822	.	+	1	transcript_id "g73.t1"; gene_id "g73"; cds_type=internal;
+10	Tiberius	exon	92974078	92974822	.	+	1	transcript_id "g73.t1"; gene_id "g73"; cds_type=internal;
+10	Tiberius	intron	92974823	92974830	.	+	0	transcript_id "g73.t1"; gene_id "g73";
+10	Tiberius	CDS	92974831	92975576	.	+	0	transcript_id "g73.t1"; gene_id "g73"; cds_type=internal;
+10	Tiberius	exon	92974831	92975576	.	+	0	transcript_id "g73.t1"; gene_id "g73"; cds_type=internal;
+10	Tiberius	intron	92975577	92975577	.	+	1	transcript_id "g73.t1"; gene_id "g73";
+10	Tiberius	CDS	92975578	92975581	.	+	1	transcript_id "g73.t1"; gene_id "g73"; cds_type=terminal;
+10	Tiberius	exon	92975578	92975581	.	+	1	transcript_id "g73.t1"; gene_id "g73"; cds_type=terminal;
+10	Tiberius	gene	93304616	93305164	.	+	.	g74
+10	Tiberius	transcript	93304616	93305164	.	+	.	g74.t1
+10	Tiberius	CDS	93304616	93305164	.	+	0	transcript_id "g74.t1"; gene_id "g74"; cds_type=single;
+10	Tiberius	exon	93304616	93305164	.	+	0	transcript_id "g74.t1"; gene_id "g74"; cds_type=single;
+10	Tiberius	gene	119709243	119709462	.	-	.	g75
+10	Tiberius	transcript	119709243	119709462	.	-	.	g75.t1
+10	Tiberius	CDS	119709243	119709245	.	-	0	transcript_id "g75.t1"; gene_id "g75"; cds_type=terminal;
+10	Tiberius	exon	119709243	119709245	.	-	0	transcript_id "g75.t1"; gene_id "g75"; cds_type=terminal;
+10	Tiberius	intron	119709246	119709246	.	-	0	transcript_id "g75.t1"; gene_id "g75";
+10	Tiberius	CDS	119709247	119709462	.	-	0	transcript_id "g75.t1"; gene_id "g75"; cds_type=initial;
+10	Tiberius	exon	119709247	119709462	.	-	0	transcript_id "g75.t1"; gene_id "g75"; cds_type=initial;
+2	Tiberius	gene	33167819	33168805	.	+	.	g76
+2	Tiberius	transcript	33167819	33168805	.	+	.	g76.t1
+2	Tiberius	CDS	33167819	33168805	.	+	0	transcript_id "g76.t1"; gene_id "g76"; cds_type=single;
+2	Tiberius	exon	33167819	33168805	.	+	0	transcript_id "g76.t1"; gene_id "g76"; cds_type=single;
+2	Tiberius	gene	45999575	46000112	.	-	.	g77
+2	Tiberius	transcript	45999575	46000112	.	-	.	g77.t1
+2	Tiberius	CDS	45999575	45999578	.	-	1	transcript_id "g77.t1"; gene_id "g77"; cds_type=terminal;
+2	Tiberius	exon	45999575	45999578	.	-	1	transcript_id "g77.t1"; gene_id "g77"; cds_type=terminal;
+2	Tiberius	intron	45999579	45999579	.	-	2	transcript_id "g77.t1"; gene_id "g77";
+2	Tiberius	CDS	45999580	46000112	.	-	0	transcript_id "g77.t1"; gene_id "g77"; cds_type=initial;
+2	Tiberius	exon	45999580	46000112	.	-	0	transcript_id "g77.t1"; gene_id "g77"; cds_type=initial;
+2	Tiberius	gene	51832988	51833509	.	+	.	g78
+2	Tiberius	transcript	51832988	51833509	.	+	.	g78.t1
+2	Tiberius	CDS	51832988	51833509	.	+	0	transcript_id "g78.t1"; gene_id "g78"; cds_type=single;
+2	Tiberius	exon	51832988	51833509	.	+	0	transcript_id "g78.t1"; gene_id "g78"; cds_type=single;
+2	Tiberius	gene	51834525	51835765	.	-	.	g79
+2	Tiberius	transcript	51834525	51835765	.	-	.	g79.t1
+2	Tiberius	CDS	51834525	51834551	.	-	0	transcript_id "g79.t1"; gene_id "g79"; cds_type=terminal;
+2	Tiberius	exon	51834525	51834551	.	-	0	transcript_id "g79.t1"; gene_id "g79"; cds_type=terminal;
+2	Tiberius	intron	51834552	51834624	.	-	0	transcript_id "g79.t1"; gene_id "g79";
+2	Tiberius	CDS	51834625	51835323	.	-	0	transcript_id "g79.t1"; gene_id "g79"; cds_type=internal;
+2	Tiberius	exon	51834625	51835323	.	-	0	transcript_id "g79.t1"; gene_id "g79"; cds_type=internal;
+2	Tiberius	intron	51835324	51835399	.	-	0	transcript_id "g79.t1"; gene_id "g79";
+2	Tiberius	CDS	51835400	51835765	.	-	0	transcript_id "g79.t1"; gene_id "g79"; cds_type=initial;
+2	Tiberius	exon	51835400	51835765	.	-	0	transcript_id "g79.t1"; gene_id "g79"; cds_type=initial;
+2	Tiberius	gene	66007055	66007297	.	-	.	g80
+2	Tiberius	transcript	66007055	66007297	.	-	.	g80.t1
+2	Tiberius	CDS	66007055	66007297	.	-	0	transcript_id "g80.t1"; gene_id "g80"; cds_type=single;
+2	Tiberius	exon	66007055	66007297	.	-	0	transcript_id "g80.t1"; gene_id "g80"; cds_type=single;
+2	Tiberius	gene	99543033	99544550	.	+	.	g81
+2	Tiberius	transcript	99543033	99544550	.	+	.	g81.t1
+2	Tiberius	CDS	99543033	99544550	.	+	0	transcript_id "g81.t1"; gene_id "g81"; cds_type=single;
+2	Tiberius	exon	99543033	99544550	.	+	0	transcript_id "g81.t1"; gene_id "g81"; cds_type=single;
+2	Tiberius	gene	104501012	104501430	.	+	.	g82
+2	Tiberius	transcript	104501012	104501430	.	+	.	g82.t1
+2	Tiberius	CDS	104501012	104501016	.	+	0	transcript_id "g82.t1"; gene_id "g82"; cds_type=initial;
+2	Tiberius	exon	104501012	104501016	.	+	0	transcript_id "g82.t1"; gene_id "g82"; cds_type=initial;
+2	Tiberius	intron	104501017	104501051	.	+	1	transcript_id "g82.t1"; gene_id "g82";
+2	Tiberius	CDS	104501052	104501430	.	+	1	transcript_id "g82.t1"; gene_id "g82"; cds_type=terminal;
+2	Tiberius	exon	104501052	104501430	.	+	1	transcript_id "g82.t1"; gene_id "g82"; cds_type=terminal;
+2	Tiberius	gene	117970283	117970492	.	-	.	g83
+2	Tiberius	transcript	117970283	117970492	.	-	.	g83.t1
+2	Tiberius	CDS	117970283	117970492	.	-	0	transcript_id "g83.t1"; gene_id "g83"; cds_type=single;
+2	Tiberius	exon	117970283	117970492	.	-	0	transcript_id "g83.t1"; gene_id "g83"; cds_type=single;
+2	Tiberius	gene	139005199	139008108	.	-	.	g84
+2	Tiberius	transcript	139005199	139008108	.	-	.	g84.t1
+2	Tiberius	CDS	139005199	139006002	.	-	0	transcript_id "g84.t1"; gene_id "g84"; cds_type=terminal;
+2	Tiberius	exon	139005199	139006002	.	-	0	transcript_id "g84.t1"; gene_id "g84"; cds_type=terminal;
+2	Tiberius	intron	139006003	139006086	.	-	0	transcript_id "g84.t1"; gene_id "g84";
+2	Tiberius	CDS	139006087	139008108	.	-	0	transcript_id "g84.t1"; gene_id "g84"; cds_type=initial;
+2	Tiberius	exon	139006087	139008108	.	-	0	transcript_id "g84.t1"; gene_id "g84"; cds_type=initial;
+2	Tiberius	gene	160491658	160493172	.	-	.	g85
+2	Tiberius	transcript	160491658	160493172	.	-	.	g85.t1
+2	Tiberius	CDS	160491658	160493172	.	-	0	transcript_id "g85.t1"; gene_id "g85"; cds_type=single;
+2	Tiberius	exon	160491658	160493172	.	-	0	transcript_id "g85.t1"; gene_id "g85"; cds_type=single;
+2	Tiberius	gene	160493848	160494369	.	-	.	g86
+2	Tiberius	transcript	160493848	160494369	.	-	.	g86.t1
+2	Tiberius	CDS	160493848	160494369	.	-	0	transcript_id "g86.t1"; gene_id "g86"; cds_type=single;
+2	Tiberius	exon	160493848	160494369	.	-	0	transcript_id "g86.t1"; gene_id "g86"; cds_type=single;
+2	Tiberius	gene	165493053	165494252	.	+	.	g87
+2	Tiberius	transcript	165493053	165494252	.	+	.	g87.t1
+2	Tiberius	CDS	165493053	165494252	.	+	0	transcript_id "g87.t1"; gene_id "g87"; cds_type=single;
+2	Tiberius	exon	165493053	165494252	.	+	0	transcript_id "g87.t1"; gene_id "g87"; cds_type=single;
+2	Tiberius	gene	167499770	167500057	.	+	.	g88
+2	Tiberius	transcript	167499770	167500057	.	+	.	g88.t1
+2	Tiberius	CDS	167499770	167500057	.	+	0	transcript_id "g88.t1"; gene_id "g88"; cds_type=single;
+2	Tiberius	exon	167499770	167500057	.	+	0	transcript_id "g88.t1"; gene_id "g88"; cds_type=single;
+2	Tiberius	gene	176172548	176173938	.	+	.	g89
+2	Tiberius	transcript	176172548	176173938	.	+	.	g89.t1
+2	Tiberius	CDS	176172548	176173051	.	+	0	transcript_id "g89.t1"; gene_id "g89"; cds_type=initial;
+2	Tiberius	exon	176172548	176173051	.	+	0	transcript_id "g89.t1"; gene_id "g89"; cds_type=initial;
+2	Tiberius	intron	176173052	176173134	.	+	0	transcript_id "g89.t1"; gene_id "g89";
+2	Tiberius	CDS	176173135	176173938	.	+	0	transcript_id "g89.t1"; gene_id "g89"; cds_type=terminal;
+2	Tiberius	exon	176173135	176173938	.	+	0	transcript_id "g89.t1"; gene_id "g89"; cds_type=terminal;
+2	Tiberius	gene	176498260	176498874	.	-	.	g90
+2	Tiberius	transcript	176498260	176498874	.	-	.	g90.t1
+2	Tiberius	CDS	176498260	176498874	.	-	0	transcript_id "g90.t1"; gene_id "g90"; cds_type=single;
+2	Tiberius	exon	176498260	176498874	.	-	0	transcript_id "g90.t1"; gene_id "g90"; cds_type=single;
+2	Tiberius	gene	203489297	203489755	.	+	.	g91
+2	Tiberius	transcript	203489297	203489755	.	+	.	g91.t1
+2	Tiberius	CDS	203489297	203489755	.	+	0	transcript_id "g91.t1"; gene_id "g91"; cds_type=single;
+2	Tiberius	exon	203489297	203489755	.	+	0	transcript_id "g91.t1"; gene_id "g91"; cds_type=single;
+2	Tiberius	gene	209442426	209443184	.	-	.	g92
+2	Tiberius	transcript	209442426	209443184	.	-	.	g92.t1
+2	Tiberius	CDS	209442426	209443184	.	-	0	transcript_id "g92.t1"; gene_id "g92"; cds_type=single;
+2	Tiberius	exon	209442426	209443184	.	-	0	transcript_id "g92.t1"; gene_id "g92"; cds_type=single;
+2	Tiberius	gene	216502572	216502960	.	+	.	g93
+2	Tiberius	transcript	216502572	216502960	.	+	.	g93.t1
+2	Tiberius	CDS	216502572	216502577	.	+	0	transcript_id "g93.t1"; gene_id "g93"; cds_type=initial;
+2	Tiberius	exon	216502572	216502577	.	+	0	transcript_id "g93.t1"; gene_id "g93"; cds_type=initial;
+2	Tiberius	intron	216502578	216502597	.	+	0	transcript_id "g93.t1"; gene_id "g93";
+2	Tiberius	CDS	216502598	216502662	.	+	0	transcript_id "g93.t1"; gene_id "g93"; cds_type=internal;
+2	Tiberius	exon	216502598	216502662	.	+	0	transcript_id "g93.t1"; gene_id "g93"; cds_type=internal;
+2	Tiberius	intron	216502663	216502794	.	+	1	transcript_id "g93.t1"; gene_id "g93";
+2	Tiberius	CDS	216502795	216502960	.	+	1	transcript_id "g93.t1"; gene_id "g93"; cds_type=terminal;
+2	Tiberius	exon	216502795	216502960	.	+	1	transcript_id "g93.t1"; gene_id "g93"; cds_type=terminal;
+2	Tiberius	gene	221160568	221161318	.	-	.	g94
+2	Tiberius	transcript	221160568	221161318	.	-	.	g94.t1
+2	Tiberius	CDS	221160568	221161307	.	-	2	transcript_id "g94.t1"; gene_id "g94"; cds_type=terminal;
+2	Tiberius	exon	221160568	221161307	.	-	2	transcript_id "g94.t1"; gene_id "g94"; cds_type=terminal;
+2	Tiberius	intron	221161308	221161308	.	-	1	transcript_id "g94.t1"; gene_id "g94";
+2	Tiberius	CDS	221161309	221161318	.	-	0	transcript_id "g94.t1"; gene_id "g94"; cds_type=initial;
+2	Tiberius	exon	221161309	221161318	.	-	0	transcript_id "g94.t1"; gene_id "g94"; cds_type=initial;
+3	Tiberius	gene	6997104	6997778	.	-	.	g95
+3	Tiberius	transcript	6997104	6997778	.	-	.	g95.t1
+3	Tiberius	CDS	6997104	6997778	.	-	0	transcript_id "g95.t1"; gene_id "g95"; cds_type=single;
+3	Tiberius	exon	6997104	6997778	.	-	0	transcript_id "g95.t1"; gene_id "g95"; cds_type=single;
+3	Tiberius	gene	10467643	10470858	.	-	.	g96
+3	Tiberius	transcript	10467643	10470858	.	-	.	g96.t1
+3	Tiberius	CDS	10467643	10470858	.	-	0	transcript_id "g96.t1"; gene_id "g96"; cds_type=single;
+3	Tiberius	exon	10467643	10470858	.	-	0	transcript_id "g96.t1"; gene_id "g96"; cds_type=single;
+3	Tiberius	gene	13501239	13501868	.	+	.	g97
+3	Tiberius	transcript	13501239	13501868	.	+	.	g97.t1
+3	Tiberius	CDS	13501239	13501868	.	+	0	transcript_id "g97.t1"; gene_id "g97"; cds_type=single;
+3	Tiberius	exon	13501239	13501868	.	+	0	transcript_id "g97.t1"; gene_id "g97"; cds_type=single;
+3	Tiberius	gene	14996521	14998899	.	-	.	g98
+3	Tiberius	transcript	14996521	14998899	.	-	.	g98.t1
+3	Tiberius	CDS	14996521	14998899	.	-	0	transcript_id "g98.t1"; gene_id "g98"; cds_type=single;
+3	Tiberius	exon	14996521	14998899	.	-	0	transcript_id "g98.t1"; gene_id "g98"; cds_type=single;
+3	Tiberius	gene	24537995	24538927	.	+	.	g99
+3	Tiberius	transcript	24537995	24538927	.	+	.	g99.t1
+3	Tiberius	CDS	24537995	24538700	.	+	0	transcript_id "g99.t1"; gene_id "g99"; cds_type=initial;
+3	Tiberius	exon	24537995	24538700	.	+	0	transcript_id "g99.t1"; gene_id "g99"; cds_type=initial;
+3	Tiberius	intron	24538701	24538772	.	+	2	transcript_id "g99.t1"; gene_id "g99";
+3	Tiberius	CDS	24538773	24538927	.	+	2	transcript_id "g99.t1"; gene_id "g99"; cds_type=terminal;
+3	Tiberius	exon	24538773	24538927	.	+	2	transcript_id "g99.t1"; gene_id "g99"; cds_type=terminal;
+3	Tiberius	gene	26487427	26488944	.	+	.	g100
+3	Tiberius	transcript	26487427	26488944	.	+	.	g100.t1
+3	Tiberius	CDS	26487427	26488944	.	+	0	transcript_id "g100.t1"; gene_id "g100"; cds_type=single;
+3	Tiberius	exon	26487427	26488944	.	+	0	transcript_id "g100.t1"; gene_id "g100"; cds_type=single;
+3	Tiberius	gene	26495735	26496000	.	+	.	g101
+3	Tiberius	transcript	26495735	26496000	.	+	.	g101.t1
+3	Tiberius	CDS	26495735	26495991	.	+	0	transcript_id "g101.t1"; gene_id "g101"; cds_type=initial;
+3	Tiberius	exon	26495735	26495991	.	+	0	transcript_id "g101.t1"; gene_id "g101"; cds_type=initial;
+3	Tiberius	intron	26495992	26495992	.	+	1	transcript_id "g101.t1"; gene_id "g101";
+3	Tiberius	CDS	26495993	26495996	.	+	1	transcript_id "g101.t1"; gene_id "g101"; cds_type=internal;
+3	Tiberius	exon	26495993	26495996	.	+	1	transcript_id "g101.t1"; gene_id "g101"; cds_type=internal;
+3	Tiberius	intron	26495997	26495997	.	+	0	transcript_id "g101.t1"; gene_id "g101";
+3	Tiberius	CDS	26495998	26496000	.	+	0	transcript_id "g101.t1"; gene_id "g101"; cds_type=terminal;
+3	Tiberius	exon	26495998	26496000	.	+	0	transcript_id "g101.t1"; gene_id "g101"; cds_type=terminal;
+3	Tiberius	gene	39772681	39773690	.	+	.	g102
+3	Tiberius	transcript	39772681	39773690	.	+	.	g102.t1
+3	Tiberius	CDS	39772681	39773677	.	+	0	transcript_id "g102.t1"; gene_id "g102"; cds_type=initial;
+3	Tiberius	exon	39772681	39773677	.	+	0	transcript_id "g102.t1"; gene_id "g102"; cds_type=initial;
+3	Tiberius	intron	39773678	39773682	.	+	2	transcript_id "g102.t1"; gene_id "g102";
+3	Tiberius	CDS	39773683	39773690	.	+	2	transcript_id "g102.t1"; gene_id "g102"; cds_type=terminal;
+3	Tiberius	exon	39773683	39773690	.	+	2	transcript_id "g102.t1"; gene_id "g102"; cds_type=terminal;
+3	Tiberius	gene	44395927	44398281	.	+	.	g103
+3	Tiberius	transcript	44395927	44398281	.	+	.	g103.t1
+3	Tiberius	CDS	44395927	44398281	.	+	0	transcript_id "g103.t1"; gene_id "g103"; cds_type=single;
+3	Tiberius	exon	44395927	44398281	.	+	0	transcript_id "g103.t1"; gene_id "g103"; cds_type=single;
+3	Tiberius	gene	44402462	44403713	.	+	.	g104
+3	Tiberius	transcript	44402462	44403713	.	+	.	g104.t1
+3	Tiberius	CDS	44402462	44403709	.	+	0	transcript_id "g104.t1"; gene_id "g104"; cds_type=initial;
+3	Tiberius	exon	44402462	44403709	.	+	0	transcript_id "g104.t1"; gene_id "g104"; cds_type=initial;
+3	Tiberius	intron	44403710	44403710	.	+	0	transcript_id "g104.t1"; gene_id "g104";
+3	Tiberius	CDS	44403711	44403713	.	+	0	transcript_id "g104.t1"; gene_id "g104"; cds_type=terminal;
+3	Tiberius	exon	44403711	44403713	.	+	0	transcript_id "g104.t1"; gene_id "g104"; cds_type=terminal;
+3	Tiberius	gene	54450244	54453251	.	-	.	g105
+3	Tiberius	transcript	54450244	54453251	.	-	.	g105.t1
+3	Tiberius	CDS	54450244	54451047	.	-	0	transcript_id "g105.t1"; gene_id "g105"; cds_type=terminal;
+3	Tiberius	exon	54450244	54451047	.	-	0	transcript_id "g105.t1"; gene_id "g105"; cds_type=terminal;
+3	Tiberius	intron	54451048	54451139	.	-	0	transcript_id "g105.t1"; gene_id "g105";
+3	Tiberius	CDS	54451140	54453251	.	-	0	transcript_id "g105.t1"; gene_id "g105"; cds_type=initial;
+3	Tiberius	exon	54451140	54453251	.	-	0	transcript_id "g105.t1"; gene_id "g105"; cds_type=initial;
+3	Tiberius	gene	59730761	59731831	.	+	.	g106
+3	Tiberius	transcript	59730761	59731831	.	+	.	g106.t1
+3	Tiberius	CDS	59730761	59731831	.	+	0	transcript_id "g106.t1"; gene_id "g106"; cds_type=single;
+3	Tiberius	exon	59730761	59731831	.	+	0	transcript_id "g106.t1"; gene_id "g106"; cds_type=single;
+3	Tiberius	gene	59733050	59735961	.	-	.	g107
+3	Tiberius	transcript	59733050	59735961	.	-	.	g107.t1
+3	Tiberius	CDS	59733050	59733853	.	-	0	transcript_id "g107.t1"; gene_id "g107"; cds_type=terminal;
+3	Tiberius	exon	59733050	59733853	.	-	0	transcript_id "g107.t1"; gene_id "g107"; cds_type=terminal;
+3	Tiberius	intron	59733854	59733936	.	-	0	transcript_id "g107.t1"; gene_id "g107";
+3	Tiberius	CDS	59733937	59735961	.	-	0	transcript_id "g107.t1"; gene_id "g107"; cds_type=initial;
+3	Tiberius	exon	59733937	59735961	.	-	0	transcript_id "g107.t1"; gene_id "g107"; cds_type=initial;
+3	Tiberius	gene	66206173	66208253	.	+	.	g108
+3	Tiberius	transcript	66206173	66208253	.	+	.	g108.t1
+3	Tiberius	CDS	66206173	66207375	.	+	0	transcript_id "g108.t1"; gene_id "g108"; cds_type=initial;
+3	Tiberius	exon	66206173	66207375	.	+	0	transcript_id "g108.t1"; gene_id "g108"; cds_type=initial;
+3	Tiberius	intron	66207376	66207449	.	+	0	transcript_id "g108.t1"; gene_id "g108";
+3	Tiberius	CDS	66207450	66208253	.	+	0	transcript_id "g108.t1"; gene_id "g108"; cds_type=terminal;
+3	Tiberius	exon	66207450	66208253	.	+	0	transcript_id "g108.t1"; gene_id "g108"; cds_type=terminal;
+3	Tiberius	gene	69448637	69449038	.	-	.	g109
+3	Tiberius	transcript	69448637	69449038	.	-	.	g109.t1
+3	Tiberius	CDS	69448637	69449038	.	-	0	transcript_id "g109.t1"; gene_id "g109"; cds_type=single;
+3	Tiberius	exon	69448637	69449038	.	-	0	transcript_id "g109.t1"; gene_id "g109"; cds_type=single;
+3	Tiberius	gene	71491252	71493533	.	+	.	g110
+3	Tiberius	transcript	71491252	71493533	.	+	.	g110.t1
+3	Tiberius	CDS	71491252	71492652	.	+	0	transcript_id "g110.t1"; gene_id "g110"; cds_type=initial;
+3	Tiberius	exon	71491252	71492652	.	+	0	transcript_id "g110.t1"; gene_id "g110"; cds_type=initial;
+3	Tiberius	intron	71492653	71492729	.	+	0	transcript_id "g110.t1"; gene_id "g110";
+3	Tiberius	CDS	71492730	71493533	.	+	0	transcript_id "g110.t1"; gene_id "g110"; cds_type=terminal;
+3	Tiberius	exon	71492730	71493533	.	+	0	transcript_id "g110.t1"; gene_id "g110"; cds_type=terminal;
+3	Tiberius	gene	75044965	75045207	.	+	.	g111
+3	Tiberius	transcript	75044965	75045207	.	+	.	g111.t1
+3	Tiberius	CDS	75044965	75045207	.	+	0	transcript_id "g111.t1"; gene_id "g111"; cds_type=single;
+3	Tiberius	exon	75044965	75045207	.	+	0	transcript_id "g111.t1"; gene_id "g111"; cds_type=single;
+3	Tiberius	gene	75127309	75127771	.	+	.	g112
+3	Tiberius	transcript	75127309	75127771	.	+	.	g112.t1
+3	Tiberius	CDS	75127309	75127763	.	+	0	transcript_id "g112.t1"; gene_id "g112"; cds_type=initial;
+3	Tiberius	exon	75127309	75127763	.	+	0	transcript_id "g112.t1"; gene_id "g112"; cds_type=initial;
+3	Tiberius	intron	75127764	75127764	.	+	1	transcript_id "g112.t1"; gene_id "g112";
+3	Tiberius	CDS	75127765	75127771	.	+	1	transcript_id "g112.t1"; gene_id "g112"; cds_type=terminal;
+3	Tiberius	exon	75127765	75127771	.	+	1	transcript_id "g112.t1"; gene_id "g112"; cds_type=terminal;
+3	Tiberius	gene	75128052	75128853	.	+	.	g113
+3	Tiberius	transcript	75128052	75128853	.	+	.	g113.t1
+3	Tiberius	CDS	75128052	75128747	.	+	0	transcript_id "g113.t1"; gene_id "g113"; cds_type=initial;
+3	Tiberius	exon	75128052	75128747	.	+	0	transcript_id "g113.t1"; gene_id "g113"; cds_type=initial;
+3	Tiberius	intron	75128748	75128820	.	+	0	transcript_id "g113.t1"; gene_id "g113";
+3	Tiberius	CDS	75128821	75128853	.	+	0	transcript_id "g113.t1"; gene_id "g113"; cds_type=terminal;
+3	Tiberius	exon	75128821	75128853	.	+	0	transcript_id "g113.t1"; gene_id "g113"; cds_type=terminal;
+3	Tiberius	gene	75129760	75129982	.	-	.	g114
+3	Tiberius	transcript	75129760	75129982	.	-	.	g114.t1
+3	Tiberius	CDS	75129760	75129966	.	-	0	transcript_id "g114.t1"; gene_id "g114"; cds_type=terminal;
+3	Tiberius	exon	75129760	75129966	.	-	0	transcript_id "g114.t1"; gene_id "g114"; cds_type=terminal;
+3	Tiberius	intron	75129967	75129979	.	-	0	transcript_id "g114.t1"; gene_id "g114";
+3	Tiberius	CDS	75129980	75129982	.	-	0	transcript_id "g114.t1"; gene_id "g114"; cds_type=initial;
+3	Tiberius	exon	75129980	75129982	.	-	0	transcript_id "g114.t1"; gene_id "g114"; cds_type=initial;
+3	Tiberius	gene	79022775	79023383	.	-	.	g115
+3	Tiberius	transcript	79022775	79023383	.	-	.	g115.t1
+3	Tiberius	CDS	79022775	79023383	.	-	0	transcript_id "g115.t1"; gene_id "g115"; cds_type=single;
+3	Tiberius	exon	79022775	79023383	.	-	0	transcript_id "g115.t1"; gene_id "g115"; cds_type=single;
+3	Tiberius	gene	88026462	88027104	.	-	.	g116
+3	Tiberius	transcript	88026462	88027104	.	-	.	g116.t1
+3	Tiberius	CDS	88026462	88026466	.	-	2	transcript_id "g116.t1"; gene_id "g116"; cds_type=terminal;
+3	Tiberius	exon	88026462	88026466	.	-	2	transcript_id "g116.t1"; gene_id "g116"; cds_type=terminal;
+3	Tiberius	intron	88026467	88026467	.	-	1	transcript_id "g116.t1"; gene_id "g116";
+3	Tiberius	CDS	88026468	88027104	.	-	0	transcript_id "g116.t1"; gene_id "g116"; cds_type=initial;
+3	Tiberius	exon	88026468	88027104	.	-	0	transcript_id "g116.t1"; gene_id "g116"; cds_type=initial;
+3	Tiberius	gene	105855721	105856167	.	-	.	g117
+3	Tiberius	transcript	105855721	105856167	.	-	.	g117.t1
+3	Tiberius	CDS	105855721	105856167	.	-	0	transcript_id "g117.t1"; gene_id "g117"; cds_type=single;
+3	Tiberius	exon	105855721	105856167	.	-	0	transcript_id "g117.t1"; gene_id "g117"; cds_type=single;
+3	Tiberius	gene	107482140	107482733	.	-	.	g118
+3	Tiberius	transcript	107482140	107482733	.	-	.	g118.t1
+3	Tiberius	CDS	107482140	107482733	.	-	0	transcript_id "g118.t1"; gene_id "g118"; cds_type=single;
+3	Tiberius	exon	107482140	107482733	.	-	0	transcript_id "g118.t1"; gene_id "g118"; cds_type=single;
+3	Tiberius	gene	107483873	107484416	.	-	.	g119
+3	Tiberius	transcript	107483873	107484416	.	-	.	g119.t1
+3	Tiberius	CDS	107483873	107483876	.	-	1	transcript_id "g119.t1"; gene_id "g119"; cds_type=terminal;
+3	Tiberius	exon	107483873	107483876	.	-	1	transcript_id "g119.t1"; gene_id "g119"; cds_type=terminal;
+3	Tiberius	intron	107483877	107483877	.	-	2	transcript_id "g119.t1"; gene_id "g119";
+3	Tiberius	CDS	107483878	107484416	.	-	0	transcript_id "g119.t1"; gene_id "g119"; cds_type=initial;
+3	Tiberius	exon	107483878	107484416	.	-	0	transcript_id "g119.t1"; gene_id "g119"; cds_type=initial;
+3	Tiberius	gene	129988736	129991542	.	+	.	g120
+3	Tiberius	transcript	129988736	129991542	.	+	.	g120.t1
+3	Tiberius	CDS	129988736	129990763	.	+	0	transcript_id "g120.t1"; gene_id "g120"; cds_type=initial;
+3	Tiberius	exon	129988736	129990763	.	+	0	transcript_id "g120.t1"; gene_id "g120"; cds_type=initial;
+3	Tiberius	intron	129990764	129990839	.	+	0	transcript_id "g120.t1"; gene_id "g120";
+3	Tiberius	CDS	129990840	129991538	.	+	0	transcript_id "g120.t1"; gene_id "g120"; cds_type=internal;
+3	Tiberius	exon	129990840	129991538	.	+	0	transcript_id "g120.t1"; gene_id "g120"; cds_type=internal;
+3	Tiberius	intron	129991539	129991539	.	+	0	transcript_id "g120.t1"; gene_id "g120";
+3	Tiberius	CDS	129991540	129991542	.	+	0	transcript_id "g120.t1"; gene_id "g120"; cds_type=terminal;
+3	Tiberius	exon	129991540	129991542	.	+	0	transcript_id "g120.t1"; gene_id "g120"; cds_type=terminal;
+3	Tiberius	gene	141986421	141987944	.	-	.	g121
+3	Tiberius	transcript	141986421	141987944	.	-	.	g121.t1
+3	Tiberius	CDS	141986421	141987944	.	-	0	transcript_id "g121.t1"; gene_id "g121"; cds_type=single;
+3	Tiberius	exon	141986421	141987944	.	-	0	transcript_id "g121.t1"; gene_id "g121"; cds_type=single;
+3	Tiberius	gene	143995678	143995920	.	-	.	g122
+3	Tiberius	transcript	143995678	143995920	.	-	.	g122.t1
+3	Tiberius	CDS	143995678	143995920	.	-	0	transcript_id "g122.t1"; gene_id "g122"; cds_type=single;
+3	Tiberius	exon	143995678	143995920	.	-	0	transcript_id "g122.t1"; gene_id "g122"; cds_type=single;
+3	Tiberius	gene	143998014	143998311	.	-	.	g123
+3	Tiberius	transcript	143998014	143998311	.	-	.	g123.t1
+3	Tiberius	CDS	143998014	143998016	.	-	0	transcript_id "g123.t1"; gene_id "g123"; cds_type=terminal;
+3	Tiberius	exon	143998014	143998016	.	-	0	transcript_id "g123.t1"; gene_id "g123"; cds_type=terminal;
+3	Tiberius	intron	143998017	143998017	.	-	0	transcript_id "g123.t1"; gene_id "g123";
+3	Tiberius	CDS	143998018	143998311	.	-	0	transcript_id "g123.t1"; gene_id "g123"; cds_type=initial;
+3	Tiberius	exon	143998018	143998311	.	-	0	transcript_id "g123.t1"; gene_id "g123"; cds_type=initial;
+3	Tiberius	gene	144000091	144001035	.	-	.	g124
+3	Tiberius	transcript	144000091	144001035	.	-	.	g124.t1
+3	Tiberius	CDS	144000091	144001035	.	-	0	transcript_id "g124.t1"; gene_id "g124"; cds_type=single;
+3	Tiberius	exon	144000091	144001035	.	-	0	transcript_id "g124.t1"; gene_id "g124"; cds_type=single;
+3	Tiberius	gene	145063908	145064978	.	+	.	g125
+3	Tiberius	transcript	145063908	145064978	.	+	.	g125.t1
+3	Tiberius	CDS	145063908	145064978	.	+	0	transcript_id "g125.t1"; gene_id "g125"; cds_type=single;
+3	Tiberius	exon	145063908	145064978	.	+	0	transcript_id "g125.t1"; gene_id "g125"; cds_type=single;
+3	Tiberius	gene	165286953	165287169	.	+	.	g126
+3	Tiberius	transcript	165286953	165287169	.	+	.	g126.t1
+3	Tiberius	CDS	165286953	165287160	.	+	0	transcript_id "g126.t1"; gene_id "g126"; cds_type=initial;
+3	Tiberius	exon	165286953	165287160	.	+	0	transcript_id "g126.t1"; gene_id "g126"; cds_type=initial;
+3	Tiberius	intron	165287161	165287161	.	+	2	transcript_id "g126.t1"; gene_id "g126";
+3	Tiberius	CDS	165287162	165287169	.	+	2	transcript_id "g126.t1"; gene_id "g126"; cds_type=terminal;
+3	Tiberius	exon	165287162	165287169	.	+	2	transcript_id "g126.t1"; gene_id "g126"; cds_type=terminal;
+3	Tiberius	gene	165287466	165288203	.	+	.	g127
+3	Tiberius	transcript	165287466	165288203	.	+	.	g127.t1
+3	Tiberius	CDS	165287466	165288203	.	+	0	transcript_id "g127.t1"; gene_id "g127"; cds_type=single;
+3	Tiberius	exon	165287466	165288203	.	+	0	transcript_id "g127.t1"; gene_id "g127"; cds_type=single;
+3	Tiberius	gene	165516016	165517224	.	-	.	g128
+3	Tiberius	transcript	165516016	165517224	.	-	.	g128.t1
+3	Tiberius	CDS	165516016	165516149	.	-	2	transcript_id "g128.t1"; gene_id "g128"; cds_type=terminal;
+3	Tiberius	exon	165516016	165516149	.	-	2	transcript_id "g128.t1"; gene_id "g128"; cds_type=terminal;
+3	Tiberius	intron	165516150	165516245	.	-	1	transcript_id "g128.t1"; gene_id "g128";
+3	Tiberius	CDS	165516246	165517038	.	-	0	transcript_id "g128.t1"; gene_id "g128"; cds_type=internal;
+3	Tiberius	exon	165516246	165517038	.	-	0	transcript_id "g128.t1"; gene_id "g128"; cds_type=internal;
+3	Tiberius	intron	165517039	165517128	.	-	0	transcript_id "g128.t1"; gene_id "g128";
+3	Tiberius	CDS	165517129	165517224	.	-	0	transcript_id "g128.t1"; gene_id "g128"; cds_type=initial;
+3	Tiberius	exon	165517129	165517224	.	-	0	transcript_id "g128.t1"; gene_id "g128"; cds_type=initial;
+3	Tiberius	gene	165517320	165519002	.	-	.	g129
+3	Tiberius	transcript	165517320	165519002	.	-	.	g129.t1
+3	Tiberius	CDS	165517320	165519002	.	-	0	transcript_id "g129.t1"; gene_id "g129"; cds_type=single;
+3	Tiberius	exon	165517320	165519002	.	-	0	transcript_id "g129.t1"; gene_id "g129"; cds_type=single;
+3	Tiberius	gene	166000127	166001395	.	+	.	g130
+3	Tiberius	transcript	166000127	166001395	.	+	.	g130.t1
+3	Tiberius	CDS	166000127	166001395	.	+	0	transcript_id "g130.t1"; gene_id "g130"; cds_type=single;
+3	Tiberius	exon	166000127	166001395	.	+	0	transcript_id "g130.t1"; gene_id "g130"; cds_type=single;
+3	Tiberius	gene	175518991	175520205	.	+	.	g131
+3	Tiberius	transcript	175518991	175520205	.	+	.	g131.t1
+3	Tiberius	CDS	175518991	175520205	.	+	0	transcript_id "g131.t1"; gene_id "g131"; cds_type=single;
+3	Tiberius	exon	175518991	175520205	.	+	0	transcript_id "g131.t1"; gene_id "g131"; cds_type=single;
+3	Tiberius	gene	180600621	180601061	.	+	.	g132
+3	Tiberius	transcript	180600621	180601061	.	+	.	g132.t1
+3	Tiberius	CDS	180600621	180601061	.	+	0	transcript_id "g132.t1"; gene_id "g132"; cds_type=single;
+3	Tiberius	exon	180600621	180601061	.	+	0	transcript_id "g132.t1"; gene_id "g132"; cds_type=single;
+3	Tiberius	gene	195535808	195536133	.	-	.	g133
+3	Tiberius	transcript	195535808	195536133	.	-	.	g133.t1
+3	Tiberius	CDS	195535808	195535810	.	-	0	transcript_id "g133.t1"; gene_id "g133"; cds_type=terminal;
+3	Tiberius	exon	195535808	195535810	.	-	0	transcript_id "g133.t1"; gene_id "g133"; cds_type=terminal;
+3	Tiberius	intron	195535811	195535811	.	-	0	transcript_id "g133.t1"; gene_id "g133";
+3	Tiberius	CDS	195535812	195535815	.	-	1	transcript_id "g133.t1"; gene_id "g133"; cds_type=internal;
+3	Tiberius	exon	195535812	195535815	.	-	1	transcript_id "g133.t1"; gene_id "g133"; cds_type=internal;
+3	Tiberius	intron	195535816	195535816	.	-	2	transcript_id "g133.t1"; gene_id "g133";
+3	Tiberius	CDS	195535817	195536133	.	-	0	transcript_id "g133.t1"; gene_id "g133"; cds_type=initial;
+3	Tiberius	exon	195535817	195536133	.	-	0	transcript_id "g133.t1"; gene_id "g133"; cds_type=initial;
+3	Tiberius	gene	211770063	211771580	.	+	.	g134
+3	Tiberius	transcript	211770063	211771580	.	+	.	g134.t1
+3	Tiberius	CDS	211770063	211771580	.	+	0	transcript_id "g134.t1"; gene_id "g134"; cds_type=single;
+3	Tiberius	exon	211770063	211771580	.	+	0	transcript_id "g134.t1"; gene_id "g134"; cds_type=single;
+3	Tiberius	gene	211772515	211774833	.	-	.	g135
+3	Tiberius	transcript	211772515	211774833	.	-	.	g135.t1
+3	Tiberius	CDS	211772515	211772648	.	-	2	transcript_id "g135.t1"; gene_id "g135"; cds_type=terminal;
+3	Tiberius	exon	211772515	211772648	.	-	2	transcript_id "g135.t1"; gene_id "g135"; cds_type=terminal;
+3	Tiberius	intron	211772649	211772744	.	-	1	transcript_id "g135.t1"; gene_id "g135";
+3	Tiberius	CDS	211772745	211773537	.	-	0	transcript_id "g135.t1"; gene_id "g135"; cds_type=internal;
+3	Tiberius	exon	211772745	211773537	.	-	0	transcript_id "g135.t1"; gene_id "g135"; cds_type=internal;
+3	Tiberius	intron	211773538	211773621	.	-	0	transcript_id "g135.t1"; gene_id "g135";
+3	Tiberius	CDS	211773622	211774833	.	-	0	transcript_id "g135.t1"; gene_id "g135"; cds_type=initial;
+3	Tiberius	exon	211773622	211774833	.	-	0	transcript_id "g135.t1"; gene_id "g135"; cds_type=initial;
+3	Tiberius	gene	211776761	211778278	.	+	.	g136
+3	Tiberius	transcript	211776761	211778278	.	+	.	g136.t1
+3	Tiberius	CDS	211776761	211778278	.	+	0	transcript_id "g136.t1"; gene_id "g136"; cds_type=single;
+3	Tiberius	exon	211776761	211778278	.	+	0	transcript_id "g136.t1"; gene_id "g136"; cds_type=single;
+3	Tiberius	gene	211787944	211788710	.	-	.	g137
+3	Tiberius	transcript	211787944	211788710	.	-	.	g137.t1
+3	Tiberius	CDS	211787944	211788683	.	-	2	transcript_id "g137.t1"; gene_id "g137"; cds_type=terminal;
+3	Tiberius	exon	211787944	211788683	.	-	2	transcript_id "g137.t1"; gene_id "g137"; cds_type=terminal;
+3	Tiberius	intron	211788684	211788694	.	-	1	transcript_id "g137.t1"; gene_id "g137";
+3	Tiberius	CDS	211788695	211788710	.	-	0	transcript_id "g137.t1"; gene_id "g137"; cds_type=initial;
+3	Tiberius	exon	211788695	211788710	.	-	0	transcript_id "g137.t1"; gene_id "g137"; cds_type=initial;
+3	Tiberius	gene	211791971	211793488	.	+	.	g138
+3	Tiberius	transcript	211791971	211793488	.	+	.	g138.t1
+3	Tiberius	CDS	211791971	211793488	.	+	0	transcript_id "g138.t1"; gene_id "g138"; cds_type=single;
+3	Tiberius	exon	211791971	211793488	.	+	0	transcript_id "g138.t1"; gene_id "g138"; cds_type=single;
+4	Tiberius	gene	34009280	34013035	.	+	.	g139
+4	Tiberius	transcript	34009280	34013035	.	+	.	g139.t1
+4	Tiberius	CDS	34009280	34013035	.	+	0	transcript_id "g139.t1"; gene_id "g139"; cds_type=single;
+4	Tiberius	exon	34009280	34013035	.	+	0	transcript_id "g139.t1"; gene_id "g139"; cds_type=single;
+4	Tiberius	gene	41439995	41442012	.	+	.	g140
+4	Tiberius	transcript	41439995	41442012	.	+	.	g140.t1
+4	Tiberius	CDS	41439995	41441999	.	+	0	transcript_id "g140.t1"; gene_id "g140"; cds_type=initial;
+4	Tiberius	exon	41439995	41441999	.	+	0	transcript_id "g140.t1"; gene_id "g140"; cds_type=initial;
+4	Tiberius	intron	41442000	41442004	.	+	2	transcript_id "g140.t1"; gene_id "g140";
+4	Tiberius	CDS	41442005	41442012	.	+	2	transcript_id "g140.t1"; gene_id "g140"; cds_type=terminal;
+4	Tiberius	exon	41442005	41442012	.	+	2	transcript_id "g140.t1"; gene_id "g140"; cds_type=terminal;
+4	Tiberius	gene	49908718	49908993	.	+	.	g141
+4	Tiberius	transcript	49908718	49908993	.	+	.	g141.t1
+4	Tiberius	CDS	49908718	49908993	.	+	0	transcript_id "g141.t1"; gene_id "g141"; cds_type=single;
+4	Tiberius	exon	49908718	49908993	.	+	0	transcript_id "g141.t1"; gene_id "g141"; cds_type=single;
+4	Tiberius	gene	52010639	52012156	.	+	.	g142
+4	Tiberius	transcript	52010639	52012156	.	+	.	g142.t1
+4	Tiberius	CDS	52010639	52012156	.	+	0	transcript_id "g142.t1"; gene_id "g142"; cds_type=single;
+4	Tiberius	exon	52010639	52012156	.	+	0	transcript_id "g142.t1"; gene_id "g142"; cds_type=single;
+4	Tiberius	gene	65025236	65026753	.	-	.	g143
+4	Tiberius	transcript	65025236	65026753	.	-	.	g143.t1
+4	Tiberius	CDS	65025236	65026753	.	-	0	transcript_id "g143.t1"; gene_id "g143"; cds_type=single;
+4	Tiberius	exon	65025236	65026753	.	-	0	transcript_id "g143.t1"; gene_id "g143"; cds_type=single;
+4	Tiberius	gene	69470700	69471914	.	-	.	g144
+4	Tiberius	transcript	69470700	69471914	.	-	.	g144.t1
+4	Tiberius	CDS	69470700	69471914	.	-	0	transcript_id "g144.t1"; gene_id "g144"; cds_type=single;
+4	Tiberius	exon	69470700	69471914	.	-	0	transcript_id "g144.t1"; gene_id "g144"; cds_type=single;
+4	Tiberius	gene	72498540	72498785	.	+	.	g145
+4	Tiberius	transcript	72498540	72498785	.	+	.	g145.t1
+4	Tiberius	CDS	72498540	72498785	.	+	0	transcript_id "g145.t1"; gene_id "g145"; cds_type=single;
+4	Tiberius	exon	72498540	72498785	.	+	0	transcript_id "g145.t1"; gene_id "g145"; cds_type=single;
+4	Tiberius	gene	83220988	83224197	.	+	.	g146
+4	Tiberius	transcript	83220988	83224197	.	+	.	g146.t1
+4	Tiberius	CDS	83220988	83224197	.	+	0	transcript_id "g146.t1"; gene_id "g146"; cds_type=single;
+4	Tiberius	exon	83220988	83224197	.	+	0	transcript_id "g146.t1"; gene_id "g146"; cds_type=single;
+4	Tiberius	gene	83285163	83285480	.	+	.	g147
+4	Tiberius	transcript	83285163	83285480	.	+	.	g147.t1
+4	Tiberius	CDS	83285163	83285480	.	+	0	transcript_id "g147.t1"; gene_id "g147"; cds_type=single;
+4	Tiberius	exon	83285163	83285480	.	+	0	transcript_id "g147.t1"; gene_id "g147"; cds_type=single;
+4	Tiberius	gene	94495087	94495416	.	+	.	g148
+4	Tiberius	transcript	94495087	94495416	.	+	.	g148.t1
+4	Tiberius	CDS	94495087	94495416	.	+	0	transcript_id "g148.t1"; gene_id "g148"; cds_type=single;
+4	Tiberius	exon	94495087	94495416	.	+	0	transcript_id "g148.t1"; gene_id "g148"; cds_type=single;
+4	Tiberius	gene	104990409	104991299	.	-	.	g149
+4	Tiberius	transcript	104990409	104991299	.	-	.	g149.t1
+4	Tiberius	CDS	104990409	104991285	.	-	1	transcript_id "g149.t1"; gene_id "g149"; cds_type=terminal;
+4	Tiberius	exon	104990409	104991285	.	-	1	transcript_id "g149.t1"; gene_id "g149"; cds_type=terminal;
+4	Tiberius	intron	104991286	104991294	.	-	2	transcript_id "g149.t1"; gene_id "g149";
+4	Tiberius	CDS	104991295	104991299	.	-	0	transcript_id "g149.t1"; gene_id "g149"; cds_type=initial;
+4	Tiberius	exon	104991295	104991299	.	-	0	transcript_id "g149.t1"; gene_id "g149"; cds_type=initial;
+4	Tiberius	gene	106185645	106186217	.	+	.	g150
+4	Tiberius	transcript	106185645	106186217	.	+	.	g150.t1
+4	Tiberius	CDS	106185645	106186217	.	+	0	transcript_id "g150.t1"; gene_id "g150"; cds_type=single;
+4	Tiberius	exon	106185645	106186217	.	+	0	transcript_id "g150.t1"; gene_id "g150"; cds_type=single;
+4	Tiberius	gene	106197387	106197629	.	+	.	g151
+4	Tiberius	transcript	106197387	106197629	.	+	.	g151.t1
+4	Tiberius	CDS	106197387	106197629	.	+	0	transcript_id "g151.t1"; gene_id "g151"; cds_type=single;
+4	Tiberius	exon	106197387	106197629	.	+	0	transcript_id "g151.t1"; gene_id "g151"; cds_type=single;
+4	Tiberius	gene	109717985	109719502	.	-	.	g152
+4	Tiberius	transcript	109717985	109719502	.	-	.	g152.t1
+4	Tiberius	CDS	109717985	109719502	.	-	0	transcript_id "g152.t1"; gene_id "g152"; cds_type=single;
+4	Tiberius	exon	109717985	109719502	.	-	0	transcript_id "g152.t1"; gene_id "g152"; cds_type=single;
+4	Tiberius	gene	109941891	109942239	.	-	.	g153
+4	Tiberius	transcript	109941891	109942239	.	-	.	g153.t1
+4	Tiberius	CDS	109941891	109941896	.	-	0	transcript_id "g153.t1"; gene_id "g153"; cds_type=terminal;
+4	Tiberius	exon	109941891	109941896	.	-	0	transcript_id "g153.t1"; gene_id "g153"; cds_type=terminal;
+4	Tiberius	intron	109941897	109941897	.	-	0	transcript_id "g153.t1"; gene_id "g153";
+4	Tiberius	CDS	109941898	109942239	.	-	0	transcript_id "g153.t1"; gene_id "g153"; cds_type=initial;
+4	Tiberius	exon	109941898	109942239	.	-	0	transcript_id "g153.t1"; gene_id "g153"; cds_type=initial;
+4	Tiberius	gene	110002052	110004832	.	+	.	g154
+4	Tiberius	transcript	110002052	110004832	.	+	.	g154.t1
+4	Tiberius	CDS	110002052	110004055	.	+	0	transcript_id "g154.t1"; gene_id "g154"; cds_type=initial;
+4	Tiberius	exon	110002052	110004055	.	+	0	transcript_id "g154.t1"; gene_id "g154"; cds_type=initial;
+4	Tiberius	intron	110004056	110004129	.	+	0	transcript_id "g154.t1"; gene_id "g154";
+4	Tiberius	CDS	110004130	110004828	.	+	0	transcript_id "g154.t1"; gene_id "g154"; cds_type=internal;
+4	Tiberius	exon	110004130	110004828	.	+	0	transcript_id "g154.t1"; gene_id "g154"; cds_type=internal;
+4	Tiberius	intron	110004829	110004829	.	+	0	transcript_id "g154.t1"; gene_id "g154";
+4	Tiberius	CDS	110004830	110004832	.	+	0	transcript_id "g154.t1"; gene_id "g154"; cds_type=terminal;
+4	Tiberius	exon	110004830	110004832	.	+	0	transcript_id "g154.t1"; gene_id "g154"; cds_type=terminal;
+4	Tiberius	gene	110508067	110508936	.	-	.	g155
+4	Tiberius	transcript	110508067	110508936	.	-	.	g155.t1
+4	Tiberius	CDS	110508067	110508936	.	-	0	transcript_id "g155.t1"; gene_id "g155"; cds_type=single;
+4	Tiberius	exon	110508067	110508936	.	-	0	transcript_id "g155.t1"; gene_id "g155"; cds_type=single;
+4	Tiberius	gene	117661018	117662901	.	-	.	g156
+4	Tiberius	transcript	117661018	117662901	.	-	.	g156.t1
+4	Tiberius	CDS	117661018	117662901	.	-	0	transcript_id "g156.t1"; gene_id "g156"; cds_type=single;
+4	Tiberius	exon	117661018	117662901	.	-	0	transcript_id "g156.t1"; gene_id "g156"; cds_type=single;
+4	Tiberius	gene	118730790	118731309	.	+	.	g157
+4	Tiberius	transcript	118730790	118731309	.	+	.	g157.t1
+4	Tiberius	CDS	118730790	118730793	.	+	0	transcript_id "g157.t1"; gene_id "g157"; cds_type=initial;
+4	Tiberius	exon	118730790	118730793	.	+	0	transcript_id "g157.t1"; gene_id "g157"; cds_type=initial;
+4	Tiberius	intron	118730794	118730797	.	+	2	transcript_id "g157.t1"; gene_id "g157";
+4	Tiberius	CDS	118730798	118731309	.	+	2	transcript_id "g157.t1"; gene_id "g157"; cds_type=terminal;
+4	Tiberius	exon	118730798	118731309	.	+	2	transcript_id "g157.t1"; gene_id "g157"; cds_type=terminal;
+4	Tiberius	gene	124268251	124268493	.	-	.	g158
+4	Tiberius	transcript	124268251	124268493	.	-	.	g158.t1
+4	Tiberius	CDS	124268251	124268493	.	-	0	transcript_id "g158.t1"; gene_id "g158"; cds_type=single;
+4	Tiberius	exon	124268251	124268493	.	-	0	transcript_id "g158.t1"; gene_id "g158"; cds_type=single;
+4	Tiberius	gene	131766694	131767162	.	+	.	g159
+4	Tiberius	transcript	131766694	131767162	.	+	.	g159.t1
+4	Tiberius	CDS	131766694	131767157	.	+	0	transcript_id "g159.t1"; gene_id "g159"; cds_type=initial;
+4	Tiberius	exon	131766694	131767157	.	+	0	transcript_id "g159.t1"; gene_id "g159"; cds_type=initial;
+4	Tiberius	intron	131767158	131767158	.	+	1	transcript_id "g159.t1"; gene_id "g159";
+4	Tiberius	CDS	131767159	131767162	.	+	1	transcript_id "g159.t1"; gene_id "g159"; cds_type=terminal;
+4	Tiberius	exon	131767159	131767162	.	+	1	transcript_id "g159.t1"; gene_id "g159"; cds_type=terminal;
+4	Tiberius	gene	139500689	139500985	.	-	.	g160
+4	Tiberius	transcript	139500689	139500985	.	-	.	g160.t1
+4	Tiberius	CDS	139500689	139500985	.	-	0	transcript_id "g160.t1"; gene_id "g160"; cds_type=single;
+4	Tiberius	exon	139500689	139500985	.	-	0	transcript_id "g160.t1"; gene_id "g160"; cds_type=single;
+4	Tiberius	gene	152005801	152006035	.	-	.	g161
+4	Tiberius	transcript	152005801	152006035	.	-	.	g161.t1
+4	Tiberius	CDS	152005801	152006020	.	-	1	transcript_id "g161.t1"; gene_id "g161"; cds_type=terminal;
+4	Tiberius	exon	152005801	152006020	.	-	1	transcript_id "g161.t1"; gene_id "g161"; cds_type=terminal;
+4	Tiberius	intron	152006021	152006027	.	-	2	transcript_id "g161.t1"; gene_id "g161";
+4	Tiberius	CDS	152006028	152006035	.	-	0	transcript_id "g161.t1"; gene_id "g161"; cds_type=initial;
+4	Tiberius	exon	152006028	152006035	.	-	0	transcript_id "g161.t1"; gene_id "g161"; cds_type=initial;
+4	Tiberius	gene	167500445	167500741	.	-	.	g162
+4	Tiberius	transcript	167500445	167500741	.	-	.	g162.t1
+4	Tiberius	CDS	167500445	167500741	.	-	0	transcript_id "g162.t1"; gene_id "g162"; cds_type=single;
+4	Tiberius	exon	167500445	167500741	.	-	0	transcript_id "g162.t1"; gene_id "g162"; cds_type=single;
+4	Tiberius	gene	174035769	174038028	.	-	.	g163
+4	Tiberius	transcript	174035769	174038028	.	-	.	g163.t1
+4	Tiberius	CDS	174035769	174035775	.	-	1	transcript_id "g163.t1"; gene_id "g163"; cds_type=terminal;
+4	Tiberius	exon	174035769	174035775	.	-	1	transcript_id "g163.t1"; gene_id "g163"; cds_type=terminal;
+4	Tiberius	intron	174035776	174035788	.	-	2	transcript_id "g163.t1"; gene_id "g163";
+4	Tiberius	CDS	174035789	174035960	.	-	2	transcript_id "g163.t1"; gene_id "g163"; cds_type=internal;
+4	Tiberius	exon	174035789	174035960	.	-	2	transcript_id "g163.t1"; gene_id "g163"; cds_type=internal;
+4	Tiberius	intron	174035961	174036046	.	-	1	transcript_id "g163.t1"; gene_id "g163";
+4	Tiberius	CDS	174036047	174036179	.	-	0	transcript_id "g163.t1"; gene_id "g163"; cds_type=internal;
+4	Tiberius	exon	174036047	174036179	.	-	0	transcript_id "g163.t1"; gene_id "g163"; cds_type=internal;
+4	Tiberius	intron	174036180	174036255	.	-	0	transcript_id "g163.t1"; gene_id "g163";
+4	Tiberius	CDS	174036256	174038028	.	-	0	transcript_id "g163.t1"; gene_id "g163"; cds_type=initial;
+4	Tiberius	exon	174036256	174038028	.	-	0	transcript_id "g163.t1"; gene_id "g163"; cds_type=initial;
+4	Tiberius	gene	210956026	210956351	.	+	.	g164
+4	Tiberius	transcript	210956026	210956351	.	+	.	g164.t1
+4	Tiberius	CDS	210956026	210956342	.	+	0	transcript_id "g164.t1"; gene_id "g164"; cds_type=initial;
+4	Tiberius	exon	210956026	210956342	.	+	0	transcript_id "g164.t1"; gene_id "g164"; cds_type=initial;
+4	Tiberius	intron	210956343	210956343	.	+	1	transcript_id "g164.t1"; gene_id "g164";
+4	Tiberius	CDS	210956344	210956347	.	+	1	transcript_id "g164.t1"; gene_id "g164"; cds_type=internal;
+4	Tiberius	exon	210956344	210956347	.	+	1	transcript_id "g164.t1"; gene_id "g164"; cds_type=internal;
+4	Tiberius	intron	210956348	210956348	.	+	0	transcript_id "g164.t1"; gene_id "g164";
+4	Tiberius	CDS	210956349	210956351	.	+	0	transcript_id "g164.t1"; gene_id "g164"; cds_type=terminal;
+4	Tiberius	exon	210956349	210956351	.	+	0	transcript_id "g164.t1"; gene_id "g164"; cds_type=terminal;
+4	Tiberius	gene	210957472	210958478	.	+	.	g165
+4	Tiberius	transcript	210957472	210958478	.	+	.	g165.t1
+4	Tiberius	CDS	210957472	210958465	.	+	0	transcript_id "g165.t1"; gene_id "g165"; cds_type=initial;
+4	Tiberius	exon	210957472	210958465	.	+	0	transcript_id "g165.t1"; gene_id "g165"; cds_type=initial;
+4	Tiberius	intron	210958466	210958470	.	+	2	transcript_id "g165.t1"; gene_id "g165";
+4	Tiberius	CDS	210958471	210958478	.	+	2	transcript_id "g165.t1"; gene_id "g165"; cds_type=terminal;
+4	Tiberius	exon	210958471	210958478	.	+	2	transcript_id "g165.t1"; gene_id "g165"; cds_type=terminal;
+4	Tiberius	gene	216902014	216902256	.	+	.	g166
+4	Tiberius	transcript	216902014	216902256	.	+	.	g166.t1
+4	Tiberius	CDS	216902014	216902256	.	+	0	transcript_id "g166.t1"; gene_id "g166"; cds_type=single;
+4	Tiberius	exon	216902014	216902256	.	+	0	transcript_id "g166.t1"; gene_id "g166"; cds_type=single;
+5	Tiberius	gene	21005518	21008682	.	-	.	g167
+5	Tiberius	transcript	21005518	21008682	.	-	.	g167.t1
+5	Tiberius	CDS	21005518	21008682	.	-	0	transcript_id "g167.t1"; gene_id "g167"; cds_type=single;
+5	Tiberius	exon	21005518	21008682	.	-	0	transcript_id "g167.t1"; gene_id "g167"; cds_type=single;
+5	Tiberius	gene	33952020	33952436	.	-	.	g168
+5	Tiberius	transcript	33952020	33952436	.	-	.	g168.t1
+5	Tiberius	CDS	33952020	33952436	.	-	0	transcript_id "g168.t1"; gene_id "g168"; cds_type=single;
+5	Tiberius	exon	33952020	33952436	.	-	0	transcript_id "g168.t1"; gene_id "g168"; cds_type=single;
+5	Tiberius	gene	33962900	33964716	.	-	.	g169
+5	Tiberius	transcript	33962900	33964716	.	-	.	g169.t1
+5	Tiberius	CDS	33962900	33962926	.	-	0	transcript_id "g169.t1"; gene_id "g169"; cds_type=terminal;
+5	Tiberius	exon	33962900	33962926	.	-	0	transcript_id "g169.t1"; gene_id "g169"; cds_type=terminal;
+5	Tiberius	intron	33962927	33962999	.	-	0	transcript_id "g169.t1"; gene_id "g169";
+5	Tiberius	CDS	33963000	33963698	.	-	0	transcript_id "g169.t1"; gene_id "g169"; cds_type=internal;
+5	Tiberius	exon	33963000	33963698	.	-	0	transcript_id "g169.t1"; gene_id "g169"; cds_type=internal;
+5	Tiberius	intron	33963699	33963774	.	-	0	transcript_id "g169.t1"; gene_id "g169";
+5	Tiberius	CDS	33963775	33964716	.	-	0	transcript_id "g169.t1"; gene_id "g169"; cds_type=initial;
+5	Tiberius	exon	33963775	33964716	.	-	0	transcript_id "g169.t1"; gene_id "g169"; cds_type=initial;
+5	Tiberius	gene	37658882	37659448	.	-	.	g170
+5	Tiberius	transcript	37658882	37659448	.	-	.	g170.t1
+5	Tiberius	CDS	37658882	37659448	.	-	0	transcript_id "g170.t1"; gene_id "g170"; cds_type=single;
+5	Tiberius	exon	37658882	37659448	.	-	0	transcript_id "g170.t1"; gene_id "g170"; cds_type=single;
+5	Tiberius	gene	41607397	41608827	.	+	.	g171
+5	Tiberius	transcript	41607397	41608827	.	+	.	g171.t1
+5	Tiberius	CDS	41607397	41608827	.	+	0	transcript_id "g171.t1"; gene_id "g171"; cds_type=single;
+5	Tiberius	exon	41607397	41608827	.	+	0	transcript_id "g171.t1"; gene_id "g171"; cds_type=single;
+5	Tiberius	gene	45500861	45501178	.	+	.	g172
+5	Tiberius	transcript	45500861	45501178	.	+	.	g172.t1
+5	Tiberius	CDS	45500861	45501178	.	+	0	transcript_id "g172.t1"; gene_id "g172"; cds_type=single;
+5	Tiberius	exon	45500861	45501178	.	+	0	transcript_id "g172.t1"; gene_id "g172"; cds_type=single;
+5	Tiberius	gene	45502103	45505314	.	-	.	g173
+5	Tiberius	transcript	45502103	45505314	.	-	.	g173.t1
+5	Tiberius	CDS	45502103	45502236	.	-	2	transcript_id "g173.t1"; gene_id "g173"; cds_type=terminal;
+5	Tiberius	exon	45502103	45502236	.	-	2	transcript_id "g173.t1"; gene_id "g173"; cds_type=terminal;
+5	Tiberius	intron	45502237	45502332	.	-	1	transcript_id "g173.t1"; gene_id "g173";
+5	Tiberius	CDS	45502333	45503125	.	-	0	transcript_id "g173.t1"; gene_id "g173"; cds_type=internal;
+5	Tiberius	exon	45502333	45503125	.	-	0	transcript_id "g173.t1"; gene_id "g173"; cds_type=internal;
+5	Tiberius	intron	45503126	45503199	.	-	0	transcript_id "g173.t1"; gene_id "g173";
+5	Tiberius	CDS	45503200	45505314	.	-	0	transcript_id "g173.t1"; gene_id "g173"; cds_type=initial;
+5	Tiberius	exon	45503200	45505314	.	-	0	transcript_id "g173.t1"; gene_id "g173"; cds_type=initial;
+5	Tiberius	gene	45506792	45507117	.	+	.	g174
+5	Tiberius	transcript	45506792	45507117	.	+	.	g174.t1
+5	Tiberius	CDS	45506792	45507108	.	+	0	transcript_id "g174.t1"; gene_id "g174"; cds_type=initial;
+5	Tiberius	exon	45506792	45507108	.	+	0	transcript_id "g174.t1"; gene_id "g174"; cds_type=initial;
+5	Tiberius	intron	45507109	45507109	.	+	1	transcript_id "g174.t1"; gene_id "g174";
+5	Tiberius	CDS	45507110	45507113	.	+	1	transcript_id "g174.t1"; gene_id "g174"; cds_type=internal;
+5	Tiberius	exon	45507110	45507113	.	+	1	transcript_id "g174.t1"; gene_id "g174"; cds_type=internal;
+5	Tiberius	intron	45507114	45507114	.	+	0	transcript_id "g174.t1"; gene_id "g174";
+5	Tiberius	CDS	45507115	45507117	.	+	0	transcript_id "g174.t1"; gene_id "g174"; cds_type=terminal;
+5	Tiberius	exon	45507115	45507117	.	+	0	transcript_id "g174.t1"; gene_id "g174"; cds_type=terminal;
+5	Tiberius	gene	45507497	45508770	.	+	.	g175
+5	Tiberius	transcript	45507497	45508770	.	+	.	g175.t1
+5	Tiberius	CDS	45507497	45508753	.	+	0	transcript_id "g175.t1"; gene_id "g175"; cds_type=initial;
+5	Tiberius	exon	45507497	45508753	.	+	0	transcript_id "g175.t1"; gene_id "g175"; cds_type=initial;
+5	Tiberius	intron	45508754	45508764	.	+	0	transcript_id "g175.t1"; gene_id "g175";
+5	Tiberius	CDS	45508765	45508770	.	+	0	transcript_id "g175.t1"; gene_id "g175"; cds_type=terminal;
+5	Tiberius	exon	45508765	45508770	.	+	0	transcript_id "g175.t1"; gene_id "g175"; cds_type=terminal;
+5	Tiberius	gene	51177517	51178675	.	-	.	g176
+5	Tiberius	transcript	51177517	51178675	.	-	.	g176.t1
+5	Tiberius	CDS	51177517	51177520	.	-	1	transcript_id "g176.t1"; gene_id "g176"; cds_type=terminal;
+5	Tiberius	exon	51177517	51177520	.	-	1	transcript_id "g176.t1"; gene_id "g176"; cds_type=terminal;
+5	Tiberius	intron	51177521	51177521	.	-	2	transcript_id "g176.t1"; gene_id "g176";
+5	Tiberius	CDS	51177522	51178309	.	-	0	transcript_id "g176.t1"; gene_id "g176"; cds_type=internal;
+5	Tiberius	exon	51177522	51178309	.	-	0	transcript_id "g176.t1"; gene_id "g176"; cds_type=internal;
+5	Tiberius	intron	51178310	51178396	.	-	0	transcript_id "g176.t1"; gene_id "g176";
+5	Tiberius	CDS	51178397	51178675	.	-	0	transcript_id "g176.t1"; gene_id "g176"; cds_type=initial;
+5	Tiberius	exon	51178397	51178675	.	-	0	transcript_id "g176.t1"; gene_id "g176"; cds_type=initial;
+5	Tiberius	gene	55445906	55446628	.	-	.	g177
+5	Tiberius	transcript	55445906	55446628	.	-	.	g177.t1
+5	Tiberius	CDS	55445906	55446628	.	-	0	transcript_id "g177.t1"; gene_id "g177"; cds_type=single;
+5	Tiberius	exon	55445906	55446628	.	-	0	transcript_id "g177.t1"; gene_id "g177"; cds_type=single;
+5	Tiberius	gene	55507109	55508212	.	-	.	g178
+5	Tiberius	transcript	55507109	55508212	.	-	.	g178.t1
+5	Tiberius	CDS	55507109	55507111	.	-	0	transcript_id "g178.t1"; gene_id "g178"; cds_type=terminal;
+5	Tiberius	exon	55507109	55507111	.	-	0	transcript_id "g178.t1"; gene_id "g178"; cds_type=terminal;
+5	Tiberius	intron	55507112	55507112	.	-	0	transcript_id "g178.t1"; gene_id "g178";
+5	Tiberius	CDS	55507113	55507811	.	-	0	transcript_id "g178.t1"; gene_id "g178"; cds_type=internal;
+5	Tiberius	exon	55507113	55507811	.	-	0	transcript_id "g178.t1"; gene_id "g178"; cds_type=internal;
+5	Tiberius	intron	55507812	55507885	.	-	0	transcript_id "g178.t1"; gene_id "g178";
+5	Tiberius	CDS	55507886	55508212	.	-	0	transcript_id "g178.t1"; gene_id "g178"; cds_type=initial;
+5	Tiberius	exon	55507886	55508212	.	-	0	transcript_id "g178.t1"; gene_id "g178"; cds_type=initial;
+5	Tiberius	gene	59331333	59331592	.	-	.	g179
+5	Tiberius	transcript	59331333	59331592	.	-	.	g179.t1
+5	Tiberius	CDS	59331333	59331335	.	-	0	transcript_id "g179.t1"; gene_id "g179"; cds_type=terminal;
+5	Tiberius	exon	59331333	59331335	.	-	0	transcript_id "g179.t1"; gene_id "g179"; cds_type=terminal;
+5	Tiberius	intron	59331336	59331336	.	-	0	transcript_id "g179.t1"; gene_id "g179";
+5	Tiberius	CDS	59331337	59331340	.	-	1	transcript_id "g179.t1"; gene_id "g179"; cds_type=internal;
+5	Tiberius	exon	59331337	59331340	.	-	1	transcript_id "g179.t1"; gene_id "g179"; cds_type=internal;
+5	Tiberius	intron	59331341	59331341	.	-	2	transcript_id "g179.t1"; gene_id "g179";
+5	Tiberius	CDS	59331342	59331592	.	-	0	transcript_id "g179.t1"; gene_id "g179"; cds_type=initial;
+5	Tiberius	exon	59331342	59331592	.	-	0	transcript_id "g179.t1"; gene_id "g179"; cds_type=initial;
+5	Tiberius	gene	62219293	62219841	.	+	.	g180
+5	Tiberius	transcript	62219293	62219841	.	+	.	g180.t1
+5	Tiberius	CDS	62219293	62219841	.	+	0	transcript_id "g180.t1"; gene_id "g180"; cds_type=single;
+5	Tiberius	exon	62219293	62219841	.	+	0	transcript_id "g180.t1"; gene_id "g180"; cds_type=single;
+5	Tiberius	gene	64473228	64475813	.	+	.	g181
+5	Tiberius	transcript	64473228	64475813	.	+	.	g181.t1
+5	Tiberius	CDS	64473228	64475813	.	+	0	transcript_id "g181.t1"; gene_id "g181"; cds_type=single;
+5	Tiberius	exon	64473228	64475813	.	+	0	transcript_id "g181.t1"; gene_id "g181"; cds_type=single;
+5	Tiberius	gene	71637586	71641539	.	+	.	g182
+5	Tiberius	transcript	71637586	71641539	.	+	.	g182.t1
+5	Tiberius	CDS	71637586	71641539	.	+	0	transcript_id "g182.t1"; gene_id "g182"; cds_type=single;
+5	Tiberius	exon	71637586	71641539	.	+	0	transcript_id "g182.t1"; gene_id "g182"; cds_type=single;
+5	Tiberius	gene	79420429	79423077	.	-	.	g183
+5	Tiberius	transcript	79420429	79423077	.	-	.	g183.t1
+5	Tiberius	CDS	79420429	79423077	.	-	0	transcript_id "g183.t1"; gene_id "g183"; cds_type=single;
+5	Tiberius	exon	79420429	79423077	.	-	0	transcript_id "g183.t1"; gene_id "g183"; cds_type=single;
+5	Tiberius	gene	81519024	81519893	.	+	.	g184
+5	Tiberius	transcript	81519024	81519893	.	+	.	g184.t1
+5	Tiberius	CDS	81519024	81519893	.	+	0	transcript_id "g184.t1"; gene_id "g184"; cds_type=single;
+5	Tiberius	exon	81519024	81519893	.	+	0	transcript_id "g184.t1"; gene_id "g184"; cds_type=single;
+5	Tiberius	gene	88867860	88868359	.	+	.	g185
+5	Tiberius	transcript	88867860	88868359	.	+	.	g185.t1
+5	Tiberius	CDS	88867860	88868342	.	+	0	transcript_id "g185.t1"; gene_id "g185"; cds_type=initial;
+5	Tiberius	exon	88867860	88868342	.	+	0	transcript_id "g185.t1"; gene_id "g185"; cds_type=initial;
+5	Tiberius	intron	88868343	88868347	.	+	0	transcript_id "g185.t1"; gene_id "g185";
+5	Tiberius	CDS	88868348	88868359	.	+	0	transcript_id "g185.t1"; gene_id "g185"; cds_type=terminal;
+5	Tiberius	exon	88868348	88868359	.	+	0	transcript_id "g185.t1"; gene_id "g185"; cds_type=terminal;
+5	Tiberius	gene	106001103	106002033	.	+	.	g186
+5	Tiberius	transcript	106001103	106002033	.	+	.	g186.t1
+5	Tiberius	CDS	106001103	106002012	.	+	0	transcript_id "g186.t1"; gene_id "g186"; cds_type=initial;
+5	Tiberius	exon	106001103	106002012	.	+	0	transcript_id "g186.t1"; gene_id "g186"; cds_type=initial;
+5	Tiberius	intron	106002013	106002013	.	+	2	transcript_id "g186.t1"; gene_id "g186";
+5	Tiberius	CDS	106002014	106002033	.	+	2	transcript_id "g186.t1"; gene_id "g186"; cds_type=terminal;
+5	Tiberius	exon	106002014	106002033	.	+	2	transcript_id "g186.t1"; gene_id "g186"; cds_type=terminal;
+5	Tiberius	gene	106029294	106029842	.	+	.	g187
+5	Tiberius	transcript	106029294	106029842	.	+	.	g187.t1
+5	Tiberius	CDS	106029294	106029842	.	+	0	transcript_id "g187.t1"; gene_id "g187"; cds_type=single;
+5	Tiberius	exon	106029294	106029842	.	+	0	transcript_id "g187.t1"; gene_id "g187"; cds_type=single;
+5	Tiberius	gene	106050705	106051472	.	+	.	g188
+5	Tiberius	transcript	106050705	106051472	.	+	.	g188.t1
+5	Tiberius	CDS	106050705	106051472	.	+	0	transcript_id "g188.t1"; gene_id "g188"; cds_type=single;
+5	Tiberius	exon	106050705	106051472	.	+	0	transcript_id "g188.t1"; gene_id "g188"; cds_type=single;
+5	Tiberius	gene	113669980	113670363	.	+	.	g189
+5	Tiberius	transcript	113669980	113670363	.	+	.	g189.t1
+5	Tiberius	CDS	113669980	113670363	.	+	0	transcript_id "g189.t1"; gene_id "g189"; cds_type=single;
+5	Tiberius	exon	113669980	113670363	.	+	0	transcript_id "g189.t1"; gene_id "g189"; cds_type=single;
+5	Tiberius	gene	116269740	116271257	.	+	.	g190
+5	Tiberius	transcript	116269740	116271257	.	+	.	g190.t1
+5	Tiberius	CDS	116269740	116271257	.	+	0	transcript_id "g190.t1"; gene_id "g190"; cds_type=single;
+5	Tiberius	exon	116269740	116271257	.	+	0	transcript_id "g190.t1"; gene_id "g190"; cds_type=single;
+5	Tiberius	gene	116287403	116289894	.	-	.	g191
+5	Tiberius	transcript	116287403	116289894	.	-	.	g191.t1
+5	Tiberius	CDS	116287403	116287536	.	-	2	transcript_id "g191.t1"; gene_id "g191"; cds_type=terminal;
+5	Tiberius	exon	116287403	116287536	.	-	2	transcript_id "g191.t1"; gene_id "g191"; cds_type=terminal;
+5	Tiberius	intron	116287537	116287632	.	-	1	transcript_id "g191.t1"; gene_id "g191";
+5	Tiberius	CDS	116287633	116288425	.	-	0	transcript_id "g191.t1"; gene_id "g191"; cds_type=internal;
+5	Tiberius	exon	116287633	116288425	.	-	0	transcript_id "g191.t1"; gene_id "g191"; cds_type=internal;
+5	Tiberius	intron	116288426	116288514	.	-	0	transcript_id "g191.t1"; gene_id "g191";
+5	Tiberius	CDS	116288515	116289894	.	-	0	transcript_id "g191.t1"; gene_id "g191"; cds_type=initial;
+5	Tiberius	exon	116288515	116289894	.	-	0	transcript_id "g191.t1"; gene_id "g191"; cds_type=initial;
+5	Tiberius	gene	118528806	118529048	.	-	.	g192
+5	Tiberius	transcript	118528806	118529048	.	-	.	g192.t1
+5	Tiberius	CDS	118528806	118529048	.	-	0	transcript_id "g192.t1"; gene_id "g192"; cds_type=single;
+5	Tiberius	exon	118528806	118529048	.	-	0	transcript_id "g192.t1"; gene_id "g192"; cds_type=single;
+5	Tiberius	gene	118535632	118539585	.	-	.	g193
+5	Tiberius	transcript	118535632	118539585	.	-	.	g193.t1
+5	Tiberius	CDS	118535632	118539585	.	-	0	transcript_id "g193.t1"; gene_id "g193"; cds_type=single;
+5	Tiberius	exon	118535632	118539585	.	-	0	transcript_id "g193.t1"; gene_id "g193"; cds_type=single;
+5	Tiberius	gene	122174470	122174979	.	-	.	g194
+5	Tiberius	transcript	122174470	122174979	.	-	.	g194.t1
+5	Tiberius	CDS	122174470	122174979	.	-	0	transcript_id "g194.t1"; gene_id "g194"; cds_type=single;
+5	Tiberius	exon	122174470	122174979	.	-	0	transcript_id "g194.t1"; gene_id "g194"; cds_type=single;
+5	Tiberius	gene	122175522	122176353	.	-	.	g195
+5	Tiberius	transcript	122175522	122176353	.	-	.	g195.t1
+5	Tiberius	CDS	122175522	122175525	.	-	1	transcript_id "g195.t1"; gene_id "g195"; cds_type=terminal;
+5	Tiberius	exon	122175522	122175525	.	-	1	transcript_id "g195.t1"; gene_id "g195"; cds_type=terminal;
+5	Tiberius	intron	122175526	122175526	.	-	2	transcript_id "g195.t1"; gene_id "g195";
+5	Tiberius	CDS	122175527	122176353	.	-	0	transcript_id "g195.t1"; gene_id "g195"; cds_type=initial;
+5	Tiberius	exon	122175527	122176353	.	-	0	transcript_id "g195.t1"; gene_id "g195"; cds_type=initial;
+5	Tiberius	gene	128238680	128239999	.	-	.	g196
+5	Tiberius	transcript	128238680	128239999	.	-	.	g196.t1
+5	Tiberius	CDS	128238680	128239999	.	-	0	transcript_id "g196.t1"; gene_id "g196"; cds_type=single;
+5	Tiberius	exon	128238680	128239999	.	-	0	transcript_id "g196.t1"; gene_id "g196"; cds_type=single;
+5	Tiberius	gene	131852095	131852457	.	+	.	g197
+5	Tiberius	transcript	131852095	131852457	.	+	.	g197.t1
+5	Tiberius	CDS	131852095	131852457	.	+	0	transcript_id "g197.t1"; gene_id "g197"; cds_type=single;
+5	Tiberius	exon	131852095	131852457	.	+	0	transcript_id "g197.t1"; gene_id "g197"; cds_type=single;
+5	Tiberius	gene	133299997	133301316	.	+	.	g198
+5	Tiberius	transcript	133299997	133301316	.	+	.	g198.t1
+5	Tiberius	CDS	133299997	133301316	.	+	0	transcript_id "g198.t1"; gene_id "g198"; cds_type=single;
+5	Tiberius	exon	133299997	133301316	.	+	0	transcript_id "g198.t1"; gene_id "g198"; cds_type=single;
+5	Tiberius	gene	143988936	143989529	.	-	.	g199
+5	Tiberius	transcript	143988936	143989529	.	-	.	g199.t1
+5	Tiberius	CDS	143988936	143989529	.	-	0	transcript_id "g199.t1"; gene_id "g199"; cds_type=single;
+5	Tiberius	exon	143988936	143989529	.	-	0	transcript_id "g199.t1"; gene_id "g199"; cds_type=single;
+5	Tiberius	gene	143989828	143991563	.	-	.	g200
+5	Tiberius	transcript	143989828	143991563	.	-	.	g200.t1
+5	Tiberius	CDS	143989828	143989831	.	-	1	transcript_id "g200.t1"; gene_id "g200"; cds_type=terminal;
+5	Tiberius	exon	143989828	143989831	.	-	1	transcript_id "g200.t1"; gene_id "g200"; cds_type=terminal;
+5	Tiberius	intron	143989832	143989836	.	-	2	transcript_id "g200.t1"; gene_id "g200";
+5	Tiberius	CDS	143989837	143991563	.	-	0	transcript_id "g200.t1"; gene_id "g200"; cds_type=initial;
+5	Tiberius	exon	143989837	143991563	.	-	0	transcript_id "g200.t1"; gene_id "g200"; cds_type=initial;
+5	Tiberius	gene	146705597	146707027	.	-	.	g201
+5	Tiberius	transcript	146705597	146707027	.	-	.	g201.t1
+5	Tiberius	CDS	146705597	146705599	.	-	0	transcript_id "g201.t1"; gene_id "g201"; cds_type=terminal;
+5	Tiberius	exon	146705597	146705599	.	-	0	transcript_id "g201.t1"; gene_id "g201"; cds_type=terminal;
+5	Tiberius	intron	146705600	146705600	.	-	0	transcript_id "g201.t1"; gene_id "g201";
+5	Tiberius	CDS	146705601	146706299	.	-	0	transcript_id "g201.t1"; gene_id "g201"; cds_type=internal;
+5	Tiberius	exon	146705601	146706299	.	-	0	transcript_id "g201.t1"; gene_id "g201"; cds_type=internal;
+5	Tiberius	intron	146706300	146706373	.	-	0	transcript_id "g201.t1"; gene_id "g201";
+5	Tiberius	CDS	146706374	146707027	.	-	0	transcript_id "g201.t1"; gene_id "g201"; cds_type=initial;
+5	Tiberius	exon	146706374	146707027	.	-	0	transcript_id "g201.t1"; gene_id "g201"; cds_type=initial;
+5	Tiberius	gene	146708164	146708392	.	-	.	g202
+5	Tiberius	transcript	146708164	146708392	.	-	.	g202.t1
+5	Tiberius	CDS	146708164	146708171	.	-	2	transcript_id "g202.t1"; gene_id "g202"; cds_type=terminal;
+5	Tiberius	exon	146708164	146708171	.	-	2	transcript_id "g202.t1"; gene_id "g202"; cds_type=terminal;
+5	Tiberius	intron	146708172	146708172	.	-	1	transcript_id "g202.t1"; gene_id "g202";
+5	Tiberius	CDS	146708173	146708392	.	-	0	transcript_id "g202.t1"; gene_id "g202"; cds_type=initial;
+5	Tiberius	exon	146708173	146708392	.	-	0	transcript_id "g202.t1"; gene_id "g202"; cds_type=initial;
+5	Tiberius	gene	150927637	150928768	.	+	.	g203
+5	Tiberius	transcript	150927637	150928768	.	+	.	g203.t1
+5	Tiberius	CDS	150927637	150928764	.	+	0	transcript_id "g203.t1"; gene_id "g203"; cds_type=initial;
+5	Tiberius	exon	150927637	150928764	.	+	0	transcript_id "g203.t1"; gene_id "g203"; cds_type=initial;
+5	Tiberius	intron	150928765	150928765	.	+	0	transcript_id "g203.t1"; gene_id "g203";
+5	Tiberius	CDS	150928766	150928768	.	+	0	transcript_id "g203.t1"; gene_id "g203"; cds_type=terminal;
+5	Tiberius	exon	150928766	150928768	.	+	0	transcript_id "g203.t1"; gene_id "g203"; cds_type=terminal;
+5	Tiberius	gene	159511411	159511633	.	+	.	g204
+5	Tiberius	transcript	159511411	159511633	.	+	.	g204.t1
+5	Tiberius	CDS	159511411	159511413	.	+	0	transcript_id "g204.t1"; gene_id "g204"; cds_type=initial;
+5	Tiberius	exon	159511411	159511413	.	+	0	transcript_id "g204.t1"; gene_id "g204"; cds_type=initial;
+5	Tiberius	intron	159511414	159511426	.	+	0	transcript_id "g204.t1"; gene_id "g204";
+5	Tiberius	CDS	159511427	159511633	.	+	0	transcript_id "g204.t1"; gene_id "g204"; cds_type=terminal;
+5	Tiberius	exon	159511427	159511633	.	+	0	transcript_id "g204.t1"; gene_id "g204"; cds_type=terminal;
+5	Tiberius	gene	159554125	159555642	.	-	.	g205
+5	Tiberius	transcript	159554125	159555642	.	-	.	g205.t1
+5	Tiberius	CDS	159554125	159555642	.	-	0	transcript_id "g205.t1"; gene_id "g205"; cds_type=single;
+5	Tiberius	exon	159554125	159555642	.	-	0	transcript_id "g205.t1"; gene_id "g205"; cds_type=single;
+5	Tiberius	gene	169492490	169493533	.	-	.	g206
+5	Tiberius	transcript	169492490	169493533	.	-	.	g206.t1
+5	Tiberius	CDS	169492490	169493533	.	-	0	transcript_id "g206.t1"; gene_id "g206"; cds_type=single;
+5	Tiberius	exon	169492490	169493533	.	-	0	transcript_id "g206.t1"; gene_id "g206"; cds_type=single;
+5	Tiberius	gene	172501486	172502922	.	-	.	g207
+5	Tiberius	transcript	172501486	172502922	.	-	.	g207.t1
+5	Tiberius	CDS	172501486	172502922	.	-	0	transcript_id "g207.t1"; gene_id "g207"; cds_type=single;
+5	Tiberius	exon	172501486	172502922	.	-	0	transcript_id "g207.t1"; gene_id "g207"; cds_type=single;
+5	Tiberius	gene	182000382	182001108	.	-	.	g208
+5	Tiberius	transcript	182000382	182001108	.	-	.	g208.t1
+5	Tiberius	CDS	182000382	182000384	.	-	0	transcript_id "g208.t1"; gene_id "g208"; cds_type=terminal;
+5	Tiberius	exon	182000382	182000384	.	-	0	transcript_id "g208.t1"; gene_id "g208"; cds_type=terminal;
+5	Tiberius	intron	182000385	182000385	.	-	0	transcript_id "g208.t1"; gene_id "g208";
+5	Tiberius	CDS	182000386	182001108	.	-	0	transcript_id "g208.t1"; gene_id "g208"; cds_type=initial;
+5	Tiberius	exon	182000386	182001108	.	-	0	transcript_id "g208.t1"; gene_id "g208"; cds_type=initial;
+5	Tiberius	gene	183998971	183999630	.	-	.	g209
+5	Tiberius	transcript	183998971	183999630	.	-	.	g209.t1
+5	Tiberius	CDS	183998971	183999630	.	-	0	transcript_id "g209.t1"; gene_id "g209"; cds_type=single;
+5	Tiberius	exon	183998971	183999630	.	-	0	transcript_id "g209.t1"; gene_id "g209"; cds_type=single;
+5	Tiberius	gene	184001071	184001373	.	-	.	g210
+5	Tiberius	transcript	184001071	184001373	.	-	.	g210.t1
+5	Tiberius	CDS	184001071	184001373	.	-	0	transcript_id "g210.t1"; gene_id "g210"; cds_type=single;
+5	Tiberius	exon	184001071	184001373	.	-	0	transcript_id "g210.t1"; gene_id "g210"; cds_type=single;
+5	Tiberius	gene	184798021	184798878	.	+	.	g211
+5	Tiberius	transcript	184798021	184798878	.	+	.	g211.t1
+5	Tiberius	CDS	184798021	184798878	.	+	0	transcript_id "g211.t1"; gene_id "g211"; cds_type=single;
+5	Tiberius	exon	184798021	184798878	.	+	0	transcript_id "g211.t1"; gene_id "g211"; cds_type=single;
+5	Tiberius	gene	186003514	186004245	.	-	.	g212
+5	Tiberius	transcript	186003514	186004245	.	-	.	g212.t1
+5	Tiberius	CDS	186003514	186004245	.	-	0	transcript_id "g212.t1"; gene_id "g212"; cds_type=single;
+5	Tiberius	exon	186003514	186004245	.	-	0	transcript_id "g212.t1"; gene_id "g212"; cds_type=single;
+5	Tiberius	gene	186960915	186961673	.	+	.	g213
+5	Tiberius	transcript	186960915	186961673	.	+	.	g213.t1
+5	Tiberius	CDS	186960915	186961673	.	+	0	transcript_id "g213.t1"; gene_id "g213"; cds_type=single;
+5	Tiberius	exon	186960915	186961673	.	+	0	transcript_id "g213.t1"; gene_id "g213"; cds_type=single;
+5	Tiberius	gene	189500640	189501330	.	+	.	g214
+5	Tiberius	transcript	189500640	189501330	.	+	.	g214.t1
+5	Tiberius	CDS	189500640	189501324	.	+	0	transcript_id "g214.t1"; gene_id "g214"; cds_type=initial;
+5	Tiberius	exon	189500640	189501324	.	+	0	transcript_id "g214.t1"; gene_id "g214"; cds_type=initial;
+5	Tiberius	intron	189501325	189501325	.	+	2	transcript_id "g214.t1"; gene_id "g214";
+5	Tiberius	CDS	189501326	189501330	.	+	2	transcript_id "g214.t1"; gene_id "g214"; cds_type=terminal;
+5	Tiberius	exon	189501326	189501330	.	+	2	transcript_id "g214.t1"; gene_id "g214"; cds_type=terminal;
+5	Tiberius	gene	200455690	200456148	.	-	.	g215
+5	Tiberius	transcript	200455690	200456148	.	-	.	g215.t1
+5	Tiberius	CDS	200455690	200456148	.	-	0	transcript_id "g215.t1"; gene_id "g215"; cds_type=single;
+5	Tiberius	exon	200455690	200456148	.	-	0	transcript_id "g215.t1"; gene_id "g215"; cds_type=single;
+5	Tiberius	gene	200478021	200480126	.	+	.	g216
+5	Tiberius	transcript	200478021	200480126	.	+	.	g216.t1
+5	Tiberius	CDS	200478021	200479232	.	+	0	transcript_id "g216.t1"; gene_id "g216"; cds_type=initial;
+5	Tiberius	exon	200478021	200479232	.	+	0	transcript_id "g216.t1"; gene_id "g216"; cds_type=initial;
+5	Tiberius	intron	200479233	200479322	.	+	0	transcript_id "g216.t1"; gene_id "g216";
+5	Tiberius	CDS	200479323	200480126	.	+	0	transcript_id "g216.t1"; gene_id "g216"; cds_type=terminal;
+5	Tiberius	exon	200479323	200480126	.	+	0	transcript_id "g216.t1"; gene_id "g216"; cds_type=terminal;
+5	Tiberius	gene	219860359	219862101	.	-	.	g217
+5	Tiberius	transcript	219860359	219862101	.	-	.	g217.t1
+5	Tiberius	CDS	219860359	219862101	.	-	0	transcript_id "g217.t1"; gene_id "g217"; cds_type=single;
+5	Tiberius	exon	219860359	219862101	.	-	0	transcript_id "g217.t1"; gene_id "g217"; cds_type=single;
+5	Tiberius	gene	219885970	219887316	.	+	.	g218
+5	Tiberius	transcript	219885970	219887316	.	+	.	g218.t1
+5	Tiberius	CDS	219885970	219887316	.	+	0	transcript_id "g218.t1"; gene_id "g218"; cds_type=single;
+5	Tiberius	exon	219885970	219887316	.	+	0	transcript_id "g218.t1"; gene_id "g218"; cds_type=single;
+6	Tiberius	gene	6000784	6003893	.	-	.	g219
+6	Tiberius	transcript	6000784	6003893	.	-	.	g219.t1
+6	Tiberius	CDS	6000784	6000899	.	-	2	transcript_id "g219.t1"; gene_id "g219"; cds_type=terminal;
+6	Tiberius	exon	6000784	6000899	.	-	2	transcript_id "g219.t1"; gene_id "g219"; cds_type=terminal;
+6	Tiberius	intron	6000900	6000992	.	-	1	transcript_id "g219.t1"; gene_id "g219";
+6	Tiberius	CDS	6000993	6001785	.	-	0	transcript_id "g219.t1"; gene_id "g219"; cds_type=internal;
+6	Tiberius	exon	6000993	6001785	.	-	0	transcript_id "g219.t1"; gene_id "g219"; cds_type=internal;
+6	Tiberius	intron	6001786	6001868	.	-	0	transcript_id "g219.t1"; gene_id "g219";
+6	Tiberius	CDS	6001869	6003893	.	-	0	transcript_id "g219.t1"; gene_id "g219"; cds_type=initial;
+6	Tiberius	exon	6001869	6003893	.	-	0	transcript_id "g219.t1"; gene_id "g219"; cds_type=initial;
+6	Tiberius	gene	11045555	11046011	.	-	.	g220
+6	Tiberius	transcript	11045555	11046011	.	-	.	g220.t1
+6	Tiberius	CDS	11045555	11045563	.	-	0	transcript_id "g220.t1"; gene_id "g220"; cds_type=terminal;
+6	Tiberius	exon	11045555	11045563	.	-	0	transcript_id "g220.t1"; gene_id "g220"; cds_type=terminal;
+6	Tiberius	intron	11045564	11045564	.	-	0	transcript_id "g220.t1"; gene_id "g220";
+6	Tiberius	CDS	11045565	11046011	.	-	0	transcript_id "g220.t1"; gene_id "g220"; cds_type=initial;
+6	Tiberius	exon	11045565	11046011	.	-	0	transcript_id "g220.t1"; gene_id "g220"; cds_type=initial;
+6	Tiberius	gene	11534213	11534486	.	+	.	g221
+6	Tiberius	transcript	11534213	11534486	.	+	.	g221.t1
+6	Tiberius	CDS	11534213	11534481	.	+	0	transcript_id "g221.t1"; gene_id "g221"; cds_type=initial;
+6	Tiberius	exon	11534213	11534481	.	+	0	transcript_id "g221.t1"; gene_id "g221"; cds_type=initial;
+6	Tiberius	intron	11534482	11534482	.	+	1	transcript_id "g221.t1"; gene_id "g221";
+6	Tiberius	CDS	11534483	11534486	.	+	1	transcript_id "g221.t1"; gene_id "g221"; cds_type=terminal;
+6	Tiberius	exon	11534483	11534486	.	+	1	transcript_id "g221.t1"; gene_id "g221"; cds_type=terminal;
+6	Tiberius	gene	17946161	17947349	.	+	.	g222
+6	Tiberius	transcript	17946161	17947349	.	+	.	g222.t1
+6	Tiberius	CDS	17946161	17946167	.	+	0	transcript_id "g222.t1"; gene_id "g222"; cds_type=initial;
+6	Tiberius	exon	17946161	17946167	.	+	0	transcript_id "g222.t1"; gene_id "g222"; cds_type=initial;
+6	Tiberius	intron	17946168	17946234	.	+	2	transcript_id "g222.t1"; gene_id "g222";
+6	Tiberius	CDS	17946235	17947349	.	+	2	transcript_id "g222.t1"; gene_id "g222"; cds_type=terminal;
+6	Tiberius	exon	17946235	17947349	.	+	2	transcript_id "g222.t1"; gene_id "g222"; cds_type=terminal;
+6	Tiberius	gene	17948530	17949084	.	-	.	g223
+6	Tiberius	transcript	17948530	17949084	.	-	.	g223.t1
+6	Tiberius	CDS	17948530	17949084	.	-	0	transcript_id "g223.t1"; gene_id "g223"; cds_type=single;
+6	Tiberius	exon	17948530	17949084	.	-	0	transcript_id "g223.t1"; gene_id "g223"; cds_type=single;
+6	Tiberius	gene	18011222	18014323	.	+	.	g224
+6	Tiberius	transcript	18011222	18014323	.	+	.	g224.t1
+6	Tiberius	CDS	18011222	18014323	.	+	0	transcript_id "g224.t1"; gene_id "g224"; cds_type=single;
+6	Tiberius	exon	18011222	18014323	.	+	0	transcript_id "g224.t1"; gene_id "g224"; cds_type=single;
+6	Tiberius	gene	49057525	49057861	.	+	.	g225
+6	Tiberius	transcript	49057525	49057861	.	+	.	g225.t1
+6	Tiberius	CDS	49057525	49057857	.	+	0	transcript_id "g225.t1"; gene_id "g225"; cds_type=initial;
+6	Tiberius	exon	49057525	49057857	.	+	0	transcript_id "g225.t1"; gene_id "g225"; cds_type=initial;
+6	Tiberius	intron	49057858	49057858	.	+	0	transcript_id "g225.t1"; gene_id "g225";
+6	Tiberius	CDS	49057859	49057861	.	+	0	transcript_id "g225.t1"; gene_id "g225"; cds_type=terminal;
+6	Tiberius	exon	49057859	49057861	.	+	0	transcript_id "g225.t1"; gene_id "g225"; cds_type=terminal;
+6	Tiberius	gene	51975956	51976993	.	-	.	g226
+6	Tiberius	transcript	51975956	51976993	.	-	.	g226.t1
+6	Tiberius	CDS	51975956	51976993	.	-	0	transcript_id "g226.t1"; gene_id "g226"; cds_type=single;
+6	Tiberius	exon	51975956	51976993	.	-	0	transcript_id "g226.t1"; gene_id "g226"; cds_type=single;
+6	Tiberius	gene	60503117	60503957	.	+	.	g227
+6	Tiberius	transcript	60503117	60503957	.	+	.	g227.t1
+6	Tiberius	CDS	60503117	60503952	.	+	0	transcript_id "g227.t1"; gene_id "g227"; cds_type=initial;
+6	Tiberius	exon	60503117	60503952	.	+	0	transcript_id "g227.t1"; gene_id "g227"; cds_type=initial;
+6	Tiberius	intron	60503953	60503953	.	+	1	transcript_id "g227.t1"; gene_id "g227";
+6	Tiberius	CDS	60503954	60503957	.	+	1	transcript_id "g227.t1"; gene_id "g227"; cds_type=terminal;
+6	Tiberius	exon	60503954	60503957	.	+	1	transcript_id "g227.t1"; gene_id "g227"; cds_type=terminal;
+6	Tiberius	gene	60504640	60508707	.	+	.	g228
+6	Tiberius	transcript	60504640	60508707	.	+	.	g228.t1
+6	Tiberius	CDS	60504640	60508707	.	+	0	transcript_id "g228.t1"; gene_id "g228"; cds_type=single;
+6	Tiberius	exon	60504640	60508707	.	+	0	transcript_id "g228.t1"; gene_id "g228"; cds_type=single;
+6	Tiberius	gene	65008876	65011509	.	-	.	g229
+6	Tiberius	transcript	65008876	65011509	.	-	.	g229.t1
+6	Tiberius	CDS	65008876	65011509	.	-	0	transcript_id "g229.t1"; gene_id "g229"; cds_type=single;
+6	Tiberius	exon	65008876	65011509	.	-	0	transcript_id "g229.t1"; gene_id "g229"; cds_type=single;
+6	Tiberius	gene	68632657	68633257	.	-	.	g230
+6	Tiberius	transcript	68632657	68633257	.	-	.	g230.t1
+6	Tiberius	CDS	68632657	68633144	.	-	2	transcript_id "g230.t1"; gene_id "g230"; cds_type=terminal;
+6	Tiberius	exon	68632657	68633144	.	-	2	transcript_id "g230.t1"; gene_id "g230"; cds_type=terminal;
+6	Tiberius	intron	68633145	68633226	.	-	1	transcript_id "g230.t1"; gene_id "g230";
+6	Tiberius	CDS	68633227	68633257	.	-	0	transcript_id "g230.t1"; gene_id "g230"; cds_type=initial;
+6	Tiberius	exon	68633227	68633257	.	-	0	transcript_id "g230.t1"; gene_id "g230"; cds_type=initial;
+6	Tiberius	gene	72730927	72731401	.	+	.	g231
+6	Tiberius	transcript	72730927	72731401	.	+	.	g231.t1
+6	Tiberius	CDS	72730927	72731394	.	+	0	transcript_id "g231.t1"; gene_id "g231"; cds_type=initial;
+6	Tiberius	exon	72730927	72731394	.	+	0	transcript_id "g231.t1"; gene_id "g231"; cds_type=initial;
+6	Tiberius	intron	72731395	72731395	.	+	0	transcript_id "g231.t1"; gene_id "g231";
+6	Tiberius	CDS	72731396	72731401	.	+	0	transcript_id "g231.t1"; gene_id "g231"; cds_type=terminal;
+6	Tiberius	exon	72731396	72731401	.	+	0	transcript_id "g231.t1"; gene_id "g231"; cds_type=terminal;
+6	Tiberius	gene	80354281	80355211	.	+	.	g232
+6	Tiberius	transcript	80354281	80355211	.	+	.	g232.t1
+6	Tiberius	CDS	80354281	80355206	.	+	0	transcript_id "g232.t1"; gene_id "g232"; cds_type=initial;
+6	Tiberius	exon	80354281	80355206	.	+	0	transcript_id "g232.t1"; gene_id "g232"; cds_type=initial;
+6	Tiberius	intron	80355207	80355207	.	+	1	transcript_id "g232.t1"; gene_id "g232";
+6	Tiberius	CDS	80355208	80355211	.	+	1	transcript_id "g232.t1"; gene_id "g232"; cds_type=terminal;
+6	Tiberius	exon	80355208	80355211	.	+	1	transcript_id "g232.t1"; gene_id "g232"; cds_type=terminal;
+6	Tiberius	gene	94477428	94478801	.	-	.	g233
+6	Tiberius	transcript	94477428	94478801	.	-	.	g233.t1
+6	Tiberius	CDS	94477428	94478801	.	-	0	transcript_id "g233.t1"; gene_id "g233"; cds_type=single;
+6	Tiberius	exon	94477428	94478801	.	-	0	transcript_id "g233.t1"; gene_id "g233"; cds_type=single;
+6	Tiberius	gene	94495127	94496176	.	-	.	g234
+6	Tiberius	transcript	94495127	94496176	.	-	.	g234.t1
+6	Tiberius	CDS	94495127	94496176	.	-	0	transcript_id "g234.t1"; gene_id "g234"; cds_type=single;
+6	Tiberius	exon	94495127	94496176	.	-	0	transcript_id "g234.t1"; gene_id "g234"; cds_type=single;
+6	Tiberius	gene	94920851	94921180	.	+	.	g235
+6	Tiberius	transcript	94920851	94921180	.	+	.	g235.t1
+6	Tiberius	CDS	94920851	94920950	.	+	0	transcript_id "g235.t1"; gene_id "g235"; cds_type=initial;
+6	Tiberius	exon	94920851	94920950	.	+	0	transcript_id "g235.t1"; gene_id "g235"; cds_type=initial;
+6	Tiberius	intron	94920951	94921046	.	+	2	transcript_id "g235.t1"; gene_id "g235";
+6	Tiberius	CDS	94921047	94921180	.	+	2	transcript_id "g235.t1"; gene_id "g235"; cds_type=terminal;
+6	Tiberius	exon	94921047	94921180	.	+	2	transcript_id "g235.t1"; gene_id "g235"; cds_type=terminal;
+6	Tiberius	gene	94985087	94985947	.	+	.	g236
+6	Tiberius	transcript	94985087	94985947	.	+	.	g236.t1
+6	Tiberius	CDS	94985087	94985947	.	+	0	transcript_id "g236.t1"; gene_id "g236"; cds_type=single;
+6	Tiberius	exon	94985087	94985947	.	+	0	transcript_id "g236.t1"; gene_id "g236"; cds_type=single;
+6	Tiberius	gene	107007370	107010993	.	-	.	g237
+6	Tiberius	transcript	107007370	107010993	.	-	.	g237.t1
+6	Tiberius	CDS	107007370	107010993	.	-	0	transcript_id "g237.t1"; gene_id "g237"; cds_type=single;
+6	Tiberius	exon	107007370	107010993	.	-	0	transcript_id "g237.t1"; gene_id "g237"; cds_type=single;
+6	Tiberius	gene	107997883	107998551	.	-	.	g238
+6	Tiberius	transcript	107997883	107998551	.	-	.	g238.t1
+6	Tiberius	CDS	107997883	107998551	.	-	0	transcript_id "g238.t1"; gene_id "g238"; cds_type=single;
+6	Tiberius	exon	107997883	107998551	.	-	0	transcript_id "g238.t1"; gene_id "g238"; cds_type=single;
+6	Tiberius	gene	115506352	115507587	.	-	.	g239
+6	Tiberius	transcript	115506352	115507587	.	-	.	g239.t1
+6	Tiberius	CDS	115506352	115507587	.	-	0	transcript_id "g239.t1"; gene_id "g239"; cds_type=single;
+6	Tiberius	exon	115506352	115507587	.	-	0	transcript_id "g239.t1"; gene_id "g239"; cds_type=single;
+6	Tiberius	gene	123321342	123322425	.	+	.	g240
+6	Tiberius	transcript	123321342	123322425	.	+	.	g240.t1
+6	Tiberius	CDS	123321342	123322420	.	+	0	transcript_id "g240.t1"; gene_id "g240"; cds_type=initial;
+6	Tiberius	exon	123321342	123322420	.	+	0	transcript_id "g240.t1"; gene_id "g240"; cds_type=initial;
+6	Tiberius	intron	123322421	123322421	.	+	1	transcript_id "g240.t1"; gene_id "g240";
+6	Tiberius	CDS	123322422	123322425	.	+	1	transcript_id "g240.t1"; gene_id "g240"; cds_type=terminal;
+6	Tiberius	exon	123322422	123322425	.	+	1	transcript_id "g240.t1"; gene_id "g240"; cds_type=terminal;
+6	Tiberius	gene	123396994	123397693	.	+	.	g241
+6	Tiberius	transcript	123396994	123397693	.	+	.	g241.t1
+6	Tiberius	CDS	123396994	123397683	.	+	0	transcript_id "g241.t1"; gene_id "g241"; cds_type=initial;
+6	Tiberius	exon	123396994	123397683	.	+	0	transcript_id "g241.t1"; gene_id "g241"; cds_type=initial;
+6	Tiberius	intron	123397684	123397684	.	+	0	transcript_id "g241.t1"; gene_id "g241";
+6	Tiberius	CDS	123397685	123397693	.	+	0	transcript_id "g241.t1"; gene_id "g241"; cds_type=terminal;
+6	Tiberius	exon	123397685	123397693	.	+	0	transcript_id "g241.t1"; gene_id "g241"; cds_type=terminal;
+7	Tiberius	gene	19420583	19420932	.	+	.	g242
+7	Tiberius	transcript	19420583	19420932	.	+	.	g242.t1
+7	Tiberius	CDS	19420583	19420919	.	+	0	transcript_id "g242.t1"; gene_id "g242"; cds_type=initial;
+7	Tiberius	exon	19420583	19420919	.	+	0	transcript_id "g242.t1"; gene_id "g242"; cds_type=initial;
+7	Tiberius	intron	19420920	19420924	.	+	2	transcript_id "g242.t1"; gene_id "g242";
+7	Tiberius	CDS	19420925	19420932	.	+	2	transcript_id "g242.t1"; gene_id "g242"; cds_type=terminal;
+7	Tiberius	exon	19420925	19420932	.	+	2	transcript_id "g242.t1"; gene_id "g242"; cds_type=terminal;
+7	Tiberius	gene	27012842	27013452	.	+	.	g243
+7	Tiberius	transcript	27012842	27013452	.	+	.	g243.t1
+7	Tiberius	CDS	27012842	27013444	.	+	0	transcript_id "g243.t1"; gene_id "g243"; cds_type=initial;
+7	Tiberius	exon	27012842	27013444	.	+	0	transcript_id "g243.t1"; gene_id "g243"; cds_type=initial;
+7	Tiberius	intron	27013445	27013449	.	+	0	transcript_id "g243.t1"; gene_id "g243";
+7	Tiberius	CDS	27013450	27013452	.	+	0	transcript_id "g243.t1"; gene_id "g243"; cds_type=terminal;
+7	Tiberius	exon	27013450	27013452	.	+	0	transcript_id "g243.t1"; gene_id "g243"; cds_type=terminal;
+7	Tiberius	gene	29254873	29255190	.	-	.	g244
+7	Tiberius	transcript	29254873	29255190	.	-	.	g244.t1
+7	Tiberius	CDS	29254873	29255190	.	-	0	transcript_id "g244.t1"; gene_id "g244"; cds_type=single;
+7	Tiberius	exon	29254873	29255190	.	-	0	transcript_id "g244.t1"; gene_id "g244"; cds_type=single;
+7	Tiberius	gene	32506573	32507481	.	+	.	g245
+7	Tiberius	transcript	32506573	32507481	.	+	.	g245.t1
+7	Tiberius	CDS	32506573	32507481	.	+	0	transcript_id "g245.t1"; gene_id "g245"; cds_type=single;
+7	Tiberius	exon	32506573	32507481	.	+	0	transcript_id "g245.t1"; gene_id "g245"; cds_type=single;
+7	Tiberius	gene	36517687	36518988	.	-	.	g246
+7	Tiberius	transcript	36517687	36518988	.	-	.	g246.t1
+7	Tiberius	CDS	36517687	36518988	.	-	0	transcript_id "g246.t1"; gene_id "g246"; cds_type=single;
+7	Tiberius	exon	36517687	36518988	.	-	0	transcript_id "g246.t1"; gene_id "g246"; cds_type=single;
+7	Tiberius	gene	39485426	39485989	.	+	.	g247
+7	Tiberius	transcript	39485426	39485989	.	+	.	g247.t1
+7	Tiberius	CDS	39485426	39485989	.	+	0	transcript_id "g247.t1"; gene_id "g247"; cds_type=single;
+7	Tiberius	exon	39485426	39485989	.	+	0	transcript_id "g247.t1"; gene_id "g247"; cds_type=single;
+7	Tiberius	gene	39487905	39488348	.	-	.	g248
+7	Tiberius	transcript	39487905	39488348	.	-	.	g248.t1
+7	Tiberius	CDS	39487905	39488348	.	-	0	transcript_id "g248.t1"; gene_id "g248"; cds_type=single;
+7	Tiberius	exon	39487905	39488348	.	-	0	transcript_id "g248.t1"; gene_id "g248"; cds_type=single;
+7	Tiberius	gene	41260918	41261205	.	+	.	g249
+7	Tiberius	transcript	41260918	41261205	.	+	.	g249.t1
+7	Tiberius	CDS	41260918	41261205	.	+	0	transcript_id "g249.t1"; gene_id "g249"; cds_type=single;
+7	Tiberius	exon	41260918	41261205	.	+	0	transcript_id "g249.t1"; gene_id "g249"; cds_type=single;
+7	Tiberius	gene	45493838	45494354	.	+	.	g250
+7	Tiberius	transcript	45493838	45494354	.	+	.	g250.t1
+7	Tiberius	CDS	45493838	45494350	.	+	0	transcript_id "g250.t1"; gene_id "g250"; cds_type=initial;
+7	Tiberius	exon	45493838	45494350	.	+	0	transcript_id "g250.t1"; gene_id "g250"; cds_type=initial;
+7	Tiberius	intron	45494351	45494351	.	+	0	transcript_id "g250.t1"; gene_id "g250";
+7	Tiberius	CDS	45494352	45494354	.	+	0	transcript_id "g250.t1"; gene_id "g250"; cds_type=terminal;
+7	Tiberius	exon	45494352	45494354	.	+	0	transcript_id "g250.t1"; gene_id "g250"; cds_type=terminal;
+7	Tiberius	gene	46016459	46016957	.	-	.	g251
+7	Tiberius	transcript	46016459	46016957	.	-	.	g251.t1
+7	Tiberius	CDS	46016459	46016462	.	-	1	transcript_id "g251.t1"; gene_id "g251"; cds_type=terminal;
+7	Tiberius	exon	46016459	46016462	.	-	1	transcript_id "g251.t1"; gene_id "g251"; cds_type=terminal;
+7	Tiberius	intron	46016463	46016463	.	-	2	transcript_id "g251.t1"; gene_id "g251";
+7	Tiberius	CDS	46016464	46016957	.	-	0	transcript_id "g251.t1"; gene_id "g251"; cds_type=initial;
+7	Tiberius	exon	46016464	46016957	.	-	0	transcript_id "g251.t1"; gene_id "g251"; cds_type=initial;
+7	Tiberius	gene	46501112	46501853	.	+	.	g252
+7	Tiberius	transcript	46501112	46501853	.	+	.	g252.t1
+7	Tiberius	CDS	46501112	46501846	.	+	0	transcript_id "g252.t1"; gene_id "g252"; cds_type=initial;
+7	Tiberius	exon	46501112	46501846	.	+	0	transcript_id "g252.t1"; gene_id "g252"; cds_type=initial;
+7	Tiberius	intron	46501847	46501847	.	+	0	transcript_id "g252.t1"; gene_id "g252";
+7	Tiberius	CDS	46501848	46501853	.	+	0	transcript_id "g252.t1"; gene_id "g252"; cds_type=terminal;
+7	Tiberius	exon	46501848	46501853	.	+	0	transcript_id "g252.t1"; gene_id "g252"; cds_type=terminal;
+7	Tiberius	gene	46502720	46505158	.	+	.	g253
+7	Tiberius	transcript	46502720	46505158	.	+	.	g253.t1
+7	Tiberius	CDS	46502720	46505158	.	+	0	transcript_id "g253.t1"; gene_id "g253"; cds_type=single;
+7	Tiberius	exon	46502720	46505158	.	+	0	transcript_id "g253.t1"; gene_id "g253"; cds_type=single;
+7	Tiberius	gene	47936916	47938938	.	-	.	g254
+7	Tiberius	transcript	47936916	47938938	.	-	.	g254.t1
+7	Tiberius	CDS	47936916	47936930	.	-	0	transcript_id "g254.t1"; gene_id "g254"; cds_type=terminal;
+7	Tiberius	exon	47936916	47936930	.	-	0	transcript_id "g254.t1"; gene_id "g254"; cds_type=terminal;
+7	Tiberius	intron	47936931	47936931	.	-	0	transcript_id "g254.t1"; gene_id "g254";
+7	Tiberius	CDS	47936932	47937369	.	-	0	transcript_id "g254.t1"; gene_id "g254"; cds_type=internal;
+7	Tiberius	exon	47936932	47937369	.	-	0	transcript_id "g254.t1"; gene_id "g254"; cds_type=internal;
+7	Tiberius	intron	47937370	47937423	.	-	0	transcript_id "g254.t1"; gene_id "g254";
+7	Tiberius	CDS	47937424	47938938	.	-	0	transcript_id "g254.t1"; gene_id "g254"; cds_type=initial;
+7	Tiberius	exon	47937424	47938938	.	-	0	transcript_id "g254.t1"; gene_id "g254"; cds_type=initial;
+7	Tiberius	gene	47939237	47939741	.	-	.	g255
+7	Tiberius	transcript	47939237	47939741	.	-	.	g255.t1
+7	Tiberius	CDS	47939237	47939240	.	-	1	transcript_id "g255.t1"; gene_id "g255"; cds_type=terminal;
+7	Tiberius	exon	47939237	47939240	.	-	1	transcript_id "g255.t1"; gene_id "g255"; cds_type=terminal;
+7	Tiberius	intron	47939241	47939250	.	-	2	transcript_id "g255.t1"; gene_id "g255";
+7	Tiberius	CDS	47939251	47939741	.	-	0	transcript_id "g255.t1"; gene_id "g255"; cds_type=initial;
+7	Tiberius	exon	47939251	47939741	.	-	0	transcript_id "g255.t1"; gene_id "g255"; cds_type=initial;
+7	Tiberius	gene	52001470	52004466	.	-	.	g256
+7	Tiberius	transcript	52001470	52004466	.	-	.	g256.t1
+7	Tiberius	CDS	52001470	52004466	.	-	0	transcript_id "g256.t1"; gene_id "g256"; cds_type=single;
+7	Tiberius	exon	52001470	52004466	.	-	0	transcript_id "g256.t1"; gene_id "g256"; cds_type=single;
+7	Tiberius	gene	52004485	52005423	.	-	.	g257
+7	Tiberius	transcript	52004485	52005423	.	-	.	g257.t1
+7	Tiberius	CDS	52004485	52005423	.	-	0	transcript_id "g257.t1"; gene_id "g257"; cds_type=single;
+7	Tiberius	exon	52004485	52005423	.	-	0	transcript_id "g257.t1"; gene_id "g257"; cds_type=single;
+7	Tiberius	gene	61493390	61494703	.	+	.	g258
+7	Tiberius	transcript	61493390	61494703	.	+	.	g258.t1
+7	Tiberius	CDS	61493390	61494703	.	+	0	transcript_id "g258.t1"; gene_id "g258"; cds_type=single;
+7	Tiberius	exon	61493390	61494703	.	+	0	transcript_id "g258.t1"; gene_id "g258"; cds_type=single;
+7	Tiberius	gene	65055984	65057193	.	-	.	g259
+7	Tiberius	transcript	65055984	65057193	.	-	.	g259.t1
+7	Tiberius	CDS	65055984	65055988	.	-	2	transcript_id "g259.t1"; gene_id "g259"; cds_type=terminal;
+7	Tiberius	exon	65055984	65055988	.	-	2	transcript_id "g259.t1"; gene_id "g259"; cds_type=terminal;
+7	Tiberius	intron	65055989	65055989	.	-	1	transcript_id "g259.t1"; gene_id "g259";
+7	Tiberius	CDS	65055990	65057193	.	-	0	transcript_id "g259.t1"; gene_id "g259"; cds_type=initial;
+7	Tiberius	exon	65055990	65057193	.	-	0	transcript_id "g259.t1"; gene_id "g259"; cds_type=initial;
+7	Tiberius	gene	65057730	65058096	.	-	.	g260
+7	Tiberius	transcript	65057730	65058096	.	-	.	g260.t1
+7	Tiberius	CDS	65057730	65057737	.	-	2	transcript_id "g260.t1"; gene_id "g260"; cds_type=terminal;
+7	Tiberius	exon	65057730	65057737	.	-	2	transcript_id "g260.t1"; gene_id "g260"; cds_type=terminal;
+7	Tiberius	intron	65057738	65057738	.	-	1	transcript_id "g260.t1"; gene_id "g260";
+7	Tiberius	CDS	65057739	65058096	.	-	0	transcript_id "g260.t1"; gene_id "g260"; cds_type=initial;
+7	Tiberius	exon	65057739	65058096	.	-	0	transcript_id "g260.t1"; gene_id "g260"; cds_type=initial;
+7	Tiberius	gene	67583583	67584452	.	+	.	g261
+7	Tiberius	transcript	67583583	67584452	.	+	.	g261.t1
+7	Tiberius	CDS	67583583	67584452	.	+	0	transcript_id "g261.t1"; gene_id "g261"; cds_type=single;
+7	Tiberius	exon	67583583	67584452	.	+	0	transcript_id "g261.t1"; gene_id "g261"; cds_type=single;
+7	Tiberius	gene	69135592	69136038	.	-	.	g262
+7	Tiberius	transcript	69135592	69136038	.	-	.	g262.t1
+7	Tiberius	CDS	69135592	69136038	.	-	0	transcript_id "g262.t1"; gene_id "g262"; cds_type=single;
+7	Tiberius	exon	69135592	69136038	.	-	0	transcript_id "g262.t1"; gene_id "g262"; cds_type=single;
+7	Tiberius	gene	73889770	73890634	.	+	.	g263
+7	Tiberius	transcript	73889770	73890634	.	+	.	g263.t1
+7	Tiberius	CDS	73889770	73890629	.	+	0	transcript_id "g263.t1"; gene_id "g263"; cds_type=initial;
+7	Tiberius	exon	73889770	73890629	.	+	0	transcript_id "g263.t1"; gene_id "g263"; cds_type=initial;
+7	Tiberius	intron	73890630	73890630	.	+	1	transcript_id "g263.t1"; gene_id "g263";
+7	Tiberius	CDS	73890631	73890634	.	+	1	transcript_id "g263.t1"; gene_id "g263"; cds_type=terminal;
+7	Tiberius	exon	73890631	73890634	.	+	1	transcript_id "g263.t1"; gene_id "g263"; cds_type=terminal;
+7	Tiberius	gene	73890895	73891395	.	+	.	g264
+7	Tiberius	transcript	73890895	73891395	.	+	.	g264.t1
+7	Tiberius	CDS	73890895	73891395	.	+	0	transcript_id "g264.t1"; gene_id "g264"; cds_type=single;
+7	Tiberius	exon	73890895	73891395	.	+	0	transcript_id "g264.t1"; gene_id "g264"; cds_type=single;
+7	Tiberius	gene	80001885	80005838	.	+	.	g265
+7	Tiberius	transcript	80001885	80005838	.	+	.	g265.t1
+7	Tiberius	CDS	80001885	80005838	.	+	0	transcript_id "g265.t1"; gene_id "g265"; cds_type=single;
+7	Tiberius	exon	80001885	80005838	.	+	0	transcript_id "g265.t1"; gene_id "g265"; cds_type=single;
+7	Tiberius	gene	84520070	84521882	.	-	.	g266
+7	Tiberius	transcript	84520070	84521882	.	-	.	g266.t1
+7	Tiberius	CDS	84520070	84520072	.	-	0	transcript_id "g266.t1"; gene_id "g266"; cds_type=terminal;
+7	Tiberius	exon	84520070	84520072	.	-	0	transcript_id "g266.t1"; gene_id "g266"; cds_type=terminal;
+7	Tiberius	intron	84520073	84520073	.	-	0	transcript_id "g266.t1"; gene_id "g266";
+7	Tiberius	CDS	84520074	84521882	.	-	0	transcript_id "g266.t1"; gene_id "g266"; cds_type=initial;
+7	Tiberius	exon	84520074	84521882	.	-	0	transcript_id "g266.t1"; gene_id "g266"; cds_type=initial;
+7	Tiberius	gene	84522319	84522644	.	-	.	g267
+7	Tiberius	transcript	84522319	84522644	.	-	.	g267.t1
+7	Tiberius	CDS	84522319	84522321	.	-	0	transcript_id "g267.t1"; gene_id "g267"; cds_type=terminal;
+7	Tiberius	exon	84522319	84522321	.	-	0	transcript_id "g267.t1"; gene_id "g267"; cds_type=terminal;
+7	Tiberius	intron	84522322	84522322	.	-	0	transcript_id "g267.t1"; gene_id "g267";
+7	Tiberius	CDS	84522323	84522326	.	-	1	transcript_id "g267.t1"; gene_id "g267"; cds_type=internal;
+7	Tiberius	exon	84522323	84522326	.	-	1	transcript_id "g267.t1"; gene_id "g267"; cds_type=internal;
+7	Tiberius	intron	84522327	84522327	.	-	2	transcript_id "g267.t1"; gene_id "g267";
+7	Tiberius	CDS	84522328	84522644	.	-	0	transcript_id "g267.t1"; gene_id "g267"; cds_type=initial;
+7	Tiberius	exon	84522328	84522644	.	-	0	transcript_id "g267.t1"; gene_id "g267"; cds_type=initial;
+7	Tiberius	gene	92996635	92996952	.	+	.	g268
+7	Tiberius	transcript	92996635	92996952	.	+	.	g268.t1
+7	Tiberius	CDS	92996635	92996952	.	+	0	transcript_id "g268.t1"; gene_id "g268"; cds_type=single;
+7	Tiberius	exon	92996635	92996952	.	+	0	transcript_id "g268.t1"; gene_id "g268"; cds_type=single;
+7	Tiberius	gene	101057580	101059097	.	+	.	g269
+7	Tiberius	transcript	101057580	101059097	.	+	.	g269.t1
+7	Tiberius	CDS	101057580	101059097	.	+	0	transcript_id "g269.t1"; gene_id "g269"; cds_type=single;
+7	Tiberius	exon	101057580	101059097	.	+	0	transcript_id "g269.t1"; gene_id "g269"; cds_type=single;
+7	Tiberius	gene	102493644	102494249	.	+	.	g270
+7	Tiberius	transcript	102493644	102494249	.	+	.	g270.t1
+7	Tiberius	CDS	102493644	102493806	.	+	0	transcript_id "g270.t1"; gene_id "g270"; cds_type=initial;
+7	Tiberius	exon	102493644	102493806	.	+	0	transcript_id "g270.t1"; gene_id "g270"; cds_type=initial;
+7	Tiberius	intron	102493807	102493923	.	+	2	transcript_id "g270.t1"; gene_id "g270";
+7	Tiberius	CDS	102493924	102494249	.	+	2	transcript_id "g270.t1"; gene_id "g270"; cds_type=terminal;
+7	Tiberius	exon	102493924	102494249	.	+	2	transcript_id "g270.t1"; gene_id "g270"; cds_type=terminal;
+7	Tiberius	gene	104552632	104553236	.	-	.	g271
+7	Tiberius	transcript	104552632	104553236	.	-	.	g271.t1
+7	Tiberius	CDS	104552632	104552639	.	-	2	transcript_id "g271.t1"; gene_id "g271"; cds_type=terminal;
+7	Tiberius	exon	104552632	104552639	.	-	2	transcript_id "g271.t1"; gene_id "g271"; cds_type=terminal;
+7	Tiberius	intron	104552640	104552647	.	-	1	transcript_id "g271.t1"; gene_id "g271";
+7	Tiberius	CDS	104552648	104553236	.	-	0	transcript_id "g271.t1"; gene_id "g271"; cds_type=initial;
+7	Tiberius	exon	104552648	104553236	.	-	0	transcript_id "g271.t1"; gene_id "g271"; cds_type=initial;
+7	Tiberius	gene	107497498	107497923	.	-	.	g272
+7	Tiberius	transcript	107497498	107497923	.	-	.	g272.t1
+7	Tiberius	CDS	107497498	107497923	.	-	0	transcript_id "g272.t1"; gene_id "g272"; cds_type=single;
+7	Tiberius	exon	107497498	107497923	.	-	0	transcript_id "g272.t1"; gene_id "g272"; cds_type=single;
+7	Tiberius	gene	120173492	120174787	.	+	.	g273
+7	Tiberius	transcript	120173492	120174787	.	+	.	g273.t1
+7	Tiberius	CDS	120173492	120174787	.	+	0	transcript_id "g273.t1"; gene_id "g273"; cds_type=single;
+7	Tiberius	exon	120173492	120174787	.	+	0	transcript_id "g273.t1"; gene_id "g273"; cds_type=single;
+7	Tiberius	gene	124020103	124022313	.	-	.	g274
+7	Tiberius	transcript	124020103	124022313	.	-	.	g274.t1
+7	Tiberius	CDS	124020103	124020108	.	-	0	transcript_id "g274.t1"; gene_id "g274"; cds_type=terminal;
+7	Tiberius	exon	124020103	124020108	.	-	0	transcript_id "g274.t1"; gene_id "g274"; cds_type=terminal;
+7	Tiberius	intron	124020109	124020123	.	-	0	transcript_id "g274.t1"; gene_id "g274";
+7	Tiberius	CDS	124020124	124022313	.	-	0	transcript_id "g274.t1"; gene_id "g274"; cds_type=initial;
+7	Tiberius	exon	124020124	124022313	.	-	0	transcript_id "g274.t1"; gene_id "g274"; cds_type=initial;
+7	Tiberius	gene	124022423	124022748	.	-	.	g275
+7	Tiberius	transcript	124022423	124022748	.	-	.	g275.t1
+7	Tiberius	CDS	124022423	124022425	.	-	0	transcript_id "g275.t1"; gene_id "g275"; cds_type=terminal;
+7	Tiberius	exon	124022423	124022425	.	-	0	transcript_id "g275.t1"; gene_id "g275"; cds_type=terminal;
+7	Tiberius	intron	124022426	124022426	.	-	0	transcript_id "g275.t1"; gene_id "g275";
+7	Tiberius	CDS	124022427	124022430	.	-	1	transcript_id "g275.t1"; gene_id "g275"; cds_type=internal;
+7	Tiberius	exon	124022427	124022430	.	-	1	transcript_id "g275.t1"; gene_id "g275"; cds_type=internal;
+7	Tiberius	intron	124022431	124022431	.	-	2	transcript_id "g275.t1"; gene_id "g275";
+7	Tiberius	CDS	124022432	124022748	.	-	0	transcript_id "g275.t1"; gene_id "g275"; cds_type=initial;
+7	Tiberius	exon	124022432	124022748	.	-	0	transcript_id "g275.t1"; gene_id "g275"; cds_type=initial;
+7	Tiberius	gene	128023994	128025198	.	-	.	g276
+7	Tiberius	transcript	128023994	128025198	.	-	.	g276.t1
+7	Tiberius	CDS	128023994	128023999	.	-	0	transcript_id "g276.t1"; gene_id "g276"; cds_type=terminal;
+7	Tiberius	exon	128023994	128023999	.	-	0	transcript_id "g276.t1"; gene_id "g276"; cds_type=terminal;
+7	Tiberius	intron	128024000	128024000	.	-	0	transcript_id "g276.t1"; gene_id "g276";
+7	Tiberius	CDS	128024001	128024486	.	-	0	transcript_id "g276.t1"; gene_id "g276"; cds_type=internal;
+7	Tiberius	exon	128024001	128024486	.	-	0	transcript_id "g276.t1"; gene_id "g276"; cds_type=internal;
+7	Tiberius	intron	128024487	128024559	.	-	0	transcript_id "g276.t1"; gene_id "g276";
+7	Tiberius	CDS	128024560	128025198	.	-	0	transcript_id "g276.t1"; gene_id "g276"; cds_type=initial;
+7	Tiberius	exon	128024560	128025198	.	-	0	transcript_id "g276.t1"; gene_id "g276"; cds_type=initial;
+7	Tiberius	gene	147450343	147451981	.	+	.	g277
+7	Tiberius	transcript	147450343	147451981	.	+	.	g277.t1
+7	Tiberius	CDS	147450343	147450867	.	+	0	transcript_id "g277.t1"; gene_id "g277"; cds_type=initial;
+7	Tiberius	exon	147450343	147450867	.	+	0	transcript_id "g277.t1"; gene_id "g277"; cds_type=initial;
+7	Tiberius	intron	147450868	147450957	.	+	0	transcript_id "g277.t1"; gene_id "g277";
+7	Tiberius	CDS	147450958	147451750	.	+	0	transcript_id "g277.t1"; gene_id "g277"; cds_type=internal;
+7	Tiberius	exon	147450958	147451750	.	+	0	transcript_id "g277.t1"; gene_id "g277"; cds_type=internal;
+7	Tiberius	intron	147451751	147451847	.	+	2	transcript_id "g277.t1"; gene_id "g277";
+7	Tiberius	CDS	147451848	147451981	.	+	2	transcript_id "g277.t1"; gene_id "g277"; cds_type=terminal;
+7	Tiberius	exon	147451848	147451981	.	+	2	transcript_id "g277.t1"; gene_id "g277"; cds_type=terminal;
+7	Tiberius	gene	163972420	163972887	.	+	.	g278
+7	Tiberius	transcript	163972420	163972887	.	+	.	g278.t1
+7	Tiberius	CDS	163972420	163972887	.	+	0	transcript_id "g278.t1"; gene_id "g278"; cds_type=single;
+7	Tiberius	exon	163972420	163972887	.	+	0	transcript_id "g278.t1"; gene_id "g278"; cds_type=single;
+7	Tiberius	gene	163993425	163994308	.	+	.	g279
+7	Tiberius	transcript	163993425	163994308	.	+	.	g279.t1
+7	Tiberius	CDS	163993425	163994295	.	+	0	transcript_id "g279.t1"; gene_id "g279"; cds_type=initial;
+7	Tiberius	exon	163993425	163994295	.	+	0	transcript_id "g279.t1"; gene_id "g279"; cds_type=initial;
+7	Tiberius	intron	163994296	163994300	.	+	2	transcript_id "g279.t1"; gene_id "g279";
+7	Tiberius	CDS	163994301	163994308	.	+	2	transcript_id "g279.t1"; gene_id "g279"; cds_type=terminal;
+7	Tiberius	exon	163994301	163994308	.	+	2	transcript_id "g279.t1"; gene_id "g279"; cds_type=terminal;
+7	Tiberius	gene	179501608	179504016	.	+	.	g280
+7	Tiberius	transcript	179501608	179504016	.	+	.	g280.t1
+7	Tiberius	CDS	179501608	179504016	.	+	0	transcript_id "g280.t1"; gene_id "g280"; cds_type=single;
+7	Tiberius	exon	179501608	179504016	.	+	0	transcript_id "g280.t1"; gene_id "g280"; cds_type=single;
+7	Tiberius	gene	182359847	182360392	.	-	.	g281
+7	Tiberius	transcript	182359847	182360392	.	-	.	g281.t1
+7	Tiberius	CDS	182359847	182360392	.	-	0	transcript_id "g281.t1"; gene_id "g281"; cds_type=single;
+7	Tiberius	exon	182359847	182360392	.	-	0	transcript_id "g281.t1"; gene_id "g281"; cds_type=single;
+8	Tiberius	gene	51255	51930	.	-	.	g282
+8	Tiberius	transcript	51255	51930	.	-	.	g282.t1
+8	Tiberius	CDS	51255	51257	.	-	0	transcript_id "g282.t1"; gene_id "g282"; cds_type=terminal;
+8	Tiberius	exon	51255	51257	.	-	0	transcript_id "g282.t1"; gene_id "g282"; cds_type=terminal;
+8	Tiberius	intron	51258	51258	.	-	0	transcript_id "g282.t1"; gene_id "g282";
+8	Tiberius	CDS	51259	51930	.	-	0	transcript_id "g282.t1"; gene_id "g282"; cds_type=initial;
+8	Tiberius	exon	51259	51930	.	-	0	transcript_id "g282.t1"; gene_id "g282"; cds_type=initial;
+8	Tiberius	gene	52097	52397	.	-	.	g283
+8	Tiberius	transcript	52097	52397	.	-	.	g283.t1
+8	Tiberius	CDS	52097	52100	.	-	1	transcript_id "g283.t1"; gene_id "g283"; cds_type=terminal;
+8	Tiberius	exon	52097	52100	.	-	1	transcript_id "g283.t1"; gene_id "g283"; cds_type=terminal;
+8	Tiberius	intron	52101	52101	.	-	2	transcript_id "g283.t1"; gene_id "g283";
+8	Tiberius	CDS	52102	52397	.	-	0	transcript_id "g283.t1"; gene_id "g283"; cds_type=initial;
+8	Tiberius	exon	52102	52397	.	-	0	transcript_id "g283.t1"; gene_id "g283"; cds_type=initial;
+8	Tiberius	gene	9484165	9484923	.	+	.	g284
+8	Tiberius	transcript	9484165	9484923	.	+	.	g284.t1
+8	Tiberius	CDS	9484165	9484923	.	+	0	transcript_id "g284.t1"; gene_id "g284"; cds_type=single;
+8	Tiberius	exon	9484165	9484923	.	+	0	transcript_id "g284.t1"; gene_id "g284"; cds_type=single;
+8	Tiberius	gene	23982013	23983285	.	+	.	g285
+8	Tiberius	transcript	23982013	23983285	.	+	.	g285.t1
+8	Tiberius	CDS	23982013	23983276	.	+	0	transcript_id "g285.t1"; gene_id "g285"; cds_type=initial;
+8	Tiberius	exon	23982013	23983276	.	+	0	transcript_id "g285.t1"; gene_id "g285"; cds_type=initial;
+8	Tiberius	intron	23983277	23983277	.	+	2	transcript_id "g285.t1"; gene_id "g285";
+8	Tiberius	CDS	23983278	23983285	.	+	2	transcript_id "g285.t1"; gene_id "g285"; cds_type=terminal;
+8	Tiberius	exon	23983278	23983285	.	+	2	transcript_id "g285.t1"; gene_id "g285"; cds_type=terminal;
+8	Tiberius	gene	31516381	31517034	.	-	.	g286
+8	Tiberius	transcript	31516381	31517034	.	-	.	g286.t1
+8	Tiberius	CDS	31516381	31517034	.	-	0	transcript_id "g286.t1"; gene_id "g286"; cds_type=single;
+8	Tiberius	exon	31516381	31517034	.	-	0	transcript_id "g286.t1"; gene_id "g286"; cds_type=single;
+8	Tiberius	gene	40987911	40988540	.	-	.	g287
+8	Tiberius	transcript	40987911	40988540	.	-	.	g287.t1
+8	Tiberius	CDS	40987911	40988540	.	-	0	transcript_id "g287.t1"; gene_id "g287"; cds_type=single;
+8	Tiberius	exon	40987911	40988540	.	-	0	transcript_id "g287.t1"; gene_id "g287"; cds_type=single;
+8	Tiberius	gene	43941409	43941651	.	+	.	g288
+8	Tiberius	transcript	43941409	43941651	.	+	.	g288.t1
+8	Tiberius	CDS	43941409	43941651	.	+	0	transcript_id "g288.t1"; gene_id "g288"; cds_type=single;
+8	Tiberius	exon	43941409	43941651	.	+	0	transcript_id "g288.t1"; gene_id "g288"; cds_type=single;
+8	Tiberius	gene	48003763	48005082	.	-	.	g289
+8	Tiberius	transcript	48003763	48005082	.	-	.	g289.t1
+8	Tiberius	CDS	48003763	48005082	.	-	0	transcript_id "g289.t1"; gene_id "g289"; cds_type=single;
+8	Tiberius	exon	48003763	48005082	.	-	0	transcript_id "g289.t1"; gene_id "g289"; cds_type=single;
+8	Tiberius	gene	49488991	49492008	.	+	.	g290
+8	Tiberius	transcript	49488991	49492008	.	+	.	g290.t1
+8	Tiberius	CDS	49488991	49492008	.	+	0	transcript_id "g290.t1"; gene_id "g290"; cds_type=single;
+8	Tiberius	exon	49488991	49492008	.	+	0	transcript_id "g290.t1"; gene_id "g290"; cds_type=single;
+8	Tiberius	gene	49492429	49492938	.	+	.	g291
+8	Tiberius	transcript	49492429	49492938	.	+	.	g291.t1
+8	Tiberius	CDS	49492429	49492938	.	+	0	transcript_id "g291.t1"; gene_id "g291"; cds_type=single;
+8	Tiberius	exon	49492429	49492938	.	+	0	transcript_id "g291.t1"; gene_id "g291"; cds_type=single;
+8	Tiberius	gene	52502833	52504350	.	-	.	g292
+8	Tiberius	transcript	52502833	52504350	.	-	.	g292.t1
+8	Tiberius	CDS	52502833	52504350	.	-	0	transcript_id "g292.t1"; gene_id "g292"; cds_type=single;
+8	Tiberius	exon	52502833	52504350	.	-	0	transcript_id "g292.t1"; gene_id "g292"; cds_type=single;
+8	Tiberius	gene	54967814	54970923	.	+	.	g293
+8	Tiberius	transcript	54967814	54970923	.	+	.	g293.t1
+8	Tiberius	CDS	54967814	54969838	.	+	0	transcript_id "g293.t1"; gene_id "g293"; cds_type=initial;
+8	Tiberius	exon	54967814	54969838	.	+	0	transcript_id "g293.t1"; gene_id "g293"; cds_type=initial;
+8	Tiberius	intron	54969839	54969921	.	+	0	transcript_id "g293.t1"; gene_id "g293";
+8	Tiberius	CDS	54969922	54970714	.	+	0	transcript_id "g293.t1"; gene_id "g293"; cds_type=internal;
+8	Tiberius	exon	54969922	54970714	.	+	0	transcript_id "g293.t1"; gene_id "g293"; cds_type=internal;
+8	Tiberius	intron	54970715	54970807	.	+	2	transcript_id "g293.t1"; gene_id "g293";
+8	Tiberius	CDS	54970808	54970923	.	+	2	transcript_id "g293.t1"; gene_id "g293"; cds_type=terminal;
+8	Tiberius	exon	54970808	54970923	.	+	2	transcript_id "g293.t1"; gene_id "g293"; cds_type=terminal;
+8	Tiberius	gene	54980836	54981393	.	+	.	g294
+8	Tiberius	transcript	54980836	54981393	.	+	.	g294.t1
+8	Tiberius	CDS	54980836	54981393	.	+	0	transcript_id "g294.t1"; gene_id "g294"; cds_type=single;
+8	Tiberius	exon	54980836	54981393	.	+	0	transcript_id "g294.t1"; gene_id "g294"; cds_type=single;
+8	Tiberius	gene	58004769	58006322	.	-	.	g295
+8	Tiberius	transcript	58004769	58006322	.	-	.	g295.t1
+8	Tiberius	CDS	58004769	58006322	.	-	0	transcript_id "g295.t1"; gene_id "g295"; cds_type=single;
+8	Tiberius	exon	58004769	58006322	.	-	0	transcript_id "g295.t1"; gene_id "g295"; cds_type=single;
+8	Tiberius	gene	58630694	58635118	.	-	.	g296
+8	Tiberius	transcript	58630694	58635118	.	-	.	g296.t1
+8	Tiberius	CDS	58630694	58635118	.	-	0	transcript_id "g296.t1"; gene_id "g296"; cds_type=single;
+8	Tiberius	exon	58630694	58635118	.	-	0	transcript_id "g296.t1"; gene_id "g296"; cds_type=single;
+8	Tiberius	gene	58635376	58636251	.	-	.	g297
+8	Tiberius	transcript	58635376	58636251	.	-	.	g297.t1
+8	Tiberius	CDS	58635376	58636251	.	-	0	transcript_id "g297.t1"; gene_id "g297"; cds_type=single;
+8	Tiberius	exon	58635376	58636251	.	-	0	transcript_id "g297.t1"; gene_id "g297"; cds_type=single;
+8	Tiberius	gene	63501056	63501748	.	+	.	g298
+8	Tiberius	transcript	63501056	63501748	.	+	.	g298.t1
+8	Tiberius	CDS	63501056	63501748	.	+	0	transcript_id "g298.t1"; gene_id "g298"; cds_type=single;
+8	Tiberius	exon	63501056	63501748	.	+	0	transcript_id "g298.t1"; gene_id "g298"; cds_type=single;
+8	Tiberius	gene	71991018	71992321	.	-	.	g299
+8	Tiberius	transcript	71991018	71992321	.	-	.	g299.t1
+8	Tiberius	CDS	71991018	71991686	.	-	0	transcript_id "g299.t1"; gene_id "g299"; cds_type=terminal;
+8	Tiberius	exon	71991018	71991686	.	-	0	transcript_id "g299.t1"; gene_id "g299"; cds_type=terminal;
+8	Tiberius	intron	71991687	71991697	.	-	0	transcript_id "g299.t1"; gene_id "g299";
+8	Tiberius	CDS	71991698	71992321	.	-	0	transcript_id "g299.t1"; gene_id "g299"; cds_type=initial;
+8	Tiberius	exon	71991698	71992321	.	-	0	transcript_id "g299.t1"; gene_id "g299"; cds_type=initial;
+8	Tiberius	gene	79995303	79995810	.	+	.	g300
+8	Tiberius	transcript	79995303	79995810	.	+	.	g300.t1
+8	Tiberius	CDS	79995303	79995804	.	+	0	transcript_id "g300.t1"; gene_id "g300"; cds_type=initial;
+8	Tiberius	exon	79995303	79995804	.	+	0	transcript_id "g300.t1"; gene_id "g300"; cds_type=initial;
+8	Tiberius	intron	79995805	79995805	.	+	2	transcript_id "g300.t1"; gene_id "g300";
+8	Tiberius	CDS	79995806	79995810	.	+	2	transcript_id "g300.t1"; gene_id "g300"; cds_type=terminal;
+8	Tiberius	exon	79995806	79995810	.	+	2	transcript_id "g300.t1"; gene_id "g300"; cds_type=terminal;
+8	Tiberius	gene	83870104	83871313	.	+	.	g301
+8	Tiberius	transcript	83870104	83871313	.	+	.	g301.t1
+8	Tiberius	CDS	83870104	83871307	.	+	0	transcript_id "g301.t1"; gene_id "g301"; cds_type=initial;
+8	Tiberius	exon	83870104	83871307	.	+	0	transcript_id "g301.t1"; gene_id "g301"; cds_type=initial;
+8	Tiberius	intron	83871308	83871308	.	+	2	transcript_id "g301.t1"; gene_id "g301";
+8	Tiberius	CDS	83871309	83871313	.	+	2	transcript_id "g301.t1"; gene_id "g301"; cds_type=terminal;
+8	Tiberius	exon	83871309	83871313	.	+	2	transcript_id "g301.t1"; gene_id "g301"; cds_type=terminal;
+8	Tiberius	gene	92999906	93000695	.	-	.	g302
+8	Tiberius	transcript	92999906	93000695	.	-	.	g302.t1
+8	Tiberius	CDS	92999906	92999911	.	-	0	transcript_id "g302.t1"; gene_id "g302"; cds_type=terminal;
+8	Tiberius	exon	92999906	92999911	.	-	0	transcript_id "g302.t1"; gene_id "g302"; cds_type=terminal;
+8	Tiberius	intron	92999912	92999918	.	-	0	transcript_id "g302.t1"; gene_id "g302";
+8	Tiberius	CDS	92999919	93000695	.	-	0	transcript_id "g302.t1"; gene_id "g302"; cds_type=initial;
+8	Tiberius	exon	92999919	93000695	.	-	0	transcript_id "g302.t1"; gene_id "g302"; cds_type=initial;
+8	Tiberius	gene	94520085	94520997	.	-	.	g303
+8	Tiberius	transcript	94520085	94520997	.	-	.	g303.t1
+8	Tiberius	CDS	94520085	94520094	.	-	1	transcript_id "g303.t1"; gene_id "g303"; cds_type=terminal;
+8	Tiberius	exon	94520085	94520094	.	-	1	transcript_id "g303.t1"; gene_id "g303"; cds_type=terminal;
+8	Tiberius	intron	94520095	94520107	.	-	2	transcript_id "g303.t1"; gene_id "g303";
+8	Tiberius	CDS	94520108	94520997	.	-	0	transcript_id "g303.t1"; gene_id "g303"; cds_type=initial;
+8	Tiberius	exon	94520108	94520997	.	-	0	transcript_id "g303.t1"; gene_id "g303"; cds_type=initial;
+8	Tiberius	gene	117828481	117829535	.	+	.	g304
+8	Tiberius	transcript	117828481	117829535	.	+	.	g304.t1
+8	Tiberius	CDS	117828481	117829506	.	+	0	transcript_id "g304.t1"; gene_id "g304"; cds_type=initial;
+8	Tiberius	exon	117828481	117829506	.	+	0	transcript_id "g304.t1"; gene_id "g304"; cds_type=initial;
+8	Tiberius	intron	117829507	117829520	.	+	0	transcript_id "g304.t1"; gene_id "g304";
+8	Tiberius	CDS	117829521	117829535	.	+	0	transcript_id "g304.t1"; gene_id "g304"; cds_type=terminal;
+8	Tiberius	exon	117829521	117829535	.	+	0	transcript_id "g304.t1"; gene_id "g304"; cds_type=terminal;
+8	Tiberius	gene	122500201	122500722	.	-	.	g305
+8	Tiberius	transcript	122500201	122500722	.	-	.	g305.t1
+8	Tiberius	CDS	122500201	122500722	.	-	0	transcript_id "g305.t1"; gene_id "g305"; cds_type=single;
+8	Tiberius	exon	122500201	122500722	.	-	0	transcript_id "g305.t1"; gene_id "g305"; cds_type=single;
+8	Tiberius	gene	149011428	149011947	.	+	.	g306
+8	Tiberius	transcript	149011428	149011947	.	+	.	g306.t1
+8	Tiberius	CDS	149011428	149011431	.	+	0	transcript_id "g306.t1"; gene_id "g306"; cds_type=initial;
+8	Tiberius	exon	149011428	149011431	.	+	0	transcript_id "g306.t1"; gene_id "g306"; cds_type=initial;
+8	Tiberius	intron	149011432	149011435	.	+	2	transcript_id "g306.t1"; gene_id "g306";
+8	Tiberius	CDS	149011436	149011947	.	+	2	transcript_id "g306.t1"; gene_id "g306"; cds_type=terminal;
+8	Tiberius	exon	149011436	149011947	.	+	2	transcript_id "g306.t1"; gene_id "g306"; cds_type=terminal;
+8	Tiberius	gene	149014044	149014326	.	-	.	g307
+8	Tiberius	transcript	149014044	149014326	.	-	.	g307.t1
+8	Tiberius	CDS	149014044	149014050	.	-	1	transcript_id "g307.t1"; gene_id "g307"; cds_type=terminal;
+8	Tiberius	exon	149014044	149014050	.	-	1	transcript_id "g307.t1"; gene_id "g307"; cds_type=terminal;
+8	Tiberius	intron	149014051	149014051	.	-	2	transcript_id "g307.t1"; gene_id "g307";
+8	Tiberius	CDS	149014052	149014326	.	-	0	transcript_id "g307.t1"; gene_id "g307"; cds_type=initial;
+8	Tiberius	exon	149014052	149014326	.	-	0	transcript_id "g307.t1"; gene_id "g307"; cds_type=initial;
+9	Tiberius	gene	33264266	33265898	.	-	.	g308
+9	Tiberius	transcript	33264266	33265898	.	-	.	g308.t1
+9	Tiberius	CDS	33264266	33264268	.	-	0	transcript_id "g308.t1"; gene_id "g308"; cds_type=terminal;
+9	Tiberius	exon	33264266	33264268	.	-	0	transcript_id "g308.t1"; gene_id "g308"; cds_type=terminal;
+9	Tiberius	intron	33264269	33264269	.	-	0	transcript_id "g308.t1"; gene_id "g308";
+9	Tiberius	CDS	33264270	33265898	.	-	0	transcript_id "g308.t1"; gene_id "g308"; cds_type=initial;
+9	Tiberius	exon	33264270	33265898	.	-	0	transcript_id "g308.t1"; gene_id "g308"; cds_type=initial;
+9	Tiberius	gene	41499790	41500135	.	+	.	g309
+9	Tiberius	transcript	41499790	41500135	.	+	.	g309.t1
+9	Tiberius	CDS	41499790	41500131	.	+	0	transcript_id "g309.t1"; gene_id "g309"; cds_type=initial;
+9	Tiberius	exon	41499790	41500131	.	+	0	transcript_id "g309.t1"; gene_id "g309"; cds_type=initial;
+9	Tiberius	intron	41500132	41500132	.	+	0	transcript_id "g309.t1"; gene_id "g309";
+9	Tiberius	CDS	41500133	41500135	.	+	0	transcript_id "g309.t1"; gene_id "g309"; cds_type=terminal;
+9	Tiberius	exon	41500133	41500135	.	+	0	transcript_id "g309.t1"; gene_id "g309"; cds_type=terminal;
+9	Tiberius	gene	46011178	46012314	.	-	.	g310
+9	Tiberius	transcript	46011178	46012314	.	-	.	g310.t1
+9	Tiberius	CDS	46011178	46012314	.	-	0	transcript_id "g310.t1"; gene_id "g310"; cds_type=single;
+9	Tiberius	exon	46011178	46012314	.	-	0	transcript_id "g310.t1"; gene_id "g310"; cds_type=single;
+9	Tiberius	gene	51544432	51545949	.	-	.	g311
+9	Tiberius	transcript	51544432	51545949	.	-	.	g311.t1
+9	Tiberius	CDS	51544432	51545949	.	-	0	transcript_id "g311.t1"; gene_id "g311"; cds_type=single;
+9	Tiberius	exon	51544432	51545949	.	-	0	transcript_id "g311.t1"; gene_id "g311"; cds_type=single;
+9	Tiberius	gene	52479286	52480503	.	-	.	g312
+9	Tiberius	transcript	52479286	52480503	.	-	.	g312.t1
+9	Tiberius	CDS	52479286	52480503	.	-	0	transcript_id "g312.t1"; gene_id "g312"; cds_type=single;
+9	Tiberius	exon	52479286	52480503	.	-	0	transcript_id "g312.t1"; gene_id "g312"; cds_type=single;
+9	Tiberius	gene	52499583	52499864	.	-	.	g313
+9	Tiberius	transcript	52499583	52499864	.	-	.	g313.t1
+9	Tiberius	CDS	52499583	52499864	.	-	0	transcript_id "g313.t1"; gene_id "g313"; cds_type=single;
+9	Tiberius	exon	52499583	52499864	.	-	0	transcript_id "g313.t1"; gene_id "g313"; cds_type=single;
+9	Tiberius	gene	59538815	59540176	.	-	.	g314
+9	Tiberius	transcript	59538815	59540176	.	-	.	g314.t1
+9	Tiberius	CDS	59538815	59540176	.	-	0	transcript_id "g314.t1"; gene_id "g314"; cds_type=single;
+9	Tiberius	exon	59538815	59540176	.	-	0	transcript_id "g314.t1"; gene_id "g314"; cds_type=single;
+9	Tiberius	gene	61507451	61509871	.	-	.	g315
+9	Tiberius	transcript	61507451	61509871	.	-	.	g315.t1
+9	Tiberius	CDS	61507451	61509871	.	-	0	transcript_id "g315.t1"; gene_id "g315"; cds_type=single;
+9	Tiberius	exon	61507451	61509871	.	-	0	transcript_id "g315.t1"; gene_id "g315"; cds_type=single;
+9	Tiberius	gene	65593104	65596637	.	-	.	g316
+9	Tiberius	transcript	65593104	65596637	.	-	.	g316.t1
+9	Tiberius	CDS	65593104	65596637	.	-	0	transcript_id "g316.t1"; gene_id "g316"; cds_type=single;
+9	Tiberius	exon	65593104	65596637	.	-	0	transcript_id "g316.t1"; gene_id "g316"; cds_type=single;
+9	Tiberius	gene	75964643	75965318	.	-	.	g317
+9	Tiberius	transcript	75964643	75965318	.	-	.	g317.t1
+9	Tiberius	CDS	75964643	75964645	.	-	0	transcript_id "g317.t1"; gene_id "g317"; cds_type=terminal;
+9	Tiberius	exon	75964643	75964645	.	-	0	transcript_id "g317.t1"; gene_id "g317"; cds_type=terminal;
+9	Tiberius	intron	75964646	75964646	.	-	0	transcript_id "g317.t1"; gene_id "g317";
+9	Tiberius	CDS	75964647	75965318	.	-	0	transcript_id "g317.t1"; gene_id "g317"; cds_type=initial;
+9	Tiberius	exon	75964647	75965318	.	-	0	transcript_id "g317.t1"; gene_id "g317"; cds_type=initial;
+9	Tiberius	gene	84558550	84558777	.	+	.	g318
+9	Tiberius	transcript	84558550	84558777	.	+	.	g318.t1
+9	Tiberius	CDS	84558550	84558777	.	+	0	transcript_id "g318.t1"; gene_id "g318"; cds_type=single;
+9	Tiberius	exon	84558550	84558777	.	+	0	transcript_id "g318.t1"; gene_id "g318"; cds_type=single;
+9	Tiberius	gene	103498129	103499646	.	-	.	g319
+9	Tiberius	transcript	103498129	103499646	.	-	.	g319.t1
+9	Tiberius	CDS	103498129	103499646	.	-	0	transcript_id "g319.t1"; gene_id "g319"; cds_type=single;
+9	Tiberius	exon	103498129	103499646	.	-	0	transcript_id "g319.t1"; gene_id "g319"; cds_type=single;
+9	Tiberius	gene	105027829	105028071	.	+	.	g320
+9	Tiberius	transcript	105027829	105028071	.	+	.	g320.t1
+9	Tiberius	CDS	105027829	105028071	.	+	0	transcript_id "g320.t1"; gene_id "g320"; cds_type=single;
+9	Tiberius	exon	105027829	105028071	.	+	0	transcript_id "g320.t1"; gene_id "g320"; cds_type=single;
+9	Tiberius	gene	105029048	105032274	.	-	.	g321
+9	Tiberius	transcript	105029048	105032274	.	-	.	g321.t1
+9	Tiberius	CDS	105029048	105029181	.	-	2	transcript_id "g321.t1"; gene_id "g321"; cds_type=terminal;
+9	Tiberius	exon	105029048	105029181	.	-	2	transcript_id "g321.t1"; gene_id "g321"; cds_type=terminal;
+9	Tiberius	intron	105029182	105029274	.	-	1	transcript_id "g321.t1"; gene_id "g321";
+9	Tiberius	CDS	105029275	105030067	.	-	0	transcript_id "g321.t1"; gene_id "g321"; cds_type=internal;
+9	Tiberius	exon	105029275	105030067	.	-	0	transcript_id "g321.t1"; gene_id "g321"; cds_type=internal;
+9	Tiberius	intron	105030068	105030156	.	-	0	transcript_id "g321.t1"; gene_id "g321";
+9	Tiberius	CDS	105030157	105032274	.	-	0	transcript_id "g321.t1"; gene_id "g321"; cds_type=initial;
+9	Tiberius	exon	105030157	105032274	.	-	0	transcript_id "g321.t1"; gene_id "g321"; cds_type=initial;
+9	Tiberius	gene	105062625	105063017	.	-	.	g322
+9	Tiberius	transcript	105062625	105063017	.	-	.	g322.t1
+9	Tiberius	CDS	105062625	105063017	.	-	0	transcript_id "g322.t1"; gene_id "g322"; cds_type=single;
+9	Tiberius	exon	105062625	105063017	.	-	0	transcript_id "g322.t1"; gene_id "g322"; cds_type=single;
+9	Tiberius	gene	109138126	109139058	.	+	.	g323
+9	Tiberius	transcript	109138126	109139058	.	+	.	g323.t1
+9	Tiberius	CDS	109138126	109139058	.	+	0	transcript_id "g323.t1"; gene_id "g323"; cds_type=single;
+9	Tiberius	exon	109138126	109139058	.	+	0	transcript_id "g323.t1"; gene_id "g323"; cds_type=single;
+9	Tiberius	gene	131085752	131086346	.	-	.	g324
+9	Tiberius	transcript	131085752	131086346	.	-	.	g324.t1
+9	Tiberius	CDS	131085752	131086023	.	-	2	transcript_id "g324.t1"; gene_id "g324"; cds_type=terminal;
+9	Tiberius	exon	131085752	131086023	.	-	2	transcript_id "g324.t1"; gene_id "g324"; cds_type=terminal;
+9	Tiberius	intron	131086024	131086127	.	-	1	transcript_id "g324.t1"; gene_id "g324";
+9	Tiberius	CDS	131086128	131086257	.	-	0	transcript_id "g324.t1"; gene_id "g324"; cds_type=internal;
+9	Tiberius	exon	131086128	131086257	.	-	0	transcript_id "g324.t1"; gene_id "g324"; cds_type=internal;
+9	Tiberius	intron	131086258	131086337	.	-	0	transcript_id "g324.t1"; gene_id "g324";
+9	Tiberius	CDS	131086338	131086346	.	-	0	transcript_id "g324.t1"; gene_id "g324"; cds_type=initial;
+9	Tiberius	exon	131086338	131086346	.	-	0	transcript_id "g324.t1"; gene_id "g324"; cds_type=initial;
+9	Tiberius	gene	131087317	131087779	.	-	.	g325
+9	Tiberius	transcript	131087317	131087779	.	-	.	g325.t1
+9	Tiberius	CDS	131087317	131087321	.	-	2	transcript_id "g325.t1"; gene_id "g325"; cds_type=terminal;
+9	Tiberius	exon	131087317	131087321	.	-	2	transcript_id "g325.t1"; gene_id "g325"; cds_type=terminal;
+9	Tiberius	intron	131087322	131087328	.	-	1	transcript_id "g325.t1"; gene_id "g325";
+9	Tiberius	CDS	131087329	131087426	.	-	1	transcript_id "g325.t1"; gene_id "g325"; cds_type=internal;
+9	Tiberius	exon	131087329	131087426	.	-	1	transcript_id "g325.t1"; gene_id "g325"; cds_type=internal;
+9	Tiberius	intron	131087427	131087600	.	-	2	transcript_id "g325.t1"; gene_id "g325";
+9	Tiberius	CDS	131087601	131087779	.	-	0	transcript_id "g325.t1"; gene_id "g325"; cds_type=initial;
+9	Tiberius	exon	131087601	131087779	.	-	0	transcript_id "g325.t1"; gene_id "g325"; cds_type=initial;
+9	Tiberius	gene	135049613	135050305	.	+	.	g326
+9	Tiberius	transcript	135049613	135050305	.	+	.	g326.t1
+9	Tiberius	CDS	135049613	135050305	.	+	0	transcript_id "g326.t1"; gene_id "g326"; cds_type=single;
+9	Tiberius	exon	135049613	135050305	.	+	0	transcript_id "g326.t1"; gene_id "g326"; cds_type=single;
+9	Tiberius	gene	140546583	140548100	.	-	.	g327
+9	Tiberius	transcript	140546583	140548100	.	-	.	g327.t1
+9	Tiberius	CDS	140546583	140548100	.	-	0	transcript_id "g327.t1"; gene_id "g327"; cds_type=single;
+9	Tiberius	exon	140546583	140548100	.	-	0	transcript_id "g327.t1"; gene_id "g327"; cds_type=single;
+9	Tiberius	gene	151454321	151457448	.	+	.	g328
+9	Tiberius	transcript	151454321	151457448	.	+	.	g328.t1
+9	Tiberius	CDS	151454321	151456345	.	+	0	transcript_id "g328.t1"; gene_id "g328"; cds_type=initial;
+9	Tiberius	exon	151454321	151456345	.	+	0	transcript_id "g328.t1"; gene_id "g328"; cds_type=initial;
+9	Tiberius	intron	151456346	151456428	.	+	0	transcript_id "g328.t1"; gene_id "g328";
+9	Tiberius	CDS	151456429	151457221	.	+	0	transcript_id "g328.t1"; gene_id "g328"; cds_type=internal;
+9	Tiberius	exon	151456429	151457221	.	+	0	transcript_id "g328.t1"; gene_id "g328"; cds_type=internal;
+9	Tiberius	intron	151457222	151457314	.	+	2	transcript_id "g328.t1"; gene_id "g328";
+9	Tiberius	CDS	151457315	151457448	.	+	2	transcript_id "g328.t1"; gene_id "g328"; cds_type=terminal;
+9	Tiberius	exon	151457315	151457448	.	+	2	transcript_id "g328.t1"; gene_id "g328"; cds_type=terminal;
+9	Tiberius	gene	151466788	151469091	.	-	.	g329
+9	Tiberius	transcript	151466788	151469091	.	-	.	g329.t1
+9	Tiberius	CDS	151466788	151469091	.	-	0	transcript_id "g329.t1"; gene_id "g329"; cds_type=single;
+9	Tiberius	exon	151466788	151469091	.	-	0	transcript_id "g329.t1"; gene_id "g329"; cds_type=single;
+9	Tiberius	gene	151496190	151496790	.	-	.	g330
+9	Tiberius	transcript	151496190	151496790	.	-	.	g330.t1
+9	Tiberius	CDS	151496190	151496579	.	-	0	transcript_id "g330.t1"; gene_id "g330"; cds_type=terminal;
+9	Tiberius	exon	151496190	151496579	.	-	0	transcript_id "g330.t1"; gene_id "g330"; cds_type=terminal;
+9	Tiberius	intron	151496580	151496604	.	-	0	transcript_id "g330.t1"; gene_id "g330";
+9	Tiberius	CDS	151496605	151496790	.	-	0	transcript_id "g330.t1"; gene_id "g330"; cds_type=initial;
+9	Tiberius	exon	151496605	151496790	.	-	0	transcript_id "g330.t1"; gene_id "g330"; cds_type=initial;
+9	Tiberius	gene	151496794	151497126	.	-	.	g331
+9	Tiberius	transcript	151496794	151497126	.	-	.	g331.t1
+9	Tiberius	CDS	151496794	151497126	.	-	0	transcript_id "g331.t1"; gene_id "g331"; cds_type=single;
+9	Tiberius	exon	151496794	151497126	.	-	0	transcript_id "g331.t1"; gene_id "g331"; cds_type=single;
+9	Tiberius	gene	151497131	151497494	.	-	.	g332
+9	Tiberius	transcript	151497131	151497494	.	-	.	g332.t1
+9	Tiberius	CDS	151497131	151497133	.	-	0	transcript_id "g332.t1"; gene_id "g332"; cds_type=terminal;
+9	Tiberius	exon	151497131	151497133	.	-	0	transcript_id "g332.t1"; gene_id "g332"; cds_type=terminal;
+9	Tiberius	intron	151497134	151497134	.	-	0	transcript_id "g332.t1"; gene_id "g332";
+9	Tiberius	CDS	151497135	151497494	.	-	0	transcript_id "g332.t1"; gene_id "g332"; cds_type=initial;
+9	Tiberius	exon	151497135	151497494	.	-	0	transcript_id "g332.t1"; gene_id "g332"; cds_type=initial;
+B73V4_ctg118	Tiberius	gene	20132	21154	.	+	.	g333
+B73V4_ctg118	Tiberius	transcript	20132	21154	.	+	.	g333.t1
+B73V4_ctg118	Tiberius	CDS	20132	21154	.	+	0	transcript_id "g333.t1"; gene_id "g333"; cds_type=single;
+B73V4_ctg118	Tiberius	exon	20132	21154	.	+	0	transcript_id "g333.t1"; gene_id "g333"; cds_type=single;
+B73V4_ctg131	Tiberius	gene	3615	4004	.	+	.	g334
+B73V4_ctg131	Tiberius	transcript	3615	4004	.	+	.	g334.t1
+B73V4_ctg131	Tiberius	CDS	3615	4004	.	+	0	transcript_id "g334.t1"; gene_id "g334"; cds_type=single;
+B73V4_ctg131	Tiberius	exon	3615	4004	.	+	0	transcript_id "g334.t1"; gene_id "g334"; cds_type=single;
+B73V4_ctg132	Tiberius	gene	61224	63578	.	-	.	g335
+B73V4_ctg132	Tiberius	transcript	61224	63578	.	-	.	g335.t1
+B73V4_ctg132	Tiberius	CDS	61224	63578	.	-	0	transcript_id "g335.t1"; gene_id "g335"; cds_type=single;
+B73V4_ctg132	Tiberius	exon	61224	63578	.	-	0	transcript_id "g335.t1"; gene_id "g335"; cds_type=single;
+B73V4_ctg132	Tiberius	gene	77929	78648	.	+	.	g336
+B73V4_ctg132	Tiberius	transcript	77929	78648	.	+	.	g336.t1
+B73V4_ctg132	Tiberius	CDS	77929	78648	.	+	0	transcript_id "g336.t1"; gene_id "g336"; cds_type=single;
+B73V4_ctg132	Tiberius	exon	77929	78648	.	+	0	transcript_id "g336.t1"; gene_id "g336"; cds_type=single;
+B73V4_ctg134	Tiberius	gene	84025	84546	.	+	.	g337
+B73V4_ctg134	Tiberius	transcript	84025	84546	.	+	.	g337.t1
+B73V4_ctg134	Tiberius	CDS	84025	84546	.	+	0	transcript_id "g337.t1"; gene_id "g337"; cds_type=single;
+B73V4_ctg134	Tiberius	exon	84025	84546	.	+	0	transcript_id "g337.t1"; gene_id "g337"; cds_type=single;
+B73V4_ctg137	Tiberius	gene	66121	66840	.	+	.	g338
+B73V4_ctg137	Tiberius	transcript	66121	66840	.	+	.	g338.t1
+B73V4_ctg137	Tiberius	CDS	66121	66840	.	+	0	transcript_id "g338.t1"; gene_id "g338"; cds_type=single;
+B73V4_ctg137	Tiberius	exon	66121	66840	.	+	0	transcript_id "g338.t1"; gene_id "g338"; cds_type=single;
+B73V4_ctg139	Tiberius	gene	52694	53019	.	-	.	g339
+B73V4_ctg139	Tiberius	transcript	52694	53019	.	-	.	g339.t1
+B73V4_ctg139	Tiberius	CDS	52694	52696	.	-	0	transcript_id "g339.t1"; gene_id "g339"; cds_type=terminal;
+B73V4_ctg139	Tiberius	exon	52694	52696	.	-	0	transcript_id "g339.t1"; gene_id "g339"; cds_type=terminal;
+B73V4_ctg139	Tiberius	intron	52697	52697	.	-	0	transcript_id "g339.t1"; gene_id "g339";
+B73V4_ctg139	Tiberius	CDS	52698	52701	.	-	1	transcript_id "g339.t1"; gene_id "g339"; cds_type=internal;
+B73V4_ctg139	Tiberius	exon	52698	52701	.	-	1	transcript_id "g339.t1"; gene_id "g339"; cds_type=internal;
+B73V4_ctg139	Tiberius	intron	52702	52702	.	-	2	transcript_id "g339.t1"; gene_id "g339";
+B73V4_ctg139	Tiberius	CDS	52703	53019	.	-	0	transcript_id "g339.t1"; gene_id "g339"; cds_type=initial;
+B73V4_ctg139	Tiberius	exon	52703	53019	.	-	0	transcript_id "g339.t1"; gene_id "g339"; cds_type=initial;
+B73V4_ctg141	Tiberius	gene	270	1186	.	+	.	g340
+B73V4_ctg141	Tiberius	transcript	270	1186	.	+	.	g340.t1
+B73V4_ctg141	Tiberius	CDS	270	693	.	+	0	transcript_id "g340.t1"; gene_id "g340"; cds_type=initial;
+B73V4_ctg141	Tiberius	exon	270	693	.	+	0	transcript_id "g340.t1"; gene_id "g340"; cds_type=initial;
+B73V4_ctg141	Tiberius	intron	694	698	.	+	2	transcript_id "g340.t1"; gene_id "g340";
+B73V4_ctg141	Tiberius	CDS	699	1186	.	+	2	transcript_id "g340.t1"; gene_id "g340"; cds_type=terminal;
+B73V4_ctg141	Tiberius	exon	699	1186	.	+	2	transcript_id "g340.t1"; gene_id "g340"; cds_type=terminal;
+B73V4_ctg151	Tiberius	gene	46960	47421	.	-	.	g341
+B73V4_ctg151	Tiberius	transcript	46960	47421	.	-	.	g341.t1
+B73V4_ctg151	Tiberius	CDS	46960	47421	.	-	0	transcript_id "g341.t1"; gene_id "g341"; cds_type=single;
+B73V4_ctg151	Tiberius	exon	46960	47421	.	-	0	transcript_id "g341.t1"; gene_id "g341"; cds_type=single;
+B73V4_ctg151	Tiberius	gene	52539	53113	.	-	.	g342
+B73V4_ctg151	Tiberius	transcript	52539	53113	.	-	.	g342.t1
+B73V4_ctg151	Tiberius	CDS	52539	52591	.	-	2	transcript_id "g342.t1"; gene_id "g342"; cds_type=terminal;
+B73V4_ctg151	Tiberius	exon	52539	52591	.	-	2	transcript_id "g342.t1"; gene_id "g342"; cds_type=terminal;
+B73V4_ctg151	Tiberius	intron	52592	52732	.	-	1	transcript_id "g342.t1"; gene_id "g342";
+B73V4_ctg151	Tiberius	CDS	52733	52815	.	-	1	transcript_id "g342.t1"; gene_id "g342"; cds_type=internal;
+B73V4_ctg151	Tiberius	exon	52733	52815	.	-	1	transcript_id "g342.t1"; gene_id "g342"; cds_type=internal;
+B73V4_ctg151	Tiberius	intron	52816	52898	.	-	2	transcript_id "g342.t1"; gene_id "g342";
+B73V4_ctg151	Tiberius	CDS	52899	53113	.	-	0	transcript_id "g342.t1"; gene_id "g342"; cds_type=initial;
+B73V4_ctg151	Tiberius	exon	52899	53113	.	-	0	transcript_id "g342.t1"; gene_id "g342"; cds_type=initial;
+B73V4_ctg151	Tiberius	gene	59667	60302	.	+	.	g343
+B73V4_ctg151	Tiberius	transcript	59667	60302	.	+	.	g343.t1
+B73V4_ctg151	Tiberius	CDS	59667	60302	.	+	0	transcript_id "g343.t1"; gene_id "g343"; cds_type=single;
+B73V4_ctg151	Tiberius	exon	59667	60302	.	+	0	transcript_id "g343.t1"; gene_id "g343"; cds_type=single;
+B73V4_ctg152	Tiberius	gene	62396	63271	.	+	.	g344
+B73V4_ctg152	Tiberius	transcript	62396	63271	.	+	.	g344.t1
+B73V4_ctg152	Tiberius	CDS	62396	63271	.	+	0	transcript_id "g344.t1"; gene_id "g344"; cds_type=single;
+B73V4_ctg152	Tiberius	exon	62396	63271	.	+	0	transcript_id "g344.t1"; gene_id "g344"; cds_type=single;
+B73V4_ctg152	Tiberius	gene	63529	64909	.	+	.	g345
+B73V4_ctg152	Tiberius	transcript	63529	64909	.	+	.	g345.t1
+B73V4_ctg152	Tiberius	CDS	63529	64896	.	+	0	transcript_id "g345.t1"; gene_id "g345"; cds_type=initial;
+B73V4_ctg152	Tiberius	exon	63529	64896	.	+	0	transcript_id "g345.t1"; gene_id "g345"; cds_type=initial;
+B73V4_ctg152	Tiberius	intron	64897	64897	.	+	0	transcript_id "g345.t1"; gene_id "g345";
+B73V4_ctg152	Tiberius	CDS	64898	64909	.	+	0	transcript_id "g345.t1"; gene_id "g345"; cds_type=terminal;
+B73V4_ctg152	Tiberius	exon	64898	64909	.	+	0	transcript_id "g345.t1"; gene_id "g345"; cds_type=terminal;
+B73V4_ctg158	Tiberius	gene	44531	47326	.	+	.	g346
+B73V4_ctg158	Tiberius	transcript	44531	47326	.	+	.	g346.t1
+B73V4_ctg158	Tiberius	CDS	44531	46549	.	+	0	transcript_id "g346.t1"; gene_id "g346"; cds_type=initial;
+B73V4_ctg158	Tiberius	exon	44531	46549	.	+	0	transcript_id "g346.t1"; gene_id "g346"; cds_type=initial;
+B73V4_ctg158	Tiberius	intron	46550	46623	.	+	0	transcript_id "g346.t1"; gene_id "g346";
+B73V4_ctg158	Tiberius	CDS	46624	47322	.	+	0	transcript_id "g346.t1"; gene_id "g346"; cds_type=internal;
+B73V4_ctg158	Tiberius	exon	46624	47322	.	+	0	transcript_id "g346.t1"; gene_id "g346"; cds_type=internal;
+B73V4_ctg158	Tiberius	intron	47323	47323	.	+	0	transcript_id "g346.t1"; gene_id "g346";
+B73V4_ctg158	Tiberius	CDS	47324	47326	.	+	0	transcript_id "g346.t1"; gene_id "g346"; cds_type=terminal;
+B73V4_ctg158	Tiberius	exon	47324	47326	.	+	0	transcript_id "g346.t1"; gene_id "g346"; cds_type=terminal;
+B73V4_ctg16	Tiberius	gene	6178	6931	.	+	.	g347
+B73V4_ctg16	Tiberius	transcript	6178	6931	.	+	.	g347.t1
+B73V4_ctg16	Tiberius	CDS	6178	6187	.	+	0	transcript_id "g347.t1"; gene_id "g347"; cds_type=initial;
+B73V4_ctg16	Tiberius	exon	6178	6187	.	+	0	transcript_id "g347.t1"; gene_id "g347"; cds_type=initial;
+B73V4_ctg16	Tiberius	intron	6188	6188	.	+	2	transcript_id "g347.t1"; gene_id "g347";
+B73V4_ctg16	Tiberius	CDS	6189	6931	.	+	2	transcript_id "g347.t1"; gene_id "g347"; cds_type=terminal;
+B73V4_ctg16	Tiberius	exon	6189	6931	.	+	2	transcript_id "g347.t1"; gene_id "g347"; cds_type=terminal;
+B73V4_ctg16	Tiberius	gene	8138	9655	.	-	.	g348
+B73V4_ctg16	Tiberius	transcript	8138	9655	.	-	.	g348.t1
+B73V4_ctg16	Tiberius	CDS	8138	9655	.	-	0	transcript_id "g348.t1"; gene_id "g348"; cds_type=single;
+B73V4_ctg16	Tiberius	exon	8138	9655	.	-	0	transcript_id "g348.t1"; gene_id "g348"; cds_type=single;
+B73V4_ctg16	Tiberius	gene	20688	22205	.	-	.	g349
+B73V4_ctg16	Tiberius	transcript	20688	22205	.	-	.	g349.t1
+B73V4_ctg16	Tiberius	CDS	20688	22205	.	-	0	transcript_id "g349.t1"; gene_id "g349"; cds_type=single;
+B73V4_ctg16	Tiberius	exon	20688	22205	.	-	0	transcript_id "g349.t1"; gene_id "g349"; cds_type=single;
+B73V4_ctg169	Tiberius	gene	7671	7911	.	+	.	g350
+B73V4_ctg169	Tiberius	transcript	7671	7911	.	+	.	g350.t1
+B73V4_ctg169	Tiberius	CDS	7671	7903	.	+	0	transcript_id "g350.t1"; gene_id "g350"; cds_type=initial;
+B73V4_ctg169	Tiberius	exon	7671	7903	.	+	0	transcript_id "g350.t1"; gene_id "g350"; cds_type=initial;
+B73V4_ctg169	Tiberius	intron	7904	7904	.	+	1	transcript_id "g350.t1"; gene_id "g350";
+B73V4_ctg169	Tiberius	CDS	7905	7911	.	+	1	transcript_id "g350.t1"; gene_id "g350"; cds_type=terminal;
+B73V4_ctg169	Tiberius	exon	7905	7911	.	+	1	transcript_id "g350.t1"; gene_id "g350"; cds_type=terminal;
+B73V4_ctg169	Tiberius	gene	7949	10666	.	+	.	g351
+B73V4_ctg169	Tiberius	transcript	7949	10666	.	+	.	g351.t1
+B73V4_ctg169	Tiberius	CDS	7949	10666	.	+	0	transcript_id "g351.t1"; gene_id "g351"; cds_type=single;
+B73V4_ctg169	Tiberius	exon	7949	10666	.	+	0	transcript_id "g351.t1"; gene_id "g351"; cds_type=single;
+B73V4_ctg169	Tiberius	gene	11801	12476	.	-	.	g352
+B73V4_ctg169	Tiberius	transcript	11801	12476	.	-	.	g352.t1
+B73V4_ctg169	Tiberius	CDS	11801	11803	.	-	0	transcript_id "g352.t1"; gene_id "g352"; cds_type=terminal;
+B73V4_ctg169	Tiberius	exon	11801	11803	.	-	0	transcript_id "g352.t1"; gene_id "g352"; cds_type=terminal;
+B73V4_ctg169	Tiberius	intron	11804	11804	.	-	0	transcript_id "g352.t1"; gene_id "g352";
+B73V4_ctg169	Tiberius	CDS	11805	12476	.	-	0	transcript_id "g352.t1"; gene_id "g352"; cds_type=initial;
+B73V4_ctg169	Tiberius	exon	11805	12476	.	-	0	transcript_id "g352.t1"; gene_id "g352"; cds_type=initial;
+B73V4_ctg176	Tiberius	gene	1017	3812	.	+	.	g353
+B73V4_ctg176	Tiberius	transcript	1017	3812	.	+	.	g353.t1
+B73V4_ctg176	Tiberius	CDS	1017	3035	.	+	0	transcript_id "g353.t1"; gene_id "g353"; cds_type=initial;
+B73V4_ctg176	Tiberius	exon	1017	3035	.	+	0	transcript_id "g353.t1"; gene_id "g353"; cds_type=initial;
+B73V4_ctg176	Tiberius	intron	3036	3109	.	+	0	transcript_id "g353.t1"; gene_id "g353";
+B73V4_ctg176	Tiberius	CDS	3110	3808	.	+	0	transcript_id "g353.t1"; gene_id "g353"; cds_type=internal;
+B73V4_ctg176	Tiberius	exon	3110	3808	.	+	0	transcript_id "g353.t1"; gene_id "g353"; cds_type=internal;
+B73V4_ctg176	Tiberius	intron	3809	3809	.	+	0	transcript_id "g353.t1"; gene_id "g353";
+B73V4_ctg176	Tiberius	CDS	3810	3812	.	+	0	transcript_id "g353.t1"; gene_id "g353"; cds_type=terminal;
+B73V4_ctg176	Tiberius	exon	3810	3812	.	+	0	transcript_id "g353.t1"; gene_id "g353"; cds_type=terminal;
+B73V4_ctg184	Tiberius	gene	38293	41099	.	+	.	g354
+B73V4_ctg184	Tiberius	transcript	38293	41099	.	+	.	g354.t1
+B73V4_ctg184	Tiberius	CDS	38293	40320	.	+	0	transcript_id "g354.t1"; gene_id "g354"; cds_type=initial;
+B73V4_ctg184	Tiberius	exon	38293	40320	.	+	0	transcript_id "g354.t1"; gene_id "g354"; cds_type=initial;
+B73V4_ctg184	Tiberius	intron	40321	40396	.	+	0	transcript_id "g354.t1"; gene_id "g354";
+B73V4_ctg184	Tiberius	CDS	40397	41095	.	+	0	transcript_id "g354.t1"; gene_id "g354"; cds_type=internal;
+B73V4_ctg184	Tiberius	exon	40397	41095	.	+	0	transcript_id "g354.t1"; gene_id "g354"; cds_type=internal;
+B73V4_ctg184	Tiberius	intron	41096	41096	.	+	0	transcript_id "g354.t1"; gene_id "g354";
+B73V4_ctg184	Tiberius	CDS	41097	41099	.	+	0	transcript_id "g354.t1"; gene_id "g354"; cds_type=terminal;
+B73V4_ctg184	Tiberius	exon	41097	41099	.	+	0	transcript_id "g354.t1"; gene_id "g354"; cds_type=terminal;
+B73V4_ctg187	Tiberius	gene	4314	5867	.	-	.	g355
+B73V4_ctg187	Tiberius	transcript	4314	5867	.	-	.	g355.t1
+B73V4_ctg187	Tiberius	CDS	4314	5867	.	-	0	transcript_id "g355.t1"; gene_id "g355"; cds_type=single;
+B73V4_ctg187	Tiberius	exon	4314	5867	.	-	0	transcript_id "g355.t1"; gene_id "g355"; cds_type=single;
+B73V4_ctg187	Tiberius	gene	6178	6419	.	-	.	g356
+B73V4_ctg187	Tiberius	transcript	6178	6419	.	-	.	g356.t1
+B73V4_ctg187	Tiberius	CDS	6178	6182	.	-	2	transcript_id "g356.t1"; gene_id "g356"; cds_type=terminal;
+B73V4_ctg187	Tiberius	exon	6178	6182	.	-	2	transcript_id "g356.t1"; gene_id "g356"; cds_type=terminal;
+B73V4_ctg187	Tiberius	intron	6183	6193	.	-	1	transcript_id "g356.t1"; gene_id "g356";
+B73V4_ctg187	Tiberius	CDS	6194	6419	.	-	0	transcript_id "g356.t1"; gene_id "g356"; cds_type=initial;
+B73V4_ctg187	Tiberius	exon	6194	6419	.	-	0	transcript_id "g356.t1"; gene_id "g356"; cds_type=initial;
+B73V4_ctg199	Tiberius	gene	52772	53809	.	-	.	g357
+B73V4_ctg199	Tiberius	transcript	52772	53809	.	-	.	g357.t1
+B73V4_ctg199	Tiberius	CDS	52772	53809	.	-	0	transcript_id "g357.t1"; gene_id "g357"; cds_type=single;
+B73V4_ctg199	Tiberius	exon	52772	53809	.	-	0	transcript_id "g357.t1"; gene_id "g357"; cds_type=single;
+B73V4_ctg210	Tiberius	gene	40698	41972	.	-	.	g358
+B73V4_ctg210	Tiberius	transcript	40698	41972	.	-	.	g358.t1
+B73V4_ctg210	Tiberius	CDS	40698	41972	.	-	0	transcript_id "g358.t1"; gene_id "g358"; cds_type=single;
+B73V4_ctg210	Tiberius	exon	40698	41972	.	-	0	transcript_id "g358.t1"; gene_id "g358"; cds_type=single;
+B73V4_ctg213	Tiberius	gene	54712	55954	.	+	.	g359
+B73V4_ctg213	Tiberius	transcript	54712	55954	.	+	.	g359.t1
+B73V4_ctg213	Tiberius	CDS	54712	55946	.	+	0	transcript_id "g359.t1"; gene_id "g359"; cds_type=initial;
+B73V4_ctg213	Tiberius	exon	54712	55946	.	+	0	transcript_id "g359.t1"; gene_id "g359"; cds_type=initial;
+B73V4_ctg213	Tiberius	intron	55947	55947	.	+	1	transcript_id "g359.t1"; gene_id "g359";
+B73V4_ctg213	Tiberius	CDS	55948	55954	.	+	1	transcript_id "g359.t1"; gene_id "g359"; cds_type=terminal;
+B73V4_ctg213	Tiberius	exon	55948	55954	.	+	1	transcript_id "g359.t1"; gene_id "g359"; cds_type=terminal;
+B73V4_ctg215	Tiberius	gene	40469	40684	.	-	.	g360
+B73V4_ctg215	Tiberius	transcript	40469	40684	.	-	.	g360.t1
+B73V4_ctg215	Tiberius	CDS	40469	40684	.	-	0	transcript_id "g360.t1"; gene_id "g360"; cds_type=single;
+B73V4_ctg215	Tiberius	exon	40469	40684	.	-	0	transcript_id "g360.t1"; gene_id "g360"; cds_type=single;
+B73V4_ctg218	Tiberius	gene	622	2586	.	+	.	g361
+B73V4_ctg218	Tiberius	transcript	622	2586	.	+	.	g361.t1
+B73V4_ctg218	Tiberius	CDS	622	2586	.	+	0	transcript_id "g361.t1"; gene_id "g361"; cds_type=single;
+B73V4_ctg218	Tiberius	exon	622	2586	.	+	0	transcript_id "g361.t1"; gene_id "g361"; cds_type=single;
+B73V4_ctg218	Tiberius	gene	2593	4575	.	+	.	g362
+B73V4_ctg218	Tiberius	transcript	2593	4575	.	+	.	g362.t1
+B73V4_ctg218	Tiberius	CDS	2593	4575	.	+	0	transcript_id "g362.t1"; gene_id "g362"; cds_type=single;
+B73V4_ctg218	Tiberius	exon	2593	4575	.	+	0	transcript_id "g362.t1"; gene_id "g362"; cds_type=single;
+B73V4_ctg22	Tiberius	gene	17668	18783	.	-	.	g363
+B73V4_ctg22	Tiberius	transcript	17668	18783	.	-	.	g363.t1
+B73V4_ctg22	Tiberius	CDS	17668	18783	.	-	0	transcript_id "g363.t1"; gene_id "g363"; cds_type=single;
+B73V4_ctg22	Tiberius	exon	17668	18783	.	-	0	transcript_id "g363.t1"; gene_id "g363"; cds_type=single;
+B73V4_ctg22	Tiberius	gene	20525	22066	.	-	.	g364
+B73V4_ctg22	Tiberius	transcript	20525	22066	.	-	.	g364.t1
+B73V4_ctg22	Tiberius	CDS	20525	22066	.	-	0	transcript_id "g364.t1"; gene_id "g364"; cds_type=single;
+B73V4_ctg22	Tiberius	exon	20525	22066	.	-	0	transcript_id "g364.t1"; gene_id "g364"; cds_type=single;
+B73V4_ctg231	Tiberius	gene	17916	19433	.	+	.	g365
+B73V4_ctg231	Tiberius	transcript	17916	19433	.	+	.	g365.t1
+B73V4_ctg231	Tiberius	CDS	17916	19433	.	+	0	transcript_id "g365.t1"; gene_id "g365"; cds_type=single;
+B73V4_ctg231	Tiberius	exon	17916	19433	.	+	0	transcript_id "g365.t1"; gene_id "g365"; cds_type=single;
+B73V4_ctg233	Tiberius	gene	52642	53121	.	+	.	g366
+B73V4_ctg233	Tiberius	transcript	52642	53121	.	+	.	g366.t1
+B73V4_ctg233	Tiberius	CDS	52642	53121	.	+	0	transcript_id "g366.t1"; gene_id "g366"; cds_type=single;
+B73V4_ctg233	Tiberius	exon	52642	53121	.	+	0	transcript_id "g366.t1"; gene_id "g366"; cds_type=single;
+B73V4_ctg238	Tiberius	gene	878	1162	.	+	.	g367
+B73V4_ctg238	Tiberius	transcript	878	1162	.	+	.	g367.t1
+B73V4_ctg238	Tiberius	CDS	878	1162	.	+	0	transcript_id "g367.t1"; gene_id "g367"; cds_type=single;
+B73V4_ctg238	Tiberius	exon	878	1162	.	+	0	transcript_id "g367.t1"; gene_id "g367"; cds_type=single;
+B73V4_ctg238	Tiberius	gene	3682	3930	.	+	.	g368
+B73V4_ctg238	Tiberius	transcript	3682	3930	.	+	.	g368.t1
+B73V4_ctg238	Tiberius	CDS	3682	3930	.	+	0	transcript_id "g368.t1"; gene_id "g368"; cds_type=single;
+B73V4_ctg238	Tiberius	exon	3682	3930	.	+	0	transcript_id "g368.t1"; gene_id "g368"; cds_type=single;
+B73V4_ctg238	Tiberius	gene	3961	4875	.	+	.	g369
+B73V4_ctg238	Tiberius	transcript	3961	4875	.	+	.	g369.t1
+B73V4_ctg238	Tiberius	CDS	3961	4875	.	+	0	transcript_id "g369.t1"; gene_id "g369"; cds_type=single;
+B73V4_ctg238	Tiberius	exon	3961	4875	.	+	0	transcript_id "g369.t1"; gene_id "g369"; cds_type=single;
+B73V4_ctg238	Tiberius	gene	6968	8017	.	+	.	g370
+B73V4_ctg238	Tiberius	transcript	6968	8017	.	+	.	g370.t1
+B73V4_ctg238	Tiberius	CDS	6968	8017	.	+	0	transcript_id "g370.t1"; gene_id "g370"; cds_type=single;
+B73V4_ctg238	Tiberius	exon	6968	8017	.	+	0	transcript_id "g370.t1"; gene_id "g370"; cds_type=single;
+B73V4_ctg239	Tiberius	gene	69349	69984	.	+	.	g371
+B73V4_ctg239	Tiberius	transcript	69349	69984	.	+	.	g371.t1
+B73V4_ctg239	Tiberius	CDS	69349	69984	.	+	0	transcript_id "g371.t1"; gene_id "g371"; cds_type=single;
+B73V4_ctg239	Tiberius	exon	69349	69984	.	+	0	transcript_id "g371.t1"; gene_id "g371"; cds_type=single;
+B73V4_ctg240	Tiberius	gene	10889	12064	.	-	.	g372
+B73V4_ctg240	Tiberius	transcript	10889	12064	.	-	.	g372.t1
+B73V4_ctg240	Tiberius	CDS	10889	12064	.	-	0	transcript_id "g372.t1"; gene_id "g372"; cds_type=single;
+B73V4_ctg240	Tiberius	exon	10889	12064	.	-	0	transcript_id "g372.t1"; gene_id "g372"; cds_type=single;
+B73V4_ctg240	Tiberius	gene	20840	21307	.	+	.	g373
+B73V4_ctg240	Tiberius	transcript	20840	21307	.	+	.	g373.t1
+B73V4_ctg240	Tiberius	CDS	20840	21307	.	+	0	transcript_id "g373.t1"; gene_id "g373"; cds_type=single;
+B73V4_ctg240	Tiberius	exon	20840	21307	.	+	0	transcript_id "g373.t1"; gene_id "g373"; cds_type=single;
+B73V4_ctg241	Tiberius	gene	45994	47664	.	+	.	g374
+B73V4_ctg241	Tiberius	transcript	45994	47664	.	+	.	g374.t1
+B73V4_ctg241	Tiberius	CDS	45994	47664	.	+	0	transcript_id "g374.t1"; gene_id "g374"; cds_type=single;
+B73V4_ctg241	Tiberius	exon	45994	47664	.	+	0	transcript_id "g374.t1"; gene_id "g374"; cds_type=single;
+B73V4_ctg243	Tiberius	gene	946	3957	.	+	.	g375
+B73V4_ctg243	Tiberius	transcript	946	3957	.	+	.	g375.t1
+B73V4_ctg243	Tiberius	CDS	946	3060	.	+	0	transcript_id "g375.t1"; gene_id "g375"; cds_type=initial;
+B73V4_ctg243	Tiberius	exon	946	3060	.	+	0	transcript_id "g375.t1"; gene_id "g375"; cds_type=initial;
+B73V4_ctg243	Tiberius	intron	3061	3153	.	+	0	transcript_id "g375.t1"; gene_id "g375";
+B73V4_ctg243	Tiberius	CDS	3154	3957	.	+	0	transcript_id "g375.t1"; gene_id "g375"; cds_type=terminal;
+B73V4_ctg243	Tiberius	exon	3154	3957	.	+	0	transcript_id "g375.t1"; gene_id "g375"; cds_type=terminal;
+B73V4_ctg243	Tiberius	gene	5108	5425	.	-	.	g376
+B73V4_ctg243	Tiberius	transcript	5108	5425	.	-	.	g376.t1
+B73V4_ctg243	Tiberius	CDS	5108	5425	.	-	0	transcript_id "g376.t1"; gene_id "g376"; cds_type=single;
+B73V4_ctg243	Tiberius	exon	5108	5425	.	-	0	transcript_id "g376.t1"; gene_id "g376"; cds_type=single;
+B73V4_ctg243	Tiberius	gene	21170	24398	.	+	.	g377
+B73V4_ctg243	Tiberius	transcript	21170	24398	.	+	.	g377.t1
+B73V4_ctg243	Tiberius	CDS	21170	23284	.	+	0	transcript_id "g377.t1"; gene_id "g377"; cds_type=initial;
+B73V4_ctg243	Tiberius	exon	21170	23284	.	+	0	transcript_id "g377.t1"; gene_id "g377"; cds_type=initial;
+B73V4_ctg243	Tiberius	intron	23285	23374	.	+	0	transcript_id "g377.t1"; gene_id "g377";
+B73V4_ctg243	Tiberius	CDS	23375	24167	.	+	0	transcript_id "g377.t1"; gene_id "g377"; cds_type=internal;
+B73V4_ctg243	Tiberius	exon	23375	24167	.	+	0	transcript_id "g377.t1"; gene_id "g377"; cds_type=internal;
+B73V4_ctg243	Tiberius	intron	24168	24264	.	+	2	transcript_id "g377.t1"; gene_id "g377";
+B73V4_ctg243	Tiberius	CDS	24265	24398	.	+	2	transcript_id "g377.t1"; gene_id "g377"; cds_type=terminal;
+B73V4_ctg243	Tiberius	exon	24265	24398	.	+	2	transcript_id "g377.t1"; gene_id "g377"; cds_type=terminal;
+B73V4_ctg243	Tiberius	gene	29308	33261	.	+	.	g378
+B73V4_ctg243	Tiberius	transcript	29308	33261	.	+	.	g378.t1
+B73V4_ctg243	Tiberius	CDS	29308	33261	.	+	0	transcript_id "g378.t1"; gene_id "g378"; cds_type=single;
+B73V4_ctg243	Tiberius	exon	29308	33261	.	+	0	transcript_id "g378.t1"; gene_id "g378"; cds_type=single;
+B73V4_ctg243	Tiberius	gene	39899	41066	.	+	.	g379
+B73V4_ctg243	Tiberius	transcript	39899	41066	.	+	.	g379.t1
+B73V4_ctg243	Tiberius	CDS	39899	41061	.	+	0	transcript_id "g379.t1"; gene_id "g379"; cds_type=initial;
+B73V4_ctg243	Tiberius	exon	39899	41061	.	+	0	transcript_id "g379.t1"; gene_id "g379"; cds_type=initial;
+B73V4_ctg243	Tiberius	intron	41062	41062	.	+	1	transcript_id "g379.t1"; gene_id "g379";
+B73V4_ctg243	Tiberius	CDS	41063	41066	.	+	1	transcript_id "g379.t1"; gene_id "g379"; cds_type=terminal;
+B73V4_ctg243	Tiberius	exon	41063	41066	.	+	1	transcript_id "g379.t1"; gene_id "g379"; cds_type=terminal;
+B73V4_ctg243	Tiberius	gene	43876	44397	.	-	.	g380
+B73V4_ctg243	Tiberius	transcript	43876	44397	.	-	.	g380.t1
+B73V4_ctg243	Tiberius	CDS	43876	44397	.	-	0	transcript_id "g380.t1"; gene_id "g380"; cds_type=single;
+B73V4_ctg243	Tiberius	exon	43876	44397	.	-	0	transcript_id "g380.t1"; gene_id "g380"; cds_type=single;
+B73V4_ctg243	Tiberius	gene	45337	45833	.	-	.	g381
+B73V4_ctg243	Tiberius	transcript	45337	45833	.	-	.	g381.t1
+B73V4_ctg243	Tiberius	CDS	45337	45341	.	-	2	transcript_id "g381.t1"; gene_id "g381"; cds_type=terminal;
+B73V4_ctg243	Tiberius	exon	45337	45341	.	-	2	transcript_id "g381.t1"; gene_id "g381"; cds_type=terminal;
+B73V4_ctg243	Tiberius	intron	45342	45346	.	-	1	transcript_id "g381.t1"; gene_id "g381";
+B73V4_ctg243	Tiberius	CDS	45347	45833	.	-	0	transcript_id "g381.t1"; gene_id "g381"; cds_type=initial;
+B73V4_ctg243	Tiberius	exon	45347	45833	.	-	0	transcript_id "g381.t1"; gene_id "g381"; cds_type=initial;
+B73V4_ctg252	Tiberius	gene	48484	49866	.	+	.	g382
+B73V4_ctg252	Tiberius	transcript	48484	49866	.	+	.	g382.t1
+B73V4_ctg252	Tiberius	CDS	48484	49866	.	+	0	transcript_id "g382.t1"; gene_id "g382"; cds_type=single;
+B73V4_ctg252	Tiberius	exon	48484	49866	.	+	0	transcript_id "g382.t1"; gene_id "g382"; cds_type=single;
+B73V4_ctg255	Tiberius	gene	23857	25374	.	+	.	g383
+B73V4_ctg255	Tiberius	transcript	23857	25374	.	+	.	g383.t1
+B73V4_ctg255	Tiberius	CDS	23857	25374	.	+	0	transcript_id "g383.t1"; gene_id "g383"; cds_type=single;
+B73V4_ctg255	Tiberius	exon	23857	25374	.	+	0	transcript_id "g383.t1"; gene_id "g383"; cds_type=single;
+B73V4_ctg255	Tiberius	gene	37757	39430	.	+	.	g384
+B73V4_ctg255	Tiberius	transcript	37757	39430	.	+	.	g384.t1
+B73V4_ctg255	Tiberius	CDS	37757	39430	.	+	0	transcript_id "g384.t1"; gene_id "g384"; cds_type=single;
+B73V4_ctg255	Tiberius	exon	37757	39430	.	+	0	transcript_id "g384.t1"; gene_id "g384"; cds_type=single;
+B73V4_ctg255	Tiberius	gene	41602	45555	.	-	.	g385
+B73V4_ctg255	Tiberius	transcript	41602	45555	.	-	.	g385.t1
+B73V4_ctg255	Tiberius	CDS	41602	45555	.	-	0	transcript_id "g385.t1"; gene_id "g385"; cds_type=single;
+B73V4_ctg255	Tiberius	exon	41602	45555	.	-	0	transcript_id "g385.t1"; gene_id "g385"; cds_type=single;
+B73V4_ctg31	Tiberius	gene	837901	838914	.	+	.	g386
+B73V4_ctg31	Tiberius	transcript	837901	838914	.	+	.	g386.t1
+B73V4_ctg31	Tiberius	CDS	837901	838914	.	+	0	transcript_id "g386.t1"; gene_id "g386"; cds_type=single;
+B73V4_ctg31	Tiberius	exon	837901	838914	.	+	0	transcript_id "g386.t1"; gene_id "g386"; cds_type=single;
+B73V4_ctg31	Tiberius	gene	839531	839996	.	+	.	g387
+B73V4_ctg31	Tiberius	transcript	839531	839996	.	+	.	g387.t1
+B73V4_ctg31	Tiberius	CDS	839531	839991	.	+	0	transcript_id "g387.t1"; gene_id "g387"; cds_type=initial;
+B73V4_ctg31	Tiberius	exon	839531	839991	.	+	0	transcript_id "g387.t1"; gene_id "g387"; cds_type=initial;
+B73V4_ctg31	Tiberius	intron	839992	839992	.	+	1	transcript_id "g387.t1"; gene_id "g387";
+B73V4_ctg31	Tiberius	CDS	839993	839996	.	+	1	transcript_id "g387.t1"; gene_id "g387"; cds_type=terminal;
+B73V4_ctg31	Tiberius	exon	839993	839996	.	+	1	transcript_id "g387.t1"; gene_id "g387"; cds_type=terminal;
+B73V4_ctg32	Tiberius	gene	13449	16676	.	+	.	g388
+B73V4_ctg32	Tiberius	transcript	13449	16676	.	+	.	g388.t1
+B73V4_ctg32	Tiberius	CDS	13449	15563	.	+	0	transcript_id "g388.t1"; gene_id "g388"; cds_type=initial;
+B73V4_ctg32	Tiberius	exon	13449	15563	.	+	0	transcript_id "g388.t1"; gene_id "g388"; cds_type=initial;
+B73V4_ctg32	Tiberius	intron	15564	15653	.	+	0	transcript_id "g388.t1"; gene_id "g388";
+B73V4_ctg32	Tiberius	CDS	15654	16446	.	+	0	transcript_id "g388.t1"; gene_id "g388"; cds_type=internal;
+B73V4_ctg32	Tiberius	exon	15654	16446	.	+	0	transcript_id "g388.t1"; gene_id "g388"; cds_type=internal;
+B73V4_ctg32	Tiberius	intron	16447	16542	.	+	2	transcript_id "g388.t1"; gene_id "g388";
+B73V4_ctg32	Tiberius	CDS	16543	16676	.	+	2	transcript_id "g388.t1"; gene_id "g388"; cds_type=terminal;
+B73V4_ctg32	Tiberius	exon	16543	16676	.	+	2	transcript_id "g388.t1"; gene_id "g388"; cds_type=terminal;
+B73V4_ctg32	Tiberius	gene	17627	17869	.	-	.	g389
+B73V4_ctg32	Tiberius	transcript	17627	17869	.	-	.	g389.t1
+B73V4_ctg32	Tiberius	CDS	17627	17869	.	-	0	transcript_id "g389.t1"; gene_id "g389"; cds_type=single;
+B73V4_ctg32	Tiberius	exon	17627	17869	.	-	0	transcript_id "g389.t1"; gene_id "g389"; cds_type=single;
+B73V4_ctg33	Tiberius	gene	76159	77365	.	-	.	g390
+B73V4_ctg33	Tiberius	transcript	76159	77365	.	-	.	g390.t1
+B73V4_ctg33	Tiberius	CDS	76159	76292	.	-	2	transcript_id "g390.t1"; gene_id "g390"; cds_type=terminal;
+B73V4_ctg33	Tiberius	exon	76159	76292	.	-	2	transcript_id "g390.t1"; gene_id "g390"; cds_type=terminal;
+B73V4_ctg33	Tiberius	intron	76293	76385	.	-	1	transcript_id "g390.t1"; gene_id "g390";
+B73V4_ctg33	Tiberius	CDS	76386	77178	.	-	0	transcript_id "g390.t1"; gene_id "g390"; cds_type=internal;
+B73V4_ctg33	Tiberius	exon	76386	77178	.	-	0	transcript_id "g390.t1"; gene_id "g390"; cds_type=internal;
+B73V4_ctg33	Tiberius	intron	77179	77269	.	-	0	transcript_id "g390.t1"; gene_id "g390";
+B73V4_ctg33	Tiberius	CDS	77270	77365	.	-	0	transcript_id "g390.t1"; gene_id "g390"; cds_type=initial;
+B73V4_ctg33	Tiberius	exon	77270	77365	.	-	0	transcript_id "g390.t1"; gene_id "g390"; cds_type=initial;
+B73V4_ctg33	Tiberius	gene	105580	106275	.	-	.	g391
+B73V4_ctg33	Tiberius	transcript	105580	106275	.	-	.	g391.t1
+B73V4_ctg33	Tiberius	CDS	105580	106275	.	-	0	transcript_id "g391.t1"; gene_id "g391"; cds_type=single;
+B73V4_ctg33	Tiberius	exon	105580	106275	.	-	0	transcript_id "g391.t1"; gene_id "g391"; cds_type=single;
+B73V4_ctg37	Tiberius	gene	9038	12991	.	+	.	g392
+B73V4_ctg37	Tiberius	transcript	9038	12991	.	+	.	g392.t1
+B73V4_ctg37	Tiberius	CDS	9038	12991	.	+	0	transcript_id "g392.t1"; gene_id "g392"; cds_type=single;
+B73V4_ctg37	Tiberius	exon	9038	12991	.	+	0	transcript_id "g392.t1"; gene_id "g392"; cds_type=single;
+B73V4_ctg38	Tiberius	gene	498	3509	.	-	.	g393
+B73V4_ctg38	Tiberius	transcript	498	3509	.	-	.	g393.t1
+B73V4_ctg38	Tiberius	CDS	498	1301	.	-	0	transcript_id "g393.t1"; gene_id "g393"; cds_type=terminal;
+B73V4_ctg38	Tiberius	exon	498	1301	.	-	0	transcript_id "g393.t1"; gene_id "g393"; cds_type=terminal;
+B73V4_ctg38	Tiberius	intron	1302	1391	.	-	0	transcript_id "g393.t1"; gene_id "g393";
+B73V4_ctg38	Tiberius	CDS	1392	3509	.	-	0	transcript_id "g393.t1"; gene_id "g393"; cds_type=initial;
+B73V4_ctg38	Tiberius	exon	1392	3509	.	-	0	transcript_id "g393.t1"; gene_id "g393"; cds_type=initial;
+B73V4_ctg38	Tiberius	gene	8345	10498	.	+	.	g394
+B73V4_ctg38	Tiberius	transcript	8345	10498	.	+	.	g394.t1
+B73V4_ctg38	Tiberius	CDS	8345	10498	.	+	0	transcript_id "g394.t1"; gene_id "g394"; cds_type=single;
+B73V4_ctg38	Tiberius	exon	8345	10498	.	+	0	transcript_id "g394.t1"; gene_id "g394"; cds_type=single;
+B73V4_ctg38	Tiberius	gene	47346	48863	.	+	.	g395
+B73V4_ctg38	Tiberius	transcript	47346	48863	.	+	.	g395.t1
+B73V4_ctg38	Tiberius	CDS	47346	48863	.	+	0	transcript_id "g395.t1"; gene_id "g395"; cds_type=single;
+B73V4_ctg38	Tiberius	exon	47346	48863	.	+	0	transcript_id "g395.t1"; gene_id "g395"; cds_type=single;
+B73V4_ctg38	Tiberius	gene	51234	52295	.	-	.	g396
+B73V4_ctg38	Tiberius	transcript	51234	52295	.	-	.	g396.t1
+B73V4_ctg38	Tiberius	CDS	51234	52295	.	-	0	transcript_id "g396.t1"; gene_id "g396"; cds_type=single;
+B73V4_ctg38	Tiberius	exon	51234	52295	.	-	0	transcript_id "g396.t1"; gene_id "g396"; cds_type=single;
+B73V4_ctg38	Tiberius	gene	68353	69262	.	-	.	g397
+B73V4_ctg38	Tiberius	transcript	68353	69262	.	-	.	g397.t1
+B73V4_ctg38	Tiberius	CDS	68353	69251	.	-	2	transcript_id "g397.t1"; gene_id "g397"; cds_type=terminal;
+B73V4_ctg38	Tiberius	exon	68353	69251	.	-	2	transcript_id "g397.t1"; gene_id "g397"; cds_type=terminal;
+B73V4_ctg38	Tiberius	intron	69252	69258	.	-	1	transcript_id "g397.t1"; gene_id "g397";
+B73V4_ctg38	Tiberius	CDS	69259	69262	.	-	0	transcript_id "g397.t1"; gene_id "g397"; cds_type=initial;
+B73V4_ctg38	Tiberius	exon	69259	69262	.	-	0	transcript_id "g397.t1"; gene_id "g397"; cds_type=initial;
+B73V4_ctg38	Tiberius	gene	70536	70962	.	-	.	g398
+B73V4_ctg38	Tiberius	transcript	70536	70962	.	-	.	g398.t1
+B73V4_ctg38	Tiberius	CDS	70536	70539	.	-	1	transcript_id "g398.t1"; gene_id "g398"; cds_type=terminal;
+B73V4_ctg38	Tiberius	exon	70536	70539	.	-	1	transcript_id "g398.t1"; gene_id "g398"; cds_type=terminal;
+B73V4_ctg38	Tiberius	intron	70540	70540	.	-	2	transcript_id "g398.t1"; gene_id "g398";
+B73V4_ctg38	Tiberius	CDS	70541	70962	.	-	0	transcript_id "g398.t1"; gene_id "g398"; cds_type=initial;
+B73V4_ctg38	Tiberius	exon	70541	70962	.	-	0	transcript_id "g398.t1"; gene_id "g398"; cds_type=initial;
+B73V4_ctg47	Tiberius	gene	6491	6816	.	+	.	g399
+B73V4_ctg47	Tiberius	transcript	6491	6816	.	+	.	g399.t1
+B73V4_ctg47	Tiberius	CDS	6491	6807	.	+	0	transcript_id "g399.t1"; gene_id "g399"; cds_type=initial;
+B73V4_ctg47	Tiberius	exon	6491	6807	.	+	0	transcript_id "g399.t1"; gene_id "g399"; cds_type=initial;
+B73V4_ctg47	Tiberius	intron	6808	6808	.	+	1	transcript_id "g399.t1"; gene_id "g399";
+B73V4_ctg47	Tiberius	CDS	6809	6812	.	+	1	transcript_id "g399.t1"; gene_id "g399"; cds_type=internal;
+B73V4_ctg47	Tiberius	exon	6809	6812	.	+	1	transcript_id "g399.t1"; gene_id "g399"; cds_type=internal;
+B73V4_ctg47	Tiberius	intron	6813	6813	.	+	0	transcript_id "g399.t1"; gene_id "g399";
+B73V4_ctg47	Tiberius	CDS	6814	6816	.	+	0	transcript_id "g399.t1"; gene_id "g399"; cds_type=terminal;
+B73V4_ctg47	Tiberius	exon	6814	6816	.	+	0	transcript_id "g399.t1"; gene_id "g399"; cds_type=terminal;
+B73V4_ctg47	Tiberius	gene	6966	8198	.	+	.	g400
+B73V4_ctg47	Tiberius	transcript	6966	8198	.	+	.	g400.t1
+B73V4_ctg47	Tiberius	CDS	6966	6975	.	+	0	transcript_id "g400.t1"; gene_id "g400"; cds_type=initial;
+B73V4_ctg47	Tiberius	exon	6966	6975	.	+	0	transcript_id "g400.t1"; gene_id "g400"; cds_type=initial;
+B73V4_ctg47	Tiberius	intron	6976	7001	.	+	2	transcript_id "g400.t1"; gene_id "g400";
+B73V4_ctg47	Tiberius	CDS	7002	8194	.	+	2	transcript_id "g400.t1"; gene_id "g400"; cds_type=internal;
+B73V4_ctg47	Tiberius	exon	7002	8194	.	+	2	transcript_id "g400.t1"; gene_id "g400"; cds_type=internal;
+B73V4_ctg47	Tiberius	intron	8195	8195	.	+	0	transcript_id "g400.t1"; gene_id "g400";
+B73V4_ctg47	Tiberius	CDS	8196	8198	.	+	0	transcript_id "g400.t1"; gene_id "g400"; cds_type=terminal;
+B73V4_ctg47	Tiberius	exon	8196	8198	.	+	0	transcript_id "g400.t1"; gene_id "g400"; cds_type=terminal;
+B73V4_ctg52	Tiberius	gene	740723	744676	.	+	.	g401
+B73V4_ctg52	Tiberius	transcript	740723	744676	.	+	.	g401.t1
+B73V4_ctg52	Tiberius	CDS	740723	744676	.	+	0	transcript_id "g401.t1"; gene_id "g401"; cds_type=single;
+B73V4_ctg52	Tiberius	exon	740723	744676	.	+	0	transcript_id "g401.t1"; gene_id "g401"; cds_type=single;
+B73V4_ctg67	Tiberius	gene	41602	42650	.	+	.	g402
+B73V4_ctg67	Tiberius	transcript	41602	42650	.	+	.	g402.t1
+B73V4_ctg67	Tiberius	CDS	41602	42640	.	+	0	transcript_id "g402.t1"; gene_id "g402"; cds_type=initial;
+B73V4_ctg67	Tiberius	exon	41602	42640	.	+	0	transcript_id "g402.t1"; gene_id "g402"; cds_type=initial;
+B73V4_ctg67	Tiberius	intron	42641	42641	.	+	2	transcript_id "g402.t1"; gene_id "g402";
+B73V4_ctg67	Tiberius	CDS	42642	42646	.	+	2	transcript_id "g402.t1"; gene_id "g402"; cds_type=internal;
+B73V4_ctg67	Tiberius	exon	42642	42646	.	+	2	transcript_id "g402.t1"; gene_id "g402"; cds_type=internal;
+B73V4_ctg67	Tiberius	intron	42647	42647	.	+	0	transcript_id "g402.t1"; gene_id "g402";
+B73V4_ctg67	Tiberius	CDS	42648	42650	.	+	0	transcript_id "g402.t1"; gene_id "g402"; cds_type=terminal;
+B73V4_ctg67	Tiberius	exon	42648	42650	.	+	0	transcript_id "g402.t1"; gene_id "g402"; cds_type=terminal;
+B73V4_ctg67	Tiberius	gene	43099	43753	.	+	.	g403
+B73V4_ctg67	Tiberius	transcript	43099	43753	.	+	.	g403.t1
+B73V4_ctg67	Tiberius	CDS	43099	43745	.	+	0	transcript_id "g403.t1"; gene_id "g403"; cds_type=initial;
+B73V4_ctg67	Tiberius	exon	43099	43745	.	+	0	transcript_id "g403.t1"; gene_id "g403"; cds_type=initial;
+B73V4_ctg67	Tiberius	intron	43746	43746	.	+	1	transcript_id "g403.t1"; gene_id "g403";
+B73V4_ctg67	Tiberius	CDS	43747	43753	.	+	1	transcript_id "g403.t1"; gene_id "g403"; cds_type=terminal;
+B73V4_ctg67	Tiberius	exon	43747	43753	.	+	1	transcript_id "g403.t1"; gene_id "g403"; cds_type=terminal;
+B73V4_ctg67	Tiberius	gene	50032	54606	.	+	.	g404
+B73V4_ctg67	Tiberius	transcript	50032	54606	.	+	.	g404.t1
+B73V4_ctg67	Tiberius	CDS	50032	54606	.	+	0	transcript_id "g404.t1"; gene_id "g404"; cds_type=single;
+B73V4_ctg67	Tiberius	exon	50032	54606	.	+	0	transcript_id "g404.t1"; gene_id "g404"; cds_type=single;
+B73V4_ctg74	Tiberius	gene	69642	70223	.	-	.	g405
+B73V4_ctg74	Tiberius	transcript	69642	70223	.	-	.	g405.t1
+B73V4_ctg74	Tiberius	CDS	69642	70223	.	-	0	transcript_id "g405.t1"; gene_id "g405"; cds_type=single;
+B73V4_ctg74	Tiberius	exon	69642	70223	.	-	0	transcript_id "g405.t1"; gene_id "g405"; cds_type=single;
+B73V4_ctg75	Tiberius	gene	515203	515937	.	-	.	g406
+B73V4_ctg75	Tiberius	transcript	515203	515937	.	-	.	g406.t1
+B73V4_ctg75	Tiberius	CDS	515203	515937	.	-	0	transcript_id "g406.t1"; gene_id "g406"; cds_type=single;
+B73V4_ctg75	Tiberius	exon	515203	515937	.	-	0	transcript_id "g406.t1"; gene_id "g406"; cds_type=single;
+B73V4_ctg76	Tiberius	gene	1252	1503	.	+	.	g407
+B73V4_ctg76	Tiberius	transcript	1252	1503	.	+	.	g407.t1
+B73V4_ctg76	Tiberius	CDS	1252	1503	.	+	0	transcript_id "g407.t1"; gene_id "g407"; cds_type=single;
+B73V4_ctg76	Tiberius	exon	1252	1503	.	+	0	transcript_id "g407.t1"; gene_id "g407"; cds_type=single;
+B73V4_ctg76	Tiberius	gene	1655	2672	.	+	.	g408
+B73V4_ctg76	Tiberius	transcript	1655	2672	.	+	.	g408.t1
+B73V4_ctg76	Tiberius	CDS	1655	1657	.	+	0	transcript_id "g408.t1"; gene_id "g408"; cds_type=initial;
+B73V4_ctg76	Tiberius	exon	1655	1657	.	+	0	transcript_id "g408.t1"; gene_id "g408"; cds_type=initial;
+B73V4_ctg76	Tiberius	intron	1658	1664	.	+	0	transcript_id "g408.t1"; gene_id "g408";
+B73V4_ctg76	Tiberius	CDS	1665	2672	.	+	0	transcript_id "g408.t1"; gene_id "g408"; cds_type=terminal;
+B73V4_ctg76	Tiberius	exon	1665	2672	.	+	0	transcript_id "g408.t1"; gene_id "g408"; cds_type=terminal;
+B73V4_ctg82	Tiberius	gene	73318	75358	.	+	.	g409
+B73V4_ctg82	Tiberius	transcript	73318	75358	.	+	.	g409.t1
+B73V4_ctg82	Tiberius	CDS	73318	75353	.	+	0	transcript_id "g409.t1"; gene_id "g409"; cds_type=initial;
+B73V4_ctg82	Tiberius	exon	73318	75353	.	+	0	transcript_id "g409.t1"; gene_id "g409"; cds_type=initial;
+B73V4_ctg82	Tiberius	intron	75354	75354	.	+	1	transcript_id "g409.t1"; gene_id "g409";
+B73V4_ctg82	Tiberius	CDS	75355	75358	.	+	1	transcript_id "g409.t1"; gene_id "g409"; cds_type=terminal;
+B73V4_ctg82	Tiberius	exon	75355	75358	.	+	1	transcript_id "g409.t1"; gene_id "g409"; cds_type=terminal;
+B73V4_ctg82	Tiberius	gene	78258	78551	.	+	.	g410
+B73V4_ctg82	Tiberius	transcript	78258	78551	.	+	.	g410.t1
+B73V4_ctg82	Tiberius	CDS	78258	78551	.	+	0	transcript_id "g410.t1"; gene_id "g410"; cds_type=single;
+B73V4_ctg82	Tiberius	exon	78258	78551	.	+	0	transcript_id "g410.t1"; gene_id "g410"; cds_type=single;
+B73V4_ctg82	Tiberius	gene	78855	79143	.	-	.	g411
+B73V4_ctg82	Tiberius	transcript	78855	79143	.	-	.	g411.t1
+B73V4_ctg82	Tiberius	CDS	78855	78857	.	-	0	transcript_id "g411.t1"; gene_id "g411"; cds_type=terminal;
+B73V4_ctg82	Tiberius	exon	78855	78857	.	-	0	transcript_id "g411.t1"; gene_id "g411"; cds_type=terminal;
+B73V4_ctg82	Tiberius	intron	78858	78858	.	-	0	transcript_id "g411.t1"; gene_id "g411";
+B73V4_ctg82	Tiberius	CDS	78859	79143	.	-	0	transcript_id "g411.t1"; gene_id "g411"; cds_type=initial;
+B73V4_ctg82	Tiberius	exon	78859	79143	.	-	0	transcript_id "g411.t1"; gene_id "g411"; cds_type=initial;
+B73V4_ctg87	Tiberius	gene	38269	39969	.	+	.	g412
+B73V4_ctg87	Tiberius	transcript	38269	39969	.	+	.	g412.t1
+B73V4_ctg87	Tiberius	CDS	38269	39969	.	+	0	transcript_id "g412.t1"; gene_id "g412"; cds_type=single;
+B73V4_ctg87	Tiberius	exon	38269	39969	.	+	0	transcript_id "g412.t1"; gene_id "g412"; cds_type=single;
+Mt	Tiberius	gene	562726	563958	.	+	.	g413
+Mt	Tiberius	transcript	562726	563958	.	+	.	g413.t1
+Mt	Tiberius	CDS	562726	563958	.	+	0	transcript_id "g413.t1"; gene_id "g413"; cds_type=single;
+Mt	Tiberius	exon	562726	563958	.	+	0	transcript_id "g413.t1"; gene_id "g413"; cds_type=single;
