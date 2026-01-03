@@ -75,8 +75,8 @@ def convert_file(input_path, output_path):
 if __name__ == "__main__":
     # --- CONFIGURATION ---
     # Adjust these paths to match your folders
-    OUTPUT_DIR = "/Users/filipr/Desktop/transgenic/tiberius_softmasked_gff3s"
-    INPUT_DIR = "/Users/filipr/Desktop/transgenic/gtfs/tiberius_softmasked_results"
+    OUTPUT_DIR = "/Users/filipr/Desktop/transgenic_comparison/tiberius_softmasked_gff3s"
+    INPUT_DIR = "/Users/filipr/Desktop/transgenic_comparison/gtfs/tiberius_softmasked_results"
 
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
