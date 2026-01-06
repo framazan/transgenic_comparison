@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # --- Configuration ---
-ROOT_DIR="/Users/filipr/Desktop/transgenic_comparison"
+ROOT_DIR="./"
 GENOME_DIR="$ROOT_DIR/genomes"
 STD_DIR="$ROOT_DIR/standardized_results"
 OUT_DIR="$ROOT_DIR/protein_results"

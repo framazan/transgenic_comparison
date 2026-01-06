@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # --- Configuration ---
-ROOT_DIR="/Users/filipr/Desktop/transgenic_comparison"
+ROOT_DIR="./"
 QUERY_DIR="$ROOT_DIR/standardized_results"   
 REF_DIR="$ROOT_DIR/reference_annotations"   
 OUT_DIR="$ROOT_DIR/gffcompare_results"
