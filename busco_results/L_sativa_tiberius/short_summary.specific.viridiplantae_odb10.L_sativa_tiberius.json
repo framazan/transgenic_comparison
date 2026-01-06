@@ -1,11 +1,11 @@
 {
     "parameters": {
-        "out_path": "/Users/filipr/Desktop/transgenic/busco_results",
+        "out_path": "/Users/filipr/Desktop/transgenic_comparison/busco_results",
         "cpu": "2",
         "force": "True",
         "restart": "False",
         "quiet": "True",
-        "download_path": "/Users/filipr/Desktop/transgenic/busco_downloads",
+        "download_path": "/Users/filipr/Desktop/transgenic_comparison/busco_downloads",
         "datasets_version": "odb10",
         "offline": "True",
         "download_base_url": "https://busco-data.ezlab.org/v5/data/",
@@ -20,11 +20,11 @@
         "tar": "False",
         "opt-out-run-stats": "False",
         "plot_percentages": "False",
-        "in": "/Users/filipr/Desktop/transgenic/protein_results/L_sativa_tiberius.prot.fasta",
+        "in": "/Users/filipr/Desktop/transgenic_comparison/protein_results/L_sativa_tiberius.prot.fasta",
         "out": "L_sativa_tiberius",
         "mode": "proteins",
-        "lineage_dataset": "/Users/filipr/Desktop/transgenic/busco_downloads/lineages/viridiplantae_odb10",
-        "main_out": "/Users/filipr/Desktop/transgenic/busco_results/L_sativa_tiberius",
+        "lineage_dataset": "/Users/filipr/Desktop/transgenic_comparison/busco_downloads/lineages/viridiplantae_odb10",
+        "main_out": "/Users/filipr/Desktop/transgenic_comparison/busco_results/L_sativa_tiberius",
         "lineage_results_dir": "run_viridiplantae_odb10",
         "domain": "eukaryota",
         "orthodb_version": "10.1"

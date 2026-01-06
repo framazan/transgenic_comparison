@@ -1,8 +1,8 @@
 # gffcompare v0.12.10 | Command line was:
-#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Gmax_880_Wm82.a6.v1.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/G_max_annevo /Users/filipr/Desktop/transgenic/standardized_results/G_max_annevo.gff3
+#gffcompare -r /Users/filipr/Desktop/transgenic_comparison/reference_annotations/Gmax_880_Wm82.a6.v1.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/G_max_annevo /Users/filipr/Desktop/transgenic_comparison/standardized_results/G_max_annevo.gff3
 #
 
-#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/G_max_annevo.gff3 
+#= Summary for dataset: /Users/filipr/Desktop/transgenic_comparison/standardized_results/G_max_annevo.gff3 
 #     Query mRNAs :   46024 in   46024 loci  (36963 multi-exon transcripts)
 #            (0 multi-transcript loci, ~1.0 transcripts per locus)
 # Reference mRNAs :   80186 in   48052 loci  (69796 multi-exon)
@@ -27,4 +27,4 @@ Intron chain level:    27.7     |    52.2    |
             Novel loci:    3896/46024	(  8.5%)
 
  Total union super-loci across all input datasets: 45529 
-46024 out of 46024 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/G_max_annevo.annotated.gtf (0 discarded as redundant)
+46024 out of 46024 consensus transcripts written in /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/G_max_annevo.annotated.gtf (0 discarded as redundant)

@@ -1,8 +1,8 @@
 # gffcompare v0.12.10 | Command line was:
-#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/BrapaO_302V_711_v1.1.gene.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/B_rapa_tiberius_softmasked /Users/filipr/Desktop/transgenic/standardized_results/B_rapa_tiberius_softmasked.gff3
+#gffcompare -r /Users/filipr/Desktop/transgenic_comparison/reference_annotations/BrapaO_302V_711_v1.1.gene.gff3 -o /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/B_rapa_tiberius_softmasked /Users/filipr/Desktop/transgenic_comparison/standardized_results/B_rapa_tiberius_softmasked.gff3
 #
 
-#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/B_rapa_tiberius_softmasked.gff3 
+#= Summary for dataset: /Users/filipr/Desktop/transgenic_comparison/standardized_results/B_rapa_tiberius_softmasked.gff3 
 #     Query mRNAs :   37808 in   37807 loci  (29308 multi-exon transcripts)
 #            (1 multi-transcript loci, ~1.0 transcripts per locus)
 # Reference mRNAs :   57118 in   38512 loci  (48252 multi-exon)
@@ -27,4 +27,4 @@ Intron chain level:    44.8     |    73.8    |
             Novel loci:    2457/37807	(  6.5%)
 
  Total union super-loci across all input datasets: 37261 
-37808 out of 37808 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/B_rapa_tiberius_softmasked.annotated.gtf (0 discarded as redundant)
+37808 out of 37808 consensus transcripts written in /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/B_rapa_tiberius_softmasked.annotated.gtf (0 discarded as redundant)

@@ -4,7 +4,7 @@ import csv
 import glob
 
 # --- Configuration ---
-ROOT_DIR = "/Users/filipr/Desktop/transgenic"
+ROOT_DIR = "./"
 BUSCO_RESULTS_DIR = os.path.join(ROOT_DIR, "busco_results")
 OUTPUT_CSV = os.path.join(ROOT_DIR, "busco_summary_final.csv")
 

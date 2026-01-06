@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # --- Configuration ---
-export ROOT_DIR="/Users/filipr/Desktop_comparison"
+export ROOT_DIR="./"
 export INPUT_DIR="$ROOT_DIR/protein_results"
 export OUTPUT_DIR="$ROOT_DIR/busco_results"
 export LINEAGE="viridiplantae_odb10"

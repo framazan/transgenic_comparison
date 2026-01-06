@@ -1,8 +1,8 @@
 # gffcompare v0.12.10 | Command line was:
-#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Bdistachyon_314_v3.1.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/B_distachyon_tiberius /Users/filipr/Desktop/transgenic/standardized_results/B_distachyon_tiberius.gff3
+#gffcompare -r /Users/filipr/Desktop/transgenic_comparison/reference_annotations/Bdistachyon_314_v3.1.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/B_distachyon_tiberius /Users/filipr/Desktop/transgenic_comparison/standardized_results/B_distachyon_tiberius.gff3
 #
 
-#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/B_distachyon_tiberius.gff3 
+#= Summary for dataset: /Users/filipr/Desktop/transgenic_comparison/standardized_results/B_distachyon_tiberius.gff3 
 #     Query mRNAs :   26725 in   26725 loci  (19535 multi-exon transcripts)
 #            (0 multi-transcript loci, ~1.0 transcripts per locus)
 # Reference mRNAs :   52962 in   34012 loci  (46428 multi-exon)
@@ -27,4 +27,4 @@ Intron chain level:    24.3     |    57.7    |
             Novel loci:    1282/26725	(  4.8%)
 
  Total union super-loci across all input datasets: 25075 
-26725 out of 26725 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/B_distachyon_tiberius.annotated.gtf (0 discarded as redundant)
+26725 out of 26725 consensus transcripts written in /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/B_distachyon_tiberius.annotated.gtf (0 discarded as redundant)

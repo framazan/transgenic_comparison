@@ -1,6 +1,6 @@
 # BUSCO version is: 6.0.0 
 # The lineage dataset is: viridiplantae_odb10 (Creation date: 2024-01-08, number of genomes: 57, number of BUSCOs: 425)
-# Summarized benchmarking in BUSCO notation for file /Users/filipr/Desktop/transgenic/protein_results/S_lycopersicum_tiberius.prot.fasta
+# Summarized benchmarking in BUSCO notation for file /Users/filipr/Desktop/transgenic_comparison/protein_results/S_lycopersicum_tiberius.prot.fasta
 # BUSCO was run in mode: proteins
 
 	***** Results: *****

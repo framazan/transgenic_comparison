@@ -1,8 +1,8 @@
 # gffcompare v0.12.10 | Command line was:
-#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Athaliana_167_TAIR10.gene.clean.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/A_thaliana_helixer /Users/filipr/Desktop/transgenic/standardized_results/A_thaliana_helixer.gff3
+#gffcompare -r /Users/filipr/Desktop/transgenic_comparison/reference_annotations/Athaliana_167_TAIR10.gene.clean.gff3 -o /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/A_thaliana_helixer /Users/filipr/Desktop/transgenic_comparison/standardized_results/A_thaliana_helixer.gff3
 #
 
-#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/A_thaliana_helixer.gff3 
+#= Summary for dataset: /Users/filipr/Desktop/transgenic_comparison/standardized_results/A_thaliana_helixer.gff3 
 #     Query mRNAs :   27039 in   27039 loci  (22111 multi-exon transcripts)
 #            (0 multi-transcript loci, ~1.0 transcripts per locus)
 # Reference mRNAs :   35328 in   27219 loci  (29032 multi-exon)
@@ -27,4 +27,4 @@ Intron chain level:    48.4     |    63.6    |
             Novel loci:    1514/27039	(  5.6%)
 
  Total union super-loci across all input datasets: 26199 
-27039 out of 27039 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/A_thaliana_helixer.annotated.gtf (0 discarded as redundant)
+27039 out of 27039 consensus transcripts written in /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/A_thaliana_helixer.annotated.gtf (0 discarded as redundant)

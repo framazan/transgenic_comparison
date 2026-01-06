@@ -1,8 +1,8 @@
 # gffcompare v0.12.10 | Command line was:
-#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Zmays_493_RefGen_V4.gene_exons.exon.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/Z_mays_tiberius_softmasked /Users/filipr/Desktop/transgenic/standardized_results/Z_mays_tiberius_softmasked.gff3
+#gffcompare -r /Users/filipr/Desktop/transgenic_comparison/reference_annotations/Zmays_493_RefGen_V4.gene_exons.exon.gff3 -o /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/Z_mays_tiberius_softmasked /Users/filipr/Desktop/transgenic_comparison/standardized_results/Z_mays_tiberius_softmasked.gff3
 #
 
-#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/Z_mays_tiberius_softmasked.gff3 
+#= Summary for dataset: /Users/filipr/Desktop/transgenic_comparison/standardized_results/Z_mays_tiberius_softmasked.gff3 
 #     Query mRNAs :     413 in     413 loci  (92 multi-exon transcripts)
 #            (0 multi-transcript loci, ~1.0 transcripts per locus)
 # Reference mRNAs :  128286 in   39371 loci  (120652 multi-exon)
@@ -27,4 +27,4 @@ Intron chain level:     0.0     |     2.2    |
             Novel loci:     402/413	( 97.3%)
 
  Total union super-loci across all input datasets: 411 
-413 out of 413 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/Z_mays_tiberius_softmasked.annotated.gtf (0 discarded as redundant)
+413 out of 413 consensus transcripts written in /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/Z_mays_tiberius_softmasked.annotated.gtf (0 discarded as redundant)

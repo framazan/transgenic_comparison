@@ -1,8 +1,8 @@
 # gffcompare v0.12.10 | Command line was:
-#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Gmax_880_Wm82.a6.v1.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/G_max_tiberius_softmasked /Users/filipr/Desktop/transgenic/standardized_results/G_max_tiberius_softmasked.gff3
+#gffcompare -r /Users/filipr/Desktop/transgenic_comparison/reference_annotations/Gmax_880_Wm82.a6.v1.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/G_max_tiberius_softmasked /Users/filipr/Desktop/transgenic_comparison/standardized_results/G_max_tiberius_softmasked.gff3
 #
 
-#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/G_max_tiberius_softmasked.gff3 
+#= Summary for dataset: /Users/filipr/Desktop/transgenic_comparison/standardized_results/G_max_tiberius_softmasked.gff3 
 #     Query mRNAs :   45390 in   45390 loci  (35172 multi-exon transcripts)
 #            (0 multi-transcript loci, ~1.0 transcripts per locus)
 # Reference mRNAs :   80186 in   48052 loci  (69796 multi-exon)
@@ -27,4 +27,4 @@ Intron chain level:    37.0     |    73.4    |
             Novel loci:    2067/45390	(  4.6%)
 
  Total union super-loci across all input datasets: 44786 
-45390 out of 45390 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/G_max_tiberius_softmasked.annotated.gtf (0 discarded as redundant)
+45390 out of 45390 consensus transcripts written in /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/G_max_tiberius_softmasked.annotated.gtf (0 discarded as redundant)

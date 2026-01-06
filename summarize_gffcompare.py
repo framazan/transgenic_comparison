@@ -3,7 +3,7 @@ import csv
 import glob
 
 # --- Configuration ---
-ROOT_DIR = "/Users/filipr/Desktop/transgenic"
+ROOT_DIR = "./"
 STATS_DIR = os.path.join(ROOT_DIR, "gffcompare_results")
 OUTPUT_CSV = os.path.join(ROOT_DIR, "gffcompare_summary.csv")
 

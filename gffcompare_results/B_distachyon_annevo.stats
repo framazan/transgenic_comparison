@@ -1,8 +1,8 @@
 # gffcompare v0.12.10 | Command line was:
-#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Bdistachyon_314_v3.1.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/B_distachyon_annevo /Users/filipr/Desktop/transgenic/standardized_results/B_distachyon_annevo.gff3
+#gffcompare -r /Users/filipr/Desktop/transgenic_comparison/reference_annotations/Bdistachyon_314_v3.1.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/B_distachyon_annevo /Users/filipr/Desktop/transgenic_comparison/standardized_results/B_distachyon_annevo.gff3
 #
 
-#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/B_distachyon_annevo.gff3 
+#= Summary for dataset: /Users/filipr/Desktop/transgenic_comparison/standardized_results/B_distachyon_annevo.gff3 
 #     Query mRNAs :   24527 in   24527 loci  (18765 multi-exon transcripts)
 #            (0 multi-transcript loci, ~1.0 transcripts per locus)
 # Reference mRNAs :   52962 in   34012 loci  (46428 multi-exon)
@@ -27,4 +27,4 @@ Intron chain level:    20.8     |    51.5    |
             Novel loci:     622/24527	(  2.5%)
 
  Total union super-loci across all input datasets: 24248 
-24527 out of 24527 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/B_distachyon_annevo.annotated.gtf (0 discarded as redundant)
+24527 out of 24527 consensus transcripts written in /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/B_distachyon_annevo.annotated.gtf (0 discarded as redundant)

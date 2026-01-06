@@ -1,8 +1,8 @@
 # gffcompare v0.12.10 | Command line was:
-#gffcompare -r /Users/filipr/Desktop/transgenic/reference_annotations/Vvinifera_PN40024_5.1_on_T2T_ref.exon.gff3 -o /Users/filipr/Desktop/transgenic/gffcompare_results/V_vinifera_annevo /Users/filipr/Desktop/transgenic/standardized_results/V_vinifera_annevo.gff3
+#gffcompare -r /Users/filipr/Desktop/transgenic_comparison/reference_annotations/Vvinifera_PN40024_5.1_on_T2T_ref.exon.gff3 -o /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/V_vinifera_annevo /Users/filipr/Desktop/transgenic_comparison/standardized_results/V_vinifera_annevo.gff3
 #
 
-#= Summary for dataset: /Users/filipr/Desktop/transgenic/standardized_results/V_vinifera_annevo.gff3 
+#= Summary for dataset: /Users/filipr/Desktop/transgenic_comparison/standardized_results/V_vinifera_annevo.gff3 
 #     Query mRNAs :   25151 in   25151 loci  (19475 multi-exon transcripts)
 #            (0 multi-transcript loci, ~1.0 transcripts per locus)
 # Reference mRNAs :   56770 in   49165 loci  (33285 multi-exon)
@@ -27,4 +27,4 @@ Intron chain level:    28.8     |    49.2    |
             Novel loci:    1103/25151	(  4.4%)
 
  Total union super-loci across all input datasets: 24731 
-25151 out of 25151 consensus transcripts written in /Users/filipr/Desktop/transgenic/gffcompare_results/V_vinifera_annevo.annotated.gtf (0 discarded as redundant)
+25151 out of 25151 consensus transcripts written in /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/V_vinifera_annevo.annotated.gtf (0 discarded as redundant)
