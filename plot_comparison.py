@@ -1,14 +1,8 @@
-#!/usr/bin/env python3
 """
-Generate comparison plots for gene annotation tools across plant genomes.
-
 Produces two figures:
   1. gffcompare_comparison.png — Precision vs Recall scatter plots
      at Exon level (top row) and Gene/Locus level (bottom row).
   2. busco_comparison.png — BUSCO completeness stacked bar chart.
-
-Usage:
-    python plot_comparison.py
 """
 
 import os
@@ -20,14 +14,10 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
 
 
-# ── User selection ─────────────────────────────────────────────────────────--
-# List the genome keys (e.g. 'A_thaliana', 'B_distachyon') to include in the plots.
-# Leave empty (INCLUDE_GENOMES = []) to include all genomes found.
 INCLUDE_GENOMES = [
     'A_thaliana', 'O_sativa', 'Z_mays', 'P_trichocarpa'
 ]
 
-# ── Configuration ────────────────────────────────────────────────────────────
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 GFFCOMPARE_DIR = os.path.join(BASE_DIR, "gffcompare_results")
@@ -35,7 +25,6 @@ BUSCO_DIR = os.path.join(BASE_DIR, "busco_results")
 GFF_OUTPUT = os.path.join(BASE_DIR, "gffcompare_comparison.png")
 BUSCO_OUTPUT = os.path.join(BASE_DIR, "busco_comparison.png")
 
-# Tool visual styles (order matters for legend)
 TOOL_STYLES = {
     "annevo": {"color": "#2ca02c", "marker": "o", "label": "Annevo"},
     "helixer": {"color": "#d62728", "marker": "^", "label": "Helixer"},
@@ -48,21 +37,15 @@ TOOL_STYLES = {
 }
 TOOLS_ORDER = ["annevo", "helixer", "tiberius", "tiberius_softmasked"]
 
-# gffcompare levels to plot (stats‑file key, display label)
 GFF_LEVELS = [
     ("Exon level", "Exon level"),
     ("Locus level", "Gene level"),
 ]
 
-# ── Parsing helpers ──────────────────────────────────────────────────────────
-
-
 def parse_name(name: str):
-    """Split 'A_thaliana_annevo' → ('A_thaliana', 'annevo').
-
-    The tool suffix is matched longest‑first so that
-    'tiberius_softmasked' is not mistaken for 'tiberius'.
-    """
+    # Split 'A_thaliana_annevo' → ('A_thaliana', 'annevo').
+    # The tool suffix is matched longest‑first so that
+    # 'tiberius_softmasked' is not mistaken for 'tiberius'.
     for tool in ["tiberius_softmasked", "tiberius", "helixer", "annevo"]:
         suffix = "_" + tool
         if name.endswith(suffix):
@@ -71,7 +54,7 @@ def parse_name(name: str):
 
 
 def parse_gffcompare_stats(filepath: str) -> dict:
-    """Return {level: {sensitivity, precision}} from a .stats file."""
+    # Return {level: {sensitivity, precision}} from a .stats file.
     results = {}
     with open(filepath) as fh:
         for line in fh:
@@ -95,7 +78,7 @@ def parse_gffcompare_stats(filepath: str) -> dict:
 
 
 def parse_busco_json(filepath: str) -> dict:
-    """Return BUSCO completeness percentages from a summary JSON."""
+    # Return BUSCO completeness percentages from a summary JSON.
     with open(filepath) as fh:
         data = json.load(fh)
     r = data.get("results", {})
@@ -109,12 +92,11 @@ def parse_busco_json(filepath: str) -> dict:
 
 
 def format_species(key: str) -> str:
-    """'A_thaliana' → 'A. thaliana'"""
+    # 'A_thaliana' → 'A. thaliana'
     parts = key.split("_")
     return f"{parts[0]}. {parts[1]}" if len(parts) == 2 else key.replace("_", " ")
 
 
-# ── Data collection ─────────────────────────────────────────────────────────
 
 
 def collect_data():
@@ -149,11 +131,10 @@ def collect_data():
     return gff_data, busco_data, filtered
 
 
-# ── Plotting ─────────────────────────────────────────────────────────────────
 
 
 def plot_gffcompare(gff_data, species_list):
-    """Scatter plots: Precision vs Recall at two gffcompare levels."""
+    # Scatter plots: Precision vs Recall at two gffcompare levels.
     n_sp = len(species_list)
     n_rows = len(GFF_LEVELS)
     col_w, row_h = 2.6, 2.8
@@ -218,7 +199,6 @@ def plot_gffcompare(gff_data, species_list):
             ha="center",
         )
 
-    # Legend — software names only
     handles = [
         plt.Line2D(
             [],
@@ -250,7 +230,7 @@ def plot_gffcompare(gff_data, species_list):
 
 
 def plot_busco(busco_data, species_list):
-    """Stacked bar chart of BUSCO completeness per tool and genome."""
+    # Stacked bar chart of BUSCO completeness per tool and genome.
     n_sp = len(species_list)
     col_w = 2.6
 
@@ -301,7 +281,6 @@ def plot_busco(busco_data, species_list):
         if ci == 0:
             ax.set_ylabel("BUSCO [%]", fontsize=9)
 
-    # Legend — tool colours + hatching key
     handles = [
         plt.Line2D(
             [],
@@ -344,7 +323,6 @@ def plot_busco(busco_data, species_list):
     plt.close(fig)
 
 
-# ── Main ─────────────────────────────────────────────────────────────────────
 
 
 def main():
