@@ -10,3 +10,5 @@ genomes/*.fa
 genomes/*.fai
 genomes/softmasked/*.fa
 genomes/softmasked/*.fai
+*.png
+*.db
