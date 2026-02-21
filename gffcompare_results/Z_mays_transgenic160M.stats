@@ -1,0 +1,30 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -r .//reference_annotations/Zmays_493_RefGen_V4.gene_exons.exon.gff3 -o .//gffcompare_results/Z_mays_transgenic160M .//standardized_results/Z_mays_transgenic160M.gff3
+#
+
+#= Summary for dataset: .//standardized_results/Z_mays_transgenic160M.gff3 
+#     Query mRNAs :   42557 in   38332 loci  (33322 multi-exon transcripts)
+#            (2034 multi-transcript loci, ~1.1 transcripts per locus)
+# Reference mRNAs :  128286 in   39371 loci  (120652 multi-exon)
+# Super-loci w/ reference transcripts:    36708
+#-----------------| Sensitivity | Precision  |
+        Base level:    66.0     |    76.5    |
+        Exon level:    29.1     |    48.0    |
+      Intron level:    33.6     |    48.7    |
+Intron chain level:     5.4     |    19.4    |
+  Transcript level:     9.6     |    29.0    |
+       Locus level:    31.3     |    32.1    |
+
+     Matching intron chains:    6470
+       Matching transcripts:   12327
+              Matching loci:   12314
+
+          Missed exons:   70840/397083	( 17.8%)
+           Novel exons:   30283/208087	( 14.6%)
+        Missed introns:   48796/244148	( 20.0%)
+         Novel introns:   14899/168473	(  8.8%)
+           Missed loci:    2318/39371	(  5.9%)
+            Novel loci:    1567/38332	(  4.1%)
+
+ Total union super-loci across all input datasets: 38275 
+42557 out of 42557 consensus transcripts written in .//gffcompare_results/Z_mays_transgenic160M.annotated.gtf (0 discarded as redundant)

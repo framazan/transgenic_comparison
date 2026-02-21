@@ -1,30 +1,30 @@
 # gffcompare v0.12.10 | Command line was:
-#gffcompare -r /Users/filipr/Desktop/transgenic_comparison/reference_annotations/Vvinifera_PN40024_5.1_on_T2T_ref.exon.gff3 -o /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/V_vinifera_annevo /Users/filipr/Desktop/transgenic_comparison/standardized_results/V_vinifera_annevo.gff3
+#gffcompare -r .//reference_annotations/Vvinifera_PN40024_5.1_on_T2T_ref.exon.gff3 -o .//gffcompare_results/V_vinifera_annevo .//standardized_results/V_vinifera_annevo.gff3
 #
 
-#= Summary for dataset: /Users/filipr/Desktop/transgenic_comparison/standardized_results/V_vinifera_annevo.gff3 
-#     Query mRNAs :   25151 in   25151 loci  (19475 multi-exon transcripts)
+#= Summary for dataset: .//standardized_results/V_vinifera_annevo.gff3 
+#     Query mRNAs :   25119 in   25119 loci  (19443 multi-exon transcripts)
 #            (0 multi-transcript loci, ~1.0 transcripts per locus)
 # Reference mRNAs :   56770 in   49165 loci  (33285 multi-exon)
-# Super-loci w/ reference transcripts:    23628
+# Super-loci w/ reference transcripts:    23597
 #-----------------| Sensitivity | Precision  |
-        Base level:    39.6     |    95.0    |
-        Exon level:    47.7     |    67.7    |
-      Intron level:    69.0     |    84.6    |
-Intron chain level:    28.8     |    49.2    |
+        Base level:    39.4     |    95.0    |
+        Exon level:    47.2     |    67.5    |
+      Intron level:    68.3     |    84.6    |
+Intron chain level:    28.8     |    49.3    |
   Transcript level:    19.7     |    44.5    |
-       Locus level:    22.8     |    44.5    |
+       Locus level:    22.7     |    44.5    |
 
-     Matching intron chains:    9585
-       Matching transcripts:   11187
-              Matching loci:   11186
+     Matching intron chains:    9582
+       Matching transcripts:   11184
+              Matching loci:   11183
 
-          Missed exons:   60124/196601	( 30.6%)
-           Novel exons:    8631/137990	(  6.3%)
-        Missed introns:   28259/138359	( 20.4%)
-         Novel introns:    4329/112839	(  3.8%)
-           Missed loci:   25234/49165	( 51.3%)
-            Novel loci:    1103/25151	(  4.4%)
+          Missed exons:   61215/196601	( 31.1%)
+           Novel exons:    8583/136854	(  6.3%)
+        Missed introns:   29355/138359	( 21.2%)
+         Novel introns:    4320/111735	(  3.9%)
+           Missed loci:   25269/49165	( 51.4%)
+            Novel loci:    1103/25119	(  4.4%)
 
- Total union super-loci across all input datasets: 24731 
-25151 out of 25151 consensus transcripts written in /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/V_vinifera_annevo.annotated.gtf (0 discarded as redundant)
+ Total union super-loci across all input datasets: 24700 
+25119 out of 25119 consensus transcripts written in .//gffcompare_results/V_vinifera_annevo.annotated.gtf (0 discarded as redundant)

@@ -1,8 +1,8 @@
 # gffcompare v0.12.10 | Command line was:
-#gffcompare -r /Users/filipr/Desktop/transgenic_comparison/reference_annotations/Ptrichocarpa_533_v4.1.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/P_trichocarpa_annevo /Users/filipr/Desktop/transgenic_comparison/standardized_results/P_trichocarpa_annevo.gff3
+#gffcompare -r .//reference_annotations/Ptrichocarpa_533_v4.1.gene_exons.clean.gff3 -o .//gffcompare_results/P_trichocarpa_annevo .//standardized_results/P_trichocarpa_annevo.gff3
 #
 
-#= Summary for dataset: /Users/filipr/Desktop/transgenic_comparison/standardized_results/P_trichocarpa_annevo.gff3 
+#= Summary for dataset: .//standardized_results/P_trichocarpa_annevo.gff3 
 #     Query mRNAs :   31136 in   31136 loci  (24679 multi-exon transcripts)
 #            (0 multi-transcript loci, ~1.0 transcripts per locus)
 # Reference mRNAs :   52343 in   34289 loci  (44285 multi-exon)
@@ -27,4 +27,4 @@ Intron chain level:    31.0     |    55.7    |
             Novel loci:    1093/31136	(  3.5%)
 
  Total union super-loci across all input datasets: 30795 
-31136 out of 31136 consensus transcripts written in /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/P_trichocarpa_annevo.annotated.gtf (0 discarded as redundant)
+31136 out of 31136 consensus transcripts written in .//gffcompare_results/P_trichocarpa_annevo.annotated.gtf (0 discarded as redundant)

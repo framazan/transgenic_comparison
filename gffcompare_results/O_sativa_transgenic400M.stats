@@ -1,0 +1,30 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -r .//reference_annotations/Osativa_323_v7.0.gene_exons.exon.gff3 -o .//gffcompare_results/O_sativa_transgenic400M .//standardized_results/O_sativa_transgenic400M.gff3
+#
+
+#= Summary for dataset: .//standardized_results/O_sativa_transgenic400M.gff3 
+#     Query mRNAs :   42783 in   41771 loci  (30974 multi-exon transcripts)
+#            (674 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :   52367 in   42097 loci  (42051 multi-exon)
+# Super-loci w/ reference transcripts:    38544
+#-----------------| Sensitivity | Precision  |
+        Base level:    83.0     |    86.4    |
+        Exon level:    62.6     |    69.9    |
+      Intron level:    66.2     |    73.8    |
+Intron chain level:    28.0     |    38.0    |
+  Transcript level:    37.0     |    45.3    |
+       Locus level:    46.0     |    46.3    |
+
+     Matching intron chains:   11776
+       Matching transcripts:   19386
+              Matching loci:   19368
+
+          Missed exons:   23400/202034	( 11.6%)
+           Novel exons:   14352/178762	(  8.0%)
+        Missed introns:   18904/151843	( 12.4%)
+         Novel introns:    8205/136213	(  6.0%)
+           Missed loci:    3380/42097	(  8.0%)
+            Novel loci:    3200/41771	(  7.7%)
+
+ Total union super-loci across all input datasets: 41744 
+42783 out of 42783 consensus transcripts written in .//gffcompare_results/O_sativa_transgenic400M.annotated.gtf (0 discarded as redundant)

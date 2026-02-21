@@ -1,8 +1,8 @@
 # gffcompare v0.12.10 | Command line was:
-#gffcompare -r /Users/filipr/Desktop/transgenic_comparison/reference_annotations/Sitalica_312_v2.2.gene_exons.clean.gff3 -o /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/S_italica_annevo /Users/filipr/Desktop/transgenic_comparison/standardized_results/S_italica_annevo.gff3
+#gffcompare -r .//reference_annotations/Sitalica_312_v2.2.gene_exons.clean.gff3 -o .//gffcompare_results/S_italica_annevo .//standardized_results/S_italica_annevo.gff3
 #
 
-#= Summary for dataset: /Users/filipr/Desktop/transgenic_comparison/standardized_results/S_italica_annevo.gff3 
+#= Summary for dataset: .//standardized_results/S_italica_annevo.gff3 
 #     Query mRNAs :   27232 in   27232 loci  (20880 multi-exon transcripts)
 #            (0 multi-transcript loci, ~1.0 transcripts per locus)
 # Reference mRNAs :   42996 in   34413 loci  (36859 multi-exon)
@@ -27,4 +27,4 @@ Intron chain level:    28.9     |    51.0    |
             Novel loci:    1126/27232	(  4.1%)
 
  Total union super-loci across all input datasets: 27006 
-27232 out of 27232 consensus transcripts written in /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/S_italica_annevo.annotated.gtf (0 discarded as redundant)
+27232 out of 27232 consensus transcripts written in .//gffcompare_results/S_italica_annevo.annotated.gtf (0 discarded as redundant)

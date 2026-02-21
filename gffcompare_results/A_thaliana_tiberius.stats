@@ -1,8 +1,8 @@
 # gffcompare v0.12.10 | Command line was:
-#gffcompare -r /Users/filipr/Desktop/transgenic_comparison/reference_annotations/Athaliana_167_TAIR10.gene.clean.gff3 -o /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/A_thaliana_tiberius /Users/filipr/Desktop/transgenic_comparison/standardized_results/A_thaliana_tiberius.gff3
+#gffcompare -r .//reference_annotations/Athaliana_167_TAIR10.gene.clean.gff3 -o .//gffcompare_results/A_thaliana_tiberius .//standardized_results/A_thaliana_tiberius.gff3
 #
 
-#= Summary for dataset: /Users/filipr/Desktop/transgenic_comparison/standardized_results/A_thaliana_tiberius.gff3 
+#= Summary for dataset: .//standardized_results/A_thaliana_tiberius.gff3 
 #     Query mRNAs :   24357 in   24357 loci  (19114 multi-exon transcripts)
 #            (0 multi-transcript loci, ~1.0 transcripts per locus)
 # Reference mRNAs :   35328 in   27219 loci  (29032 multi-exon)
@@ -27,4 +27,4 @@ Intron chain level:    45.5     |    69.1    |
             Novel loci:     883/24357	(  3.6%)
 
  Total union super-loci across all input datasets: 24025 
-24357 out of 24357 consensus transcripts written in /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/A_thaliana_tiberius.annotated.gtf (0 discarded as redundant)
+24357 out of 24357 consensus transcripts written in .//gffcompare_results/A_thaliana_tiberius.annotated.gtf (0 discarded as redundant)

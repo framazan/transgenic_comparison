@@ -1,0 +1,30 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -r .//reference_annotations/Athaliana_167_TAIR10.gene.clean.gff3 -o .//gffcompare_results/A_thaliana_transgenic160M .//standardized_results/A_thaliana_transgenic160M.gff3
+#
+
+#= Summary for dataset: .//standardized_results/A_thaliana_transgenic160M.gff3 
+#     Query mRNAs :   27739 in   26996 loci  (20754 multi-exon transcripts)
+#            (467 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :   35328 in   27219 loci  (29032 multi-exon)
+# Super-loci w/ reference transcripts:    26170
+#-----------------| Sensitivity | Precision  |
+        Base level:    91.3     |    93.7    |
+        Exon level:    67.2     |    74.6    |
+      Intron level:    70.2     |    77.6    |
+Intron chain level:    28.2     |    39.5    |
+  Transcript level:    36.5     |    46.5    |
+       Locus level:    47.3     |    47.7    |
+
+     Matching intron chains:    8190
+       Matching transcripts:   12892
+              Matching loci:   12880
+
+          Missed exons:    7306/159636	(  4.6%)
+           Novel exons:    2530/140341	(  1.8%)
+        Missed introns:    8594/124567	(  6.9%)
+         Novel introns:    2177/112748	(  1.9%)
+           Missed loci:     830/27219	(  3.0%)
+            Novel loci:     735/26996	(  2.7%)
+
+ Total union super-loci across all input datasets: 26905 
+27739 out of 27739 consensus transcripts written in .//gffcompare_results/A_thaliana_transgenic160M.annotated.gtf (0 discarded as redundant)

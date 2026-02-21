@@ -1,0 +1,30 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -r .//reference_annotations/Bdistachyon_314_v3.1.gene_exons.clean.gff3 -o .//gffcompare_results/B_distachyon_transgenic400M .//standardized_results/B_distachyon_transgenic400M.gff3
+#
+
+#= Summary for dataset: .//standardized_results/B_distachyon_transgenic400M.gff3 
+#     Query mRNAs :   34922 in   32488 loci  (26501 multi-exon transcripts)
+#            (1526 multi-transcript loci, ~1.1 transcripts per locus)
+# Reference mRNAs :   52962 in   34012 loci  (46428 multi-exon)
+# Super-loci w/ reference transcripts:    29888
+#-----------------| Sensitivity | Precision  |
+        Base level:    77.7     |    80.5    |
+        Exon level:    57.7     |    67.2    |
+      Intron level:    63.8     |    74.0    |
+Intron chain level:    22.0     |    38.5    |
+  Transcript level:    26.4     |    40.0    |
+       Locus level:    41.0     |    42.4    |
+
+     Matching intron chains:   10191
+       Matching transcripts:   13978
+              Matching loci:   13961
+
+          Missed exons:   24436/188995	( 12.9%)
+           Novel exons:   12845/158968	(  8.1%)
+        Missed introns:   20320/144025	( 14.1%)
+         Novel introns:    8243/124039	(  6.6%)
+           Missed loci:    3067/34012	(  9.0%)
+            Novel loci:    2354/32488	(  7.2%)
+
+ Total union super-loci across all input datasets: 32242 
+34922 out of 34922 consensus transcripts written in .//gffcompare_results/B_distachyon_transgenic400M.annotated.gtf (0 discarded as redundant)

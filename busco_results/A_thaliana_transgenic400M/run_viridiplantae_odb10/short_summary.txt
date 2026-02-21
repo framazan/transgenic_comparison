@@ -1,0 +1,17 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: viridiplantae_odb10 (Creation date: 2024-01-08, number of genomes: 57, number of BUSCOs: 425)
+# Summarized benchmarking in BUSCO notation for file /Users/filipr/Desktop/transgenic_comparison/protein_results/A_thaliana_transgenic400M.prot.fasta
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:74.8%[S:72.7%,D:2.1%],F:20.2%,M:4.9%,n:425	   
+	318	Complete BUSCOs (C)			   
+	309	Complete and single-copy BUSCOs (S)	   
+	9	Complete and duplicated BUSCOs (D)	   
+	86	Fragmented BUSCOs (F)			   
+	21	Missing BUSCOs (M)			   
+	425	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4

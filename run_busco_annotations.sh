@@ -6,6 +6,26 @@ export ROOT_DIR="./"
 export INPUT_DIR="$ROOT_DIR/protein_results"
 export OUTPUT_DIR="$ROOT_DIR/busco_results"
 export LINEAGE="viridiplantae_odb10"
+TRANSGENIC_ONLY=false
+
+# --- Parse command line arguments ---
+while [[ $# -gt 0 ]]; do
+  case $1 in
+    --transgenic-only)
+      TRANSGENIC_ONLY=true
+      shift
+      ;;
+    -h|--help)
+      echo "Usage: $0 [--transgenic-only]"
+      echo "  --transgenic-only  Only process transgenic protein files"
+      exit 0
+      ;;
+    *)
+      echo "Unknown option: $1"
+      exit 1
+      ;;
+  esac
+done
 
 # --- 1. Choose your Weapon (Conda vs Docker) ---
 # Set to "conda" if you fixed the install. Set to "docker" if Conda is still broken.
@@ -90,8 +110,16 @@ export LINEAGE
 # --- 4. Execution ---
 setup_busco
 
-echo "[INFO] Found $(find "$INPUT_DIR" -name "*.prot.fasta" | wc -l) protein files."
+# Build find command based on flags
+if [[ "$TRANSGENIC_ONLY" == true ]]; then
+    FIND_PATTERN="*transgenic*.prot.fasta"
+    echo "[INFO] Transgenic-only mode enabled"
+else
+    FIND_PATTERN="*.prot.fasta"
+fi
+
+echo "[INFO] Found $(find "$INPUT_DIR" -name "$FIND_PATTERN" | wc -l) protein files."
 echo "[INFO] Starting Parallel BUSCO (4 jobs at once)..."
 
 # Use GNU Parallel to run 4 jobs, 2 CPUs each = 8 cores total usage
-find "$INPUT_DIR" -name "*.prot.fasta" | parallel -j 4 --eta run_sample {}
+find "$INPUT_DIR" -name "$FIND_PATTERN" | parallel -j 4 --eta run_sample {}

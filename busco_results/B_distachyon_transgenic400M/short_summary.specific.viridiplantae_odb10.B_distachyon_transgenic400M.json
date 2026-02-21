@@ -1,0 +1,64 @@
+{
+    "parameters": {
+        "out_path": "/Users/filipr/Desktop/transgenic_comparison/busco_results",
+        "cpu": "2",
+        "force": "True",
+        "restart": "False",
+        "quiet": "True",
+        "download_path": "/Users/filipr/Desktop/transgenic_comparison/busco_downloads",
+        "datasets_version": "odb10",
+        "offline": "True",
+        "download_base_url": "https://busco-data.ezlab.org/v5/data/",
+        "auto-lineage": "False",
+        "auto-lineage-prok": "False",
+        "auto-lineage-euk": "False",
+        "use_augustus": "False",
+        "use_miniprot": "False",
+        "use_metaeuk": "False",
+        "skip_bbtools": "False",
+        "batch_mode": "False",
+        "tar": "False",
+        "opt-out-run-stats": "False",
+        "plot_percentages": "False",
+        "in": "/Users/filipr/Desktop/transgenic_comparison/protein_results/B_distachyon_transgenic400M.prot.fasta",
+        "out": "B_distachyon_transgenic400M",
+        "mode": "proteins",
+        "lineage_dataset": "/Users/filipr/Desktop/transgenic_comparison/busco_downloads/lineages/viridiplantae_odb10",
+        "main_out": "/Users/filipr/Desktop/transgenic_comparison/busco_results/B_distachyon_transgenic400M",
+        "lineage_results_dir": "run_viridiplantae_odb10",
+        "domain": "eukaryota",
+        "orthodb_version": "10.1"
+    },
+    "lineage_dataset": {
+        "name": "viridiplantae_odb10",
+        "creation_date": "2024-01-08",
+        "number_of_buscos": "425",
+        "number_of_species": "57"
+    },
+    "versions": {
+        "python": [
+            3,
+            12,
+            12,
+            "final",
+            0
+        ],
+        "busco": "6.0.0",
+        "hmmsearch": 3.4
+    },
+    "results": {
+        "one_line_summary": "C:64.5%[S:60.0%,D:4.5%],F:26.1%,M:9.4%,n:425",
+        "Complete percentage": 64.5,
+        "Complete BUSCOs": 274,
+        "Single copy percentage": 60.0,
+        "Single copy BUSCOs": 255,
+        "Multi copy percentage": 4.5,
+        "Multi copy BUSCOs": 19,
+        "Fragmented percentage": 26.1,
+        "Fragmented BUSCOs": 111,
+        "Missing percentage": 9.4,
+        "Missing BUSCOs": 40,
+        "n_markers": 425,
+        "domain": "eukaryota"
+    }
+}

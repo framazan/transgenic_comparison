@@ -1,0 +1,30 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -r .//reference_annotations/Slycopersicum_796_ITAG5.0.gene.gff3 -o .//gffcompare_results/S_lycopersicum_transgenic160M .//standardized_results/S_lycopersicum_transgenic160M.gff3
+#
+
+#= Summary for dataset: .//standardized_results/S_lycopersicum_transgenic160M.gff3 
+#     Query mRNAs :   40088 in   33097 loci  (28226 multi-exon transcripts)
+#            (3164 multi-transcript loci, ~1.2 transcripts per locus)
+# Reference mRNAs :   43706 in   36851 loci  (38357 multi-exon)
+# Super-loci w/ reference transcripts:    28867
+#-----------------| Sensitivity | Precision  |
+        Base level:    71.4     |    58.7    |
+        Exon level:    35.0     |    41.4    |
+      Intron level:    36.7     |    44.4    |
+Intron chain level:    11.0     |    15.0    |
+  Transcript level:    17.6     |    19.2    |
+       Locus level:    20.9     |    22.9    |
+
+     Matching intron chains:    4231
+       Matching transcripts:    7706
+              Matching loci:    7706
+
+          Missed exons:   55365/202477	( 27.3%)
+           Novel exons:   30368/172154	( 17.6%)
+        Missed introns:   47651/162888	( 29.3%)
+         Novel introns:   10618/134523	(  7.9%)
+           Missed loci:    6490/36851	( 17.6%)
+            Novel loci:    3995/33097	( 12.1%)
+
+ Total union super-loci across all input datasets: 32862 
+40088 out of 40088 consensus transcripts written in .//gffcompare_results/S_lycopersicum_transgenic160M.annotated.gtf (0 discarded as redundant)

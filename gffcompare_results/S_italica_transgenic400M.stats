@@ -1,0 +1,30 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -r .//reference_annotations/Sitalica_312_v2.2.gene_exons.clean.gff3 -o .//gffcompare_results/S_italica_transgenic400M .//standardized_results/S_italica_transgenic400M.gff3
+#
+
+#= Summary for dataset: .//standardized_results/S_italica_transgenic400M.gff3 
+#     Query mRNAs :   35079 in   33739 loci  (26767 multi-exon transcripts)
+#            (990 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :   42996 in   34413 loci  (36859 multi-exon)
+# Super-loci w/ reference transcripts:    31652
+#-----------------| Sensitivity | Precision  |
+        Base level:    83.0     |    87.7    |
+        Exon level:    63.8     |    70.6    |
+      Intron level:    69.6     |    77.2    |
+Intron chain level:    30.9     |    42.5    |
+  Transcript level:    36.7     |    44.9    |
+       Locus level:    45.8     |    46.6    |
+
+     Matching intron chains:   11382
+       Matching transcripts:   15761
+              Matching loci:   15749
+
+          Missed exons:   18066/180562	( 10.0%)
+           Novel exons:   10807/161847	(  6.7%)
+        Missed introns:   17564/140767	( 12.5%)
+         Novel introns:    7191/126883	(  5.7%)
+           Missed loci:    2228/34413	(  6.5%)
+            Novel loci:    1926/33739	(  5.7%)
+
+ Total union super-loci across all input datasets: 33578 
+35079 out of 35079 consensus transcripts written in .//gffcompare_results/S_italica_transgenic400M.annotated.gtf (0 discarded as redundant)

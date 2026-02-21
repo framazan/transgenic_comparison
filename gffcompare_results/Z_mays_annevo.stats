@@ -1,17 +1,17 @@
 # gffcompare v0.12.10 | Command line was:
-#gffcompare -r /Users/filipr/Desktop/transgenic_comparison/reference_annotations/Zmays_493_RefGen_V4.gene_exons.exon.gff3 -o /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/Z_mays_annevo /Users/filipr/Desktop/transgenic_comparison/standardized_results/Z_mays_annevo.gff3
+#gffcompare -r .//reference_annotations/Zmays_493_RefGen_V4.gene_exons.exon.gff3 -o .//gffcompare_results/Z_mays_annevo .//standardized_results/Z_mays_annevo.gff3
 #
 
-#= Summary for dataset: /Users/filipr/Desktop/transgenic_comparison/standardized_results/Z_mays_annevo.gff3 
-#     Query mRNAs :   30609 in   30609 loci  (24000 multi-exon transcripts)
+#= Summary for dataset: .//standardized_results/Z_mays_annevo.gff3 
+#     Query mRNAs :   30607 in   30607 loci  (23998 multi-exon transcripts)
 #            (0 multi-transcript loci, ~1.0 transcripts per locus)
 # Reference mRNAs :  128286 in   39371 loci  (120652 multi-exon)
-# Super-loci w/ reference transcripts:    28071
+# Super-loci w/ reference transcripts:    28070
 #-----------------| Sensitivity | Precision  |
-        Base level:    47.3     |    92.7    |
-        Exon level:    28.7     |    65.3    |
-      Intron level:    45.3     |    80.9    |
-Intron chain level:     8.8     |    44.1    |
+        Base level:    47.2     |    92.7    |
+        Exon level:    28.6     |    65.3    |
+      Intron level:    45.2     |    80.9    |
+Intron chain level:     8.8     |    44.2    |
   Transcript level:    12.2     |    51.0    |
        Locus level:    39.5     |    51.0    |
 
@@ -19,12 +19,12 @@ Intron chain level:     8.8     |    44.1    |
        Matching transcripts:   15601
               Matching loci:   15564
 
-          Missed exons:  113484/397083	( 28.6%)
-           Novel exons:   14193/167276	(  8.5%)
-        Missed introns:   72136/244148	( 29.5%)
-         Novel introns:    8429/136667	(  6.2%)
-           Missed loci:   11013/39371	( 28.0%)
-            Novel loci:    1902/30609	(  6.2%)
+          Missed exons:  113710/397083	( 28.6%)
+           Novel exons:   14190/167140	(  8.5%)
+        Missed introns:   72299/244148	( 29.6%)
+         Novel introns:    8427/136533	(  6.2%)
+           Missed loci:   11015/39371	( 28.0%)
+            Novel loci:    1902/30607	(  6.2%)
 
- Total union super-loci across all input datasets: 29973 
-30609 out of 30609 consensus transcripts written in /Users/filipr/Desktop/transgenic_comparison/gffcompare_results/Z_mays_annevo.annotated.gtf (0 discarded as redundant)
+ Total union super-loci across all input datasets: 29972 
+30607 out of 30607 consensus transcripts written in .//gffcompare_results/Z_mays_annevo.annotated.gtf (0 discarded as redundant)

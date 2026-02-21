@@ -1,0 +1,510 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: viridiplantae_odb10 (Creation date: 2024-01-08, number of genomes: 57, number of BUSCOs: 425)
+# Busco id	Status	Sequence	Score	Length	OrthoDB url	Description
+2at33090	Missing
+5at33090	Fragmented	Z_mays_g008588.t1	1248.0	1317	https://v10-1.orthodb.org/?query=5at33090	Zinc finger, RING/FYVE/PHD-type
+24at33090	Fragmented	Z_mays_g030056.t1	2639.7	1736	https://v10-1.orthodb.org/?query=24at33090	Zinc finger, ZZ-type
+255at33090	Fragmented	Z_mays_g021239.t1	402.0	383	https://v10-1.orthodb.org/?query=255at33090	Translational activator Gcn1
+383at33090	Complete	Z_mays_g034429.t1	936.3	952	https://v10-1.orthodb.org/?query=383at33090	WD40-repeat-containing domain
+1363at33090	Fragmented	Z_mays_g025717.t1	681.6	303	https://v10-1.orthodb.org/?query=1363at33090	UDP-glucose:Glycoprotein Glucosyltransferase
+1419at33090	Complete	Z_mays_g010940.t1	923.4	795	https://v10-1.orthodb.org/?query=1419at33090	Zinc finger, RING-type
+1557at33090	Missing
+1855at33090	Complete	Z_mays_g006755.t1	2229.0	1676	https://v10-1.orthodb.org/?query=1855at33090	Armadillo-type fold
+4004at33090	Duplicated	Z_mays_g029547.t2	1025.7	779	https://v10-1.orthodb.org/?query=4004at33090	WD40/YVTN repeat-like-containing domain superfamily
+4004at33090	Duplicated	Z_mays_g029547.t1	990.5	745	https://v10-1.orthodb.org/?query=4004at33090	WD40/YVTN repeat-like-containing domain superfamily
+4034at33090	Missing
+4115at33090	Duplicated	Z_mays_g015224.t1	1207.2	690	https://v10-1.orthodb.org/?query=4115at33090	Glycoside hydrolase, family 2
+4115at33090	Duplicated	Z_mays_g015224.t2	1185.9	690	https://v10-1.orthodb.org/?query=4115at33090	Glycoside hydrolase, family 2
+5305at33090	Fragmented	Z_mays_g015234.t1	215.3	223	https://v10-1.orthodb.org/?query=5305at33090	SNF2-related, N-terminal domain
+5927at33090	Fragmented	Z_mays_g022712.t1	222.2	232	https://v10-1.orthodb.org/?query=5927at33090	Armadillo-type fold
+6512at33090	Complete	Z_mays_g028987.t1	524.5	515	https://v10-1.orthodb.org/?query=6512at33090	Timeless protein
+6843at33090	Fragmented	Z_mays_g015105.t1	110.6	85	https://v10-1.orthodb.org/?query=6843at33090	NHL repeat
+7366at33090	Fragmented	Z_mays_g014861.t1	828.0	483	https://v10-1.orthodb.org/?query=7366at33090	Zinc finger, CCHC-type
+8072at33090	Missing
+9044at33090	Complete	Z_mays_g000091.t1	1073.0	706	https://v10-1.orthodb.org/?query=9044at33090	GHMP kinase, C-terminal domain
+9058at33090	Complete	Z_mays_g000685.t1	888.3	611	https://v10-1.orthodb.org/?query=9058at33090	XPG/Rad2 endonuclease
+9849at33090	Fragmented	Z_mays_g029408.t1	213.0	265	https://v10-1.orthodb.org/?query=9849at33090	MMS19, C-terminal
+10924at33090	Missing
+11664at33090	Fragmented	Z_mays_g021599.t1	785.7	448	https://v10-1.orthodb.org/?query=11664at33090	DNA topoisomerase, type IIA, subunit A/C-terminal
+11800at33090	Complete	Z_mays_g001902.t1	1957.1	1061	https://v10-1.orthodb.org/?query=11800at33090	Hydantoinase A/oxoprolinase
+12439at33090	Fragmented	Z_mays_g037099.t1	964.1	560	https://v10-1.orthodb.org/?query=12439at33090	WD40 repeat
+13039at33090	Complete	Z_mays_g032470.t1	1011.8	542	https://v10-1.orthodb.org/?query=13039at33090	Aminoacyl-tRNA synthetase, class Ia
+13643at33090	Fragmented	Z_mays_g037387.t1	648.6	453	https://v10-1.orthodb.org/?query=13643at33090	Conserved oligomeric Golgi complex subunit 7
+15682at33090	Fragmented	Z_mays_g001507.t1	123.1	189	https://v10-1.orthodb.org/?query=15682at33090	MIF4G-like, type 1
+16726at33090	Complete	Z_mays_g009099.t1	447.2	429	https://v10-1.orthodb.org/?query=16726at33090	ATPase, AAA-type, conserved site
+18455at33090	Complete	Z_mays_g029238.t1	832.5	581	https://v10-1.orthodb.org/?query=18455at33090	WD40-repeat-containing domain
+18801at33090	Complete	Z_mays_g036490.t1	876.5	655	https://v10-1.orthodb.org/?query=18801at33090	Condensin complex subunit 3
+21163at33090	Missing
+21751at33090	Fragmented	Z_mays_g036452.t1	607.7	309	https://v10-1.orthodb.org/?query=21751at33090	Glycine-tRNA ligase, alpha subunit
+21857at33090	Missing
+22109at33090	Fragmented	Z_mays_g014258.t1	380.3	215	https://v10-1.orthodb.org/?query=22109at33090	Quinolinate synthetase A
+22618at33090	Missing
+22958at33090	Duplicated	Z_mays_g004149.t1	761.7	488	https://v10-1.orthodb.org/?query=22958at33090	SAP domain
+22958at33090	Duplicated	Z_mays_g004149.t2	761.7	488	https://v10-1.orthodb.org/?query=22958at33090	SAP domain
+23444at33090	Fragmented	Z_mays_g002474.t1	250.0	218	https://v10-1.orthodb.org/?query=23444at33090	Pumilio RNA-binding repeat
+23853at33090	Fragmented	Z_mays_g028181.t2	253.4	165	https://v10-1.orthodb.org/?query=23853at33090	GTP binding domain
+24838at33090	Fragmented	Z_mays_g036702.t1	368.6	208	https://v10-1.orthodb.org/?query=24838at33090	G patch domain-containing protein, N-terminal
+25435at33090	Missing
+26868at33090	Complete	Z_mays_g001221.t1	766.0	521	https://v10-1.orthodb.org/?query=26868at33090	Aprataxin, C2HE/C2H2/C2HC zinc finger
+27237at33090	Complete	Z_mays_g015873.t1	927.4	646	https://v10-1.orthodb.org/?query=27237at33090	Nucleic acid-binding, OB-fold
+27607at33090	Complete	Z_mays_g023082.t1	779.0	543	https://v10-1.orthodb.org/?query=27607at33090	FG-GAP repeat-containing protein
+28920at33090	Duplicated	Z_mays_g014883.t1	348.6	467	https://v10-1.orthodb.org/?query=28920at33090	MCM domain
+28920at33090	Duplicated	Z_mays_g017187.t1	341.1	455	https://v10-1.orthodb.org/?query=28920at33090	MCM domain
+28920at33090	Duplicated	Z_mays_g028478.t1	350.0	448	https://v10-1.orthodb.org/?query=28920at33090	MCM domain
+31155at33090	Fragmented	Z_mays_g019810.t1	239.7	252	https://v10-1.orthodb.org/?query=31155at33090	-alpha-acetyltransferase 35, NatC auxiliary subunit
+31855at33090	Fragmented	Z_mays_g032481.t1	782.5	409	https://v10-1.orthodb.org/?query=31855at33090	ABC-2 type transporter
+32730at33090	Fragmented	Z_mays_g000072.t1	149.4	103	https://v10-1.orthodb.org/?query=32730at33090	THO complex, subunit THOC1
+32923at33090	Complete	Z_mays_g034579.t1	1319.0	563	https://v10-1.orthodb.org/?query=32923at33090	Ubiquitin-like modifier-activating enzyme Atg7
+33264at33090	Missing
+34517at33090	Fragmented	Z_mays_g028148.t1	464.5	400	https://v10-1.orthodb.org/?query=34517at33090	Conserved oligomeric Golgi complex subunit 5
+35499at33090	Missing
+35887at33090	Missing
+36284at33090	Fragmented	Z_mays_g006165.t1	322.9	222	https://v10-1.orthodb.org/?query=36284at33090	Dynamin superfamily
+37663at33090	Fragmented	Z_mays_g008355.t1	513.6	370	https://v10-1.orthodb.org/?query=37663at33090	MoeA, C-terminal, domain IV
+37699at33090	Missing
+39913at33090	Complete	Z_mays_g024697.t1	1009.7	522	https://v10-1.orthodb.org/?query=39913at33090	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase, bacterial-type
+40630at33090	Missing
+41146at33090	Fragmented	Z_mays_g003893.t1	313.6	181	https://v10-1.orthodb.org/?query=41146at33090	Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial
+41244at33090	Fragmented	Z_mays_g037468.t1	190.7	146	https://v10-1.orthodb.org/?query=41244at33090	Imidazole glycerol phosphate synthase hisHF
+42407at33090	Fragmented	Z_mays_g022413.t1	157.9	126	https://v10-1.orthodb.org/?query=42407at33090	WW domain
+43683at33090	Missing
+43957at33090	Complete	Z_mays_g028770.t1	1083.2	686	https://v10-1.orthodb.org/?query=43957at33090	WD40 repeat
+44063at33090	Fragmented	Z_mays_g031839.t1	448.0	266	https://v10-1.orthodb.org/?query=44063at33090	4-alpha-glucanotransferase
+44526at33090	Complete	Z_mays_g026617.t1	687.0	467	https://v10-1.orthodb.org/?query=44526at33090	GPI transamidase component PIG-T
+46307at33090	Fragmented	Z_mays_g018671.t1	660.7	340	https://v10-1.orthodb.org/?query=46307at33090	Acetyl-coenzyme A carboxyltransferase, C-terminal
+48027at33090	Complete	Z_mays_g021246.t1	673.6	374	https://v10-1.orthodb.org/?query=48027at33090	Aminoacyl-tRNA synthetase, class I, anticodon-binding
+48290at33090	Missing
+48645at33090	Fragmented	Z_mays_g030286.t1	354.3	292	https://v10-1.orthodb.org/?query=48645at33090	Cwf19-like, C-terminal domain-1
+49092at33090	Complete	Z_mays_g028801.t1	784.9	414	https://v10-1.orthodb.org/?query=49092at33090	Aldehyde dehydrogenase domain
+50512at33090	Fragmented	Z_mays_g015572.t1	309.1	252	https://v10-1.orthodb.org/?query=50512at33090	uncharacterized protein LOC107776719
+50528at33090	Fragmented	Z_mays_g033046.t1	278.5	235	https://v10-1.orthodb.org/?query=50528at33090	Light-mediated development protein DET1
+51214at33090	Complete	Z_mays_g033730.t1	600.2	412	https://v10-1.orthodb.org/?query=51214at33090	RNA helicase
+51262at33090	Fragmented	Z_mays_g028590.t1	285.9	243	https://v10-1.orthodb.org/?query=51262at33090	Peroxisomal/glyoxysomal leader peptide-processing protease
+52348at33090	Fragmented	Z_mays_g033115.t1	134.0	107	https://v10-1.orthodb.org/?query=52348at33090	JmjC domain
+52435at33090	Missing
+52795at33090	Fragmented	Z_mays_g005694.t1	347.1	189	https://v10-1.orthodb.org/?query=52795at33090	Lysine--tRNA ligase
+53416at33090	Complete	Z_mays_g025094.t1	473.0	325	https://v10-1.orthodb.org/?query=53416at33090	Alpha-1,3-glucosyltransferase
+53527at33090	Complete	Z_mays_g032093.t1	953.7	528	https://v10-1.orthodb.org/?query=53527at33090	Glycoside hydrolase, family 77
+55448at33090	Complete	Z_mays_g029360.t1	670.3	361	https://v10-1.orthodb.org/?query=55448at33090	Proline-tRNA ligase, class IIa
+57004at33090	Missing
+58672at33090	Complete	Z_mays_g010305.t1	457.8	261	https://v10-1.orthodb.org/?query=58672at33090	VDE lipocalin domain
+60262at33090	Complete	Z_mays_g031592.t1	529.3	323	https://v10-1.orthodb.org/?query=60262at33090	WD40/YVTN repeat-like-containing domain superfamily
+62262at33090	Fragmented	Z_mays_g009272.t1	320.3	208	https://v10-1.orthodb.org/?query=62262at33090	Pseudouridine synthase, catalytic domain superfamily
+63411at33090	Complete	Z_mays_g010582.t1	483.4	308	https://v10-1.orthodb.org/?query=63411at33090	Fe-S cluster assembly domain superfamily
+63853at33090	Complete	Z_mays_g033544.t1	657.8	346	https://v10-1.orthodb.org/?query=63853at33090	NAD-dependent epimerase/dehydratase
+64272at33090	Complete	Z_mays_g004449.t1	795.5	588	https://v10-1.orthodb.org/?query=64272at33090	Nucleolar protein 14
+65263at33090	Duplicated	Z_mays_g038178.t1	336.4	277	https://v10-1.orthodb.org/?query=65263at33090	P-loop containing nucleoside triphosphate hydrolase
+65263at33090	Duplicated	Z_mays_g038178.t2	336.4	277	https://v10-1.orthodb.org/?query=65263at33090	P-loop containing nucleoside triphosphate hydrolase
+67132at33090	Fragmented	Z_mays_g030095.t1	565.0	341	https://v10-1.orthodb.org/?query=67132at33090	DNA topoisomerase 6 subunit B
+67389at33090	Complete	Z_mays_g001903.t1	297.9	323	https://v10-1.orthodb.org/?query=67389at33090	Ribosomal protein Rsm22-like
+68169at33090	Complete	Z_mays_g008156.t1	554.8	436	https://v10-1.orthodb.org/?query=68169at33090	Nucleoporin Nup88
+68537at33090	Fragmented	Z_mays_g000530.t1	274.1	169	https://v10-1.orthodb.org/?query=68537at33090	Glycosyltransferase subfamily 4-like, N-terminal domain
+68957at33090	Fragmented	Z_mays_g013362.t1	425.7	268	https://v10-1.orthodb.org/?query=68957at33090	Mannosyltransferase
+69073at33090	Fragmented	Z_mays_g034507.t1	193.2	145	https://v10-1.orthodb.org/?query=69073at33090	Protein arginine methyltransferase NDUFAF7
+69137at33090	Fragmented	Z_mays_g036656.t1	470.0	335	https://v10-1.orthodb.org/?query=69137at33090	CDK5 regulatory subunit-associated protein 3
+69505at33090	Fragmented	Z_mays_g036890.t1	216.0	149	https://v10-1.orthodb.org/?query=69505at33090	tRNA A64-2'-O-ribosylphosphate transferase
+69614at33090	Missing
+70613at33090	Fragmented	Z_mays_g036455.t1	248.1	131	https://v10-1.orthodb.org/?query=70613at33090	Homogentisate 1,2-dioxygenase
+71620at33090	Complete	Z_mays_g007332.t1	514.7	334	https://v10-1.orthodb.org/?query=71620at33090	DNA primase large subunit
+72992at33090	Complete	Z_mays_g005880.t1	618.1	411	https://v10-1.orthodb.org/?query=72992at33090	RED-like, N-terminal
+74230at33090	Fragmented	Z_mays_g007527.t1	472.2	282	https://v10-1.orthodb.org/?query=74230at33090	Peptidogalycan biosysnthesis/recognition
+74580at33090	Duplicated	Z_mays_g038626.t1	511.6	394	https://v10-1.orthodb.org/?query=74580at33090	Nuclear protein DGCR14/ESS-2
+74580at33090	Duplicated	Z_mays_g021346.t1	503.9	394	https://v10-1.orthodb.org/?query=74580at33090	Nuclear protein DGCR14/ESS-2
+74580at33090	Duplicated	Z_mays_g021347.t1	518.9	386	https://v10-1.orthodb.org/?query=74580at33090	Nuclear protein DGCR14/ESS-2
+74742at33090	Complete	Z_mays_g030242.t1	325.2	279	https://v10-1.orthodb.org/?query=74742at33090	Histone acetyltransferase type B, catalytic subunit
+75785at33090	Fragmented	Z_mays_g024123.t1	131.5	96	https://v10-1.orthodb.org/?query=75785at33090	P-loop containing nucleoside triphosphate hydrolase
+76026at33090	Fragmented	Z_mays_g008869.t1	271.2	219	https://v10-1.orthodb.org/?query=76026at33090	SET domain
+76849at33090	Complete	Z_mays_g013624.t1	665.0	453	https://v10-1.orthodb.org/?query=76849at33090	Mini-chromosome maintenance complex-binding protein
+79950at33090	Fragmented	Z_mays_g005831.t1	224.0	179	https://v10-1.orthodb.org/?query=79950at33090	Rhodanese-like domain
+83749at33090	Duplicated	Z_mays_g037605.t1	301.5	336	https://v10-1.orthodb.org/?query=83749at33090	Beta-ketoacyl synthase, C-terminal
+83749at33090	Duplicated	Z_mays_g031784.t1	316.4	328	https://v10-1.orthodb.org/?query=83749at33090	Beta-ketoacyl synthase, C-terminal
+83749at33090	Duplicated	Z_mays_g012385.t1	315.8	328	https://v10-1.orthodb.org/?query=83749at33090	Beta-ketoacyl synthase, C-terminal
+83749at33090	Duplicated	Z_mays_g035987.t1	289.4	308	https://v10-1.orthodb.org/?query=83749at33090	Beta-ketoacyl synthase, C-terminal
+83749at33090	Duplicated	Z_mays_g027397.t1	287.0	306	https://v10-1.orthodb.org/?query=83749at33090	Beta-ketoacyl synthase, C-terminal
+84114at33090	Complete	Z_mays_g028661.t1	511.6	263	https://v10-1.orthodb.org/?query=84114at33090	Protein of unknown function DUF4336
+84264at33090	Complete	Z_mays_g027636.t1	382.5	538	https://v10-1.orthodb.org/?query=84264at33090	WW domain
+87347at33090	Missing
+87734at33090	Missing
+88295at33090	Fragmented	Z_mays_g030170.t1	294.5	199	https://v10-1.orthodb.org/?query=88295at33090	Rab3-GAP regulatory subunit
+88687at33090	Fragmented	Z_mays_g001499.t1	292.2	207	https://v10-1.orthodb.org/?query=88687at33090	Rad9/Ddc1
+88771at33090	Fragmented	Z_mays_g002492.t1	214.2	167	https://v10-1.orthodb.org/?query=88771at33090	Tetratricopeptide-like helical domain superfamily
+89796at33090	Fragmented	Z_mays_g000841.t1	662.1	405	https://v10-1.orthodb.org/?query=89796at33090	Conserved oligomeric Golgi complex subunit 6
+90240at33090	Complete	Z_mays_g023471.t1	505.3	332	https://v10-1.orthodb.org/?query=90240at33090	Methyltransferase domain
+90301at33090	Fragmented	Z_mays_g020089.t1	404.6	229	https://v10-1.orthodb.org/?query=90301at33090	Pyridoxal phosphate-dependent transferase
+90872at33090	Missing
+92418at33090	Missing
+92579at33090	Fragmented	Z_mays_g032245.t1	124.8	186	https://v10-1.orthodb.org/?query=92579at33090	Ubiquitin-associated domain
+95807at33090	Complete	Z_mays_g017732.t1	318.5	318	https://v10-1.orthodb.org/?query=95807at33090	ApaG domain
+96953at33090	Missing
+97593at33090	Fragmented	Z_mays_g016629.t1	150.2	126	https://v10-1.orthodb.org/?query=97593at33090	Origin recognition complex subunit 4
+101241at33090	Duplicated	Z_mays_g026408.t1	190.8	335	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101241at33090	Duplicated	Z_mays_g026410.t1	190.8	335	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101241at33090	Duplicated	Z_mays_g034381.t1	190.8	335	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101241at33090	Duplicated	Z_mays_g034382.t1	190.8	335	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101241at33090	Duplicated	Z_mays_g022328.t1	187.8	335	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101241at33090	Duplicated	Z_mays_g003914.t1	187.1	335	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101241at33090	Duplicated	Z_mays_g020724.t1	186.4	335	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101241at33090	Duplicated	Z_mays_g005692.t1	184.3	335	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101241at33090	Duplicated	Z_mays_g004932.t1	190.5	334	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101241at33090	Duplicated	Z_mays_g021942.t1	190.0	334	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101241at33090	Duplicated	Z_mays_g035311.t1	188.6	334	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101241at33090	Duplicated	Z_mays_g033676.t1	186.0	334	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101241at33090	Duplicated	Z_mays_g015739.t1	183.7	334	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101241at33090	Duplicated	Z_mays_g010849.t1	178.9	334	https://v10-1.orthodb.org/?query=101241at33090	Actin family
+101701at33090	Fragmented	Z_mays_g033996.t1	478.2	302	https://v10-1.orthodb.org/?query=101701at33090	Nucleotide-diphospho-sugar transferases
+102307at33090	Duplicated	Z_mays_g037352.t1	575.4	294	https://v10-1.orthodb.org/?query=102307at33090	WD40 repeat
+102307at33090	Duplicated	Z_mays_g027074.t1	570.6	294	https://v10-1.orthodb.org/?query=102307at33090	WD40 repeat
+103267at33090	Fragmented	Z_mays_g010248.t1	261.9	161	https://v10-1.orthodb.org/?query=103267at33090	RecQ-mediated genome instability protein 1
+103382at33090	Fragmented	Z_mays_g038198.t1	161.6	123	https://v10-1.orthodb.org/?query=103382at33090	Oxoglutarate/iron-dependent dioxygenase
+104218at33090	Fragmented	Z_mays_g000793.t1	322.0	174	https://v10-1.orthodb.org/?query=104218at33090	Tryptophan synthase beta subunit-like PLP-dependent enzyme
+104557at33090	Complete	Z_mays_g003432.t1	499.2	293	https://v10-1.orthodb.org/?query=104557at33090	Coenzyme F420 hydrogenase/dehydrogenase beta subunit, C-terminal
+104821at33090	Complete	Z_mays_g035732.t1	490.6	293	https://v10-1.orthodb.org/?query=104821at33090	RNA 2-O ribose methyltransferase, substrate binding
+104867at33090	Missing
+105044at33090	Complete	Z_mays_g018653.t1	804.3	476	https://v10-1.orthodb.org/?query=105044at33090	Helicase, C-terminal
+105782at33090	Complete	Z_mays_g031708.t1	418.1	274	https://v10-1.orthodb.org/?query=105782at33090	CobW/HypB/UreG, nucleotide-binding domain
+105867at33090	Duplicated	Z_mays_g025909.t1	491.6	303	https://v10-1.orthodb.org/?query=105867at33090	Alcohol dehydrogenase, C-terminal
+105867at33090	Duplicated	Z_mays_g025909.t2	491.6	303	https://v10-1.orthodb.org/?query=105867at33090	Alcohol dehydrogenase, C-terminal
+105867at33090	Duplicated	Z_mays_g018224.t1	430.3	271	https://v10-1.orthodb.org/?query=105867at33090	Alcohol dehydrogenase, C-terminal
+106769at33090	Complete	Z_mays_g016098.t1	620.7	324	https://v10-1.orthodb.org/?query=106769at33090	Ribosomal protein S5 domain 2-type fold
+106886at33090	Fragmented	Z_mays_g022102.t1	206.1	206	https://v10-1.orthodb.org/?query=106886at33090	Cell division control protein 73, C-terminal
+107107at33090	Complete	Z_mays_g003019.t1	477.1	342	https://v10-1.orthodb.org/?query=107107at33090	PUB domain
+107413at33090	Missing
+108705at33090	Complete	Z_mays_g037546.t1	437.3	335	https://v10-1.orthodb.org/?query=108705at33090	Phosphatidylinositol anchor biosynthesis protein PIGW/GWT1
+109586at33090	Complete	Z_mays_g038287.t1	183.6	419	https://v10-1.orthodb.org/?query=109586at33090	Aminoacyl-tRNA synthetase, class Ia
+109823at33090	Fragmented	Z_mays_g023167.t1	310.9	188	https://v10-1.orthodb.org/?query=109823at33090	Domain of unknown function DUF1995
+110222at33090	Complete	Z_mays_g007951.t1	483.3	364	https://v10-1.orthodb.org/?query=110222at33090	DnaJ domain
+110225at33090	Missing
+111210at33090	Complete	Z_mays_g027716.t1	462.1	272	https://v10-1.orthodb.org/?query=111210at33090	HAD superfamily
+111213at33090	Complete	Z_mays_g025844.t1	342.1	219	https://v10-1.orthodb.org/?query=111213at33090	NAD-dependent epimerase/dehydratase
+111249at33090	Fragmented	Z_mays_g009920.t1	118.2	158	https://v10-1.orthodb.org/?query=111249at33090	Predicted protein
+111924at33090	Missing
+112238at33090	Missing
+112325at33090	Complete	Z_mays_g012648.t1	339.3	283	https://v10-1.orthodb.org/?query=112325at33090	Sister chromatid cohesion protein Dcc1
+112461at33090	Fragmented	Z_mays_g029487.t1	484.8	299	https://v10-1.orthodb.org/?query=112461at33090	FAD-linked oxidase, C-terminal
+112542at33090	Fragmented	Z_mays_g010938.t2	316.4	177	https://v10-1.orthodb.org/?query=112542at33090	Cytochrome C biogenesis protein, transmembrane domain
+113024at33090	Complete	Z_mays_g012292.t1	344.6	202	https://v10-1.orthodb.org/?query=113024at33090	Queuosine salvage protein
+114996at33090	Complete	Z_mays_g010015.t1	1238.1	945	https://v10-1.orthodb.org/?query=114996at33090	Elongator complex protein 1
+115240at33090	Complete	Z_mays_g021052.t1	438.1	291	https://v10-1.orthodb.org/?query=115240at33090	Ubiquitin domain
+115992at33090	Missing
+116411at33090	Duplicated	Z_mays_g015343.t1	200.4	223	https://v10-1.orthodb.org/?query=116411at33090	WD40/YVTN repeat-like-containing domain superfamily
+116411at33090	Duplicated	Z_mays_g035036.t1	195.8	222	https://v10-1.orthodb.org/?query=116411at33090	WD40/YVTN repeat-like-containing domain superfamily
+116411at33090	Duplicated	Z_mays_g013612.t1	181.5	222	https://v10-1.orthodb.org/?query=116411at33090	WD40/YVTN repeat-like-containing domain superfamily
+116411at33090	Duplicated	Z_mays_g032619.t1	174.6	222	https://v10-1.orthodb.org/?query=116411at33090	WD40/YVTN repeat-like-containing domain superfamily
+116516at33090	Missing
+116585at33090	Fragmented	Z_mays_g012361.t1	261.3	173	https://v10-1.orthodb.org/?query=116585at33090	Zinc finger, RING-type
+116623at33090	Duplicated	Z_mays_g001900.t1	301.2	249	https://v10-1.orthodb.org/?query=116623at33090	Zinc finger, HIT-type
+116623at33090	Duplicated	Z_mays_g003975.t1	298.8	249	https://v10-1.orthodb.org/?query=116623at33090	Zinc finger, HIT-type
+117191at33090	Complete	Z_mays_g025765.t1	308.4	282	https://v10-1.orthodb.org/?query=117191at33090	NAD(P)-binding domain
+117247at33090	Fragmented	Z_mays_g009990.t1	204.4	135	https://v10-1.orthodb.org/?query=117247at33090	Protein phosphatase methylesterase 1
+119439at33090	Fragmented	Z_mays_g001144.t1	334.4	244	https://v10-1.orthodb.org/?query=119439at33090	Arginine biosynthesis bifunctional protein ArgJ, chloroplastic
+120031at33090	Missing
+120338at33090	Missing
+120455at33090	Complete	Z_mays_g008601.t1	381.4	233	https://v10-1.orthodb.org/?query=120455at33090	Uracil-DNA glycosylase
+120589at33090	Complete	Z_mays_g025821.t1	540.5	358	https://v10-1.orthodb.org/?query=120589at33090	beta-catenin-like protein 1
+121281at33090	Fragmented	Z_mays_g038679.t1	44.8	103	https://v10-1.orthodb.org/?query=121281at33090	Formyl transferase, C-terminal
+121303at33090	Fragmented	Z_mays_g036136.t1	338.2	205	https://v10-1.orthodb.org/?query=121303at33090	Alpha/Beta hydrolase fold
+122367at33090	Complete	Z_mays_g031836.t1	457.5	337	https://v10-1.orthodb.org/?query=122367at33090	Amine oxidase
+122422at33090	Complete	Z_mays_g037028.t1	397.8	248	https://v10-1.orthodb.org/?query=122422at33090	Short-chain dehydrogenase/reductase SDR
+122831at33090	Complete	Z_mays_g030372.t1	464.3	315	https://v10-1.orthodb.org/?query=122831at33090	Helicase, C-terminal
+122958at33090	Fragmented	Z_mays_g026652.t1	240.5	188	https://v10-1.orthodb.org/?query=122958at33090	Leucine carboxyl methyltransferase 1
+123838at33090	Fragmented	Z_mays_g017812.t1	205.4	126	https://v10-1.orthodb.org/?query=123838at33090	Alpha-ketoglutarate-dependent dioxygenase AlkB-like
+125550at33090	Complete	Z_mays_g008387.t1	167.7	132	https://v10-1.orthodb.org/?query=125550at33090	Regulatory protein RecX
+125747at33090	Missing
+126138at33090	Fragmented	Z_mays_g003934.t1	259.7	237	https://v10-1.orthodb.org/?query=126138at33090	DnaJ domain
+126427at33090	Complete	Z_mays_g025800.t1	387.0	260	https://v10-1.orthodb.org/?query=126427at33090	RmlD-like substrate binding domain
+127059at33090	Fragmented	Z_mays_g016365.t1	348.5	211	https://v10-1.orthodb.org/?query=127059at33090	Aminoacyl-tRNA synthetase, class Ic
+128774at33090	Fragmented	Z_mays_g005240.t1	174.6	150	https://v10-1.orthodb.org/?query=128774at33090	Proteasome assembly chaperone 2
+130268at33090	Complete	Z_mays_g006418.t1	307.5	171	https://v10-1.orthodb.org/?query=130268at33090	Methyltransferase type 11
+130279at33090	Complete	Z_mays_g031136.t1	356.1	209	https://v10-1.orthodb.org/?query=130279at33090	Plastid lipid-associated protein/fibrillin conserved domain
+130637at33090	Duplicated	Z_mays_g024688.t1	253.1	257	https://v10-1.orthodb.org/?query=130637at33090	Protein kinase domain
+130637at33090	Duplicated	Z_mays_g038635.t1	253.4	250	https://v10-1.orthodb.org/?query=130637at33090	Protein kinase domain
+130637at33090	Duplicated	Z_mays_g021270.t1	260.2	246	https://v10-1.orthodb.org/?query=130637at33090	Protein kinase domain
+130637at33090	Duplicated	Z_mays_g037338.t1	223.4	244	https://v10-1.orthodb.org/?query=130637at33090	Protein kinase domain
+131556at33090	Complete	Z_mays_g032513.t1	446.2	295	https://v10-1.orthodb.org/?query=131556at33090	SUF system FeS cluster assembly, SufBD
+131874at33090	Duplicated	Z_mays_g019424.t1	629.8	496	https://v10-1.orthodb.org/?query=131874at33090	ABC transporter type 1, transmembrane domain
+131874at33090	Duplicated	Z_mays_g016438.t1	619.2	487	https://v10-1.orthodb.org/?query=131874at33090	ABC transporter type 1, transmembrane domain
+131874at33090	Duplicated	Z_mays_g007716.t1	630.1	477	https://v10-1.orthodb.org/?query=131874at33090	ABC transporter type 1, transmembrane domain
+131874at33090	Duplicated	Z_mays_g032215.t1	660.8	474	https://v10-1.orthodb.org/?query=131874at33090	ABC transporter type 1, transmembrane domain
+131874at33090	Duplicated	Z_mays_g034814.t1	645.5	468	https://v10-1.orthodb.org/?query=131874at33090	ABC transporter type 1, transmembrane domain
+131874at33090	Duplicated	Z_mays_g010557.t1	611.1	468	https://v10-1.orthodb.org/?query=131874at33090	ABC transporter type 1, transmembrane domain
+131874at33090	Duplicated	Z_mays_g003441.t1	653.1	458	https://v10-1.orthodb.org/?query=131874at33090	ABC transporter type 1, transmembrane domain
+131874at33090	Duplicated	Z_mays_g008280.t1	657.7	457	https://v10-1.orthodb.org/?query=131874at33090	ABC transporter type 1, transmembrane domain
+131874at33090	Duplicated	Z_mays_g007616.t1	636.0	456	https://v10-1.orthodb.org/?query=131874at33090	ABC transporter type 1, transmembrane domain
+131874at33090	Duplicated	Z_mays_g024422.t1	632.6	456	https://v10-1.orthodb.org/?query=131874at33090	ABC transporter type 1, transmembrane domain
+131874at33090	Duplicated	Z_mays_g033152.t1	615.0	450	https://v10-1.orthodb.org/?query=131874at33090	ABC transporter type 1, transmembrane domain
+131914at33090	Missing
+133112at33090	Duplicated	Z_mays_g025787.t1	328.5	243	https://v10-1.orthodb.org/?query=133112at33090	Predicted protein
+133112at33090	Duplicated	Z_mays_g025787.t2	328.5	243	https://v10-1.orthodb.org/?query=133112at33090	Predicted protein
+133112at33090	Duplicated	Z_mays_g025787.t3	328.5	243	https://v10-1.orthodb.org/?query=133112at33090	Predicted protein
+133112at33090	Duplicated	Z_mays_g025787.t4	328.5	243	https://v10-1.orthodb.org/?query=133112at33090	Predicted protein
+133112at33090	Duplicated	Z_mays_g025787.t5	328.5	243	https://v10-1.orthodb.org/?query=133112at33090	Predicted protein
+133622at33090	Complete	Z_mays_g008624.t1	338.3	266	https://v10-1.orthodb.org/?query=133622at33090	OTU domain
+134078at33090	Fragmented	Z_mays_g025098.t1	198.1	141	https://v10-1.orthodb.org/?query=134078at33090	Pseudouridine-5'-phosphate glycosidase
+135419at33090	Complete	Z_mays_g001523.t1	470.8	283	https://v10-1.orthodb.org/?query=135419at33090	NAD(P)-binding domain
+135892at33090	Fragmented	Z_mays_g032384.t1	408.3	251	https://v10-1.orthodb.org/?query=135892at33090	Pyridoxal phosphate-dependent transferase
+136118at33090	Missing
+136267at33090	Complete	Z_mays_g026976.t1	301.0	250	https://v10-1.orthodb.org/?query=136267at33090	Leucine-rich repeat, cysteine-containing subtype
+136579at33090	Fragmented	Z_mays_g002927.t1	151.2	146	https://v10-1.orthodb.org/?query=136579at33090	HI0933-like insert domain superfamily
+137018at33090	Complete	Z_mays_g026806.t1	514.7	278	https://v10-1.orthodb.org/?query=137018at33090	Photosynthesis system II assembly factor Ycf48/Hcf136
+137771at33090	Duplicated	Z_mays_g009747.t1	783.1	437	https://v10-1.orthodb.org/?query=137771at33090	Kelch repeat type 1
+137771at33090	Duplicated	Z_mays_g009747.t2	782.7	437	https://v10-1.orthodb.org/?query=137771at33090	Kelch repeat type 1
+137787at33090	Fragmented	Z_mays_g013179.t1	406.2	273	https://v10-1.orthodb.org/?query=137787at33090	U3 small nucleolar RNA-associated protein 6
+138499at33090	Missing
+138782at33090	Fragmented	Z_mays_g036262.t1	186.5	115	https://v10-1.orthodb.org/?query=138782at33090	Domain of unknown function DUF1995
+139062at33090	Complete	Z_mays_g025893.t1	353.6	252	https://v10-1.orthodb.org/?query=139062at33090	Vps72/YL1, C-terminal
+139450at33090	Complete	Z_mays_g015165.t1	260.1	204	https://v10-1.orthodb.org/?query=139450at33090	Leucine-rich repeat
+139497at33090	Missing
+140683at33090	Complete	Z_mays_g000199.t1	200.7	169	https://v10-1.orthodb.org/?query=140683at33090	Glycerol kinase
+140876at33090	Duplicated	Z_mays_g034591.t1	351.7	201	https://v10-1.orthodb.org/?query=140876at33090	PsbP, C-terminal
+140876at33090	Duplicated	Z_mays_g016920.t1	343.9	193	https://v10-1.orthodb.org/?query=140876at33090	PsbP, C-terminal
+141370at33090	Fragmented	Z_mays_g034311.t1	139.8	93	https://v10-1.orthodb.org/?query=141370at33090	Integral membrane protein TerC
+141861at33090	Missing
+142077at33090	Complete	Z_mays_g030127.t1	396.8	231	https://v10-1.orthodb.org/?query=142077at33090	Chlorophyll A-B binding protein
+142382at33090	Complete	Z_mays_g029382.t1	248.0	198	https://v10-1.orthodb.org/?query=142382at33090	PDZ domain
+142433at33090	Missing
+143102at33090	Fragmented	Z_mays_g004014.t1	296.8	165	https://v10-1.orthodb.org/?query=143102at33090	EamA domain
+143347at33090	Complete	Z_mays_g004291.t1	356.4	228	https://v10-1.orthodb.org/?query=143347at33090	Tetrapyrrole methylase
+143963at33090	Complete	Z_mays_g009862.t1	189.0	144	https://v10-1.orthodb.org/?query=143963at33090	SnoaL-like domain
+143978at33090	Missing
+144144at33090	Complete	Z_mays_g009486.t1	270.0	181	https://v10-1.orthodb.org/?query=144144at33090	CAP Gly-rich domain
+144680at33090	Complete	Z_mays_g000233.t1	274.3	214	https://v10-1.orthodb.org/?query=144680at33090	Ankyrin repeat-containing domain
+144716at33090	Complete	Z_mays_g005993.t1	263.1	176	https://v10-1.orthodb.org/?query=144716at33090	CAAX prenyl protease 2
+144765at33090	Complete	Z_mays_g024428.t1	392.5	251	https://v10-1.orthodb.org/?query=144765at33090	DNA glycosylase
+144990at33090	Complete	Z_mays_g026505.t1	380.7	251	https://v10-1.orthodb.org/?query=144990at33090	Squalene/phytoene synthase
+145061at33090	Complete	Z_mays_g001338.t1	650.3	415	https://v10-1.orthodb.org/?query=145061at33090	Tetratricopeptide repeat
+145734at33090	Fragmented	Z_mays_g025436.t1	270.1	169	https://v10-1.orthodb.org/?query=145734at33090	Methyltransferase type 11
+146354at33090	Complete	Z_mays_g031120.t1	260.4	190	https://v10-1.orthodb.org/?query=146354at33090	Thioredoxin
+146469at33090	Complete	Z_mays_g035075.t1	320.2	212	https://v10-1.orthodb.org/?query=146469at33090	Enoyl-CoA hydratase/isomerase
+146772at33090	Complete	Z_mays_g005778.t1	386.8	242	https://v10-1.orthodb.org/?query=146772at33090	Pantoate-beta-alanine ligase
+146921at33090	Complete	Z_mays_g026610.t1	329.2	209	https://v10-1.orthodb.org/?query=146921at33090	Magnesium-protoporphyrin IX methyltransferase
+147083at33090	Fragmented	Z_mays_g014106.t1	252.3	175	https://v10-1.orthodb.org/?query=147083at33090	NAD(P)-binding domain superfamily
+147262at33090	Missing
+148236at33090	Missing
+148539at33090	Fragmented	Z_mays_g018631.t1	414.1	295	https://v10-1.orthodb.org/?query=148539at33090	GTP binding domain
+148839at33090	Fragmented	Z_mays_g030374.t1	310.0	195	https://v10-1.orthodb.org/?query=148839at33090	Proteasome component (PCI) domain
+149782at33090	Complete	Z_mays_g007749.t1	199.1	143	https://v10-1.orthodb.org/?query=149782at33090	Ribosome recycling factor
+150470at33090	Missing
+150559at33090	Fragmented	Z_mays_g021030.t1	132.0	105	https://v10-1.orthodb.org/?query=150559at33090	Ribosomal RNA processing protein 8
+152317at33090	Fragmented	Z_mays_g006759.t1	200.0	128	https://v10-1.orthodb.org/?query=152317at33090	Translation initiation factor 3
+153820at33090	Fragmented	Z_mays_g017125.t1	269.0	179	https://v10-1.orthodb.org/?query=153820at33090	LPPG:FO 2-phospho-L-lactate transferase CofD/UPF0052
+154870at33090	Fragmented	Z_mays_g019654.t1	459.6	368	https://v10-1.orthodb.org/?query=154870at33090	Nicastrin
+155102at33090	Fragmented	Z_mays_g004934.t1	177.2	100	https://v10-1.orthodb.org/?query=155102at33090	Cytochrome c oxidase assembly protein CtaG/Cox11
+156843at33090	Complete	Z_mays_g023319.t1	291.8	184	https://v10-1.orthodb.org/?query=156843at33090	Ribosomal protein L3
+156887at33090	Complete	Z_mays_g035624.t1	305.2	187	https://v10-1.orthodb.org/?query=156887at33090	ABC transporter, conserved site
+158492at33090	Complete	Z_mays_g038380.t1	326.9	176	https://v10-1.orthodb.org/?query=158492at33090	Ribosome biogenesis protein
+158957at33090	Complete	Z_mays_g017784.t1	190.9	133	https://v10-1.orthodb.org/?query=158957at33090	HAD superfamily
+160064at33090	Complete	Z_mays_g007183.t1	315.2	198	https://v10-1.orthodb.org/?query=160064at33090	Electron transfer flavoprotein, beta subunit
+160610at33090	Fragmented	Z_mays_g016318.t1	277.8	148	https://v10-1.orthodb.org/?query=160610at33090	RNA-binding S4 domain
+160680at33090	Missing
+161054at33090	Missing
+161066at33090	Duplicated	Z_mays_g029321.t1	381.1	290	https://v10-1.orthodb.org/?query=161066at33090	FAD dependent oxidoreductase
+161066at33090	Duplicated	Z_mays_g029322.t1	377.5	290	https://v10-1.orthodb.org/?query=161066at33090	FAD dependent oxidoreductase
+161269at33090	Complete	Z_mays_g035645.t1	330.6	166	https://v10-1.orthodb.org/?query=161269at33090	Deoxycytidylate deaminase domain
+161309at33090	Missing
+161559at33090	Complete	Z_mays_g011776.t1	322.8	207	https://v10-1.orthodb.org/?query=161559at33090	Protein prenyltransferase, alpha subunit
+161966at33090	Fragmented	Z_mays_g017687.t1	159.5	90	https://v10-1.orthodb.org/?query=161966at33090	RNA-binding S4 domain
+162794at33090	Complete	Z_mays_g025700.t1	468.7	242	https://v10-1.orthodb.org/?query=162794at33090	Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase
+163097at33090	Fragmented	Z_mays_g003791.t1	411.7	209	https://v10-1.orthodb.org/?query=163097at33090	Cyclophilin-type peptidyl-prolyl cis-trans isomerase domain
+163701at33090	Fragmented	Z_mays_g007776.t1	25.4	36	https://v10-1.orthodb.org/?query=163701at33090	P-loop containing nucleoside triphosphate hydrolase
+163833at33090	Complete	Z_mays_g027547.t1	662.9	366	https://v10-1.orthodb.org/?query=163833at33090	THIF-type NAD/FAD binding fold
+164019at33090	Complete	Z_mays_g020041.t1	259.4	217	https://v10-1.orthodb.org/?query=164019at33090	Aminotransferase class IV
+164280at33090	Complete	Z_mays_g011159.t1	275.6	147	https://v10-1.orthodb.org/?query=164280at33090	Pre-mRNA-splicing factor 38
+164556at33090	Fragmented	Z_mays_g028655.t1	71.0	62	https://v10-1.orthodb.org/?query=164556at33090	Putative rRNA methylase
+165103at33090	Complete	Z_mays_g006269.t1	366.7	236	https://v10-1.orthodb.org/?query=165103at33090	Carbon-nitrogen hydrolase
+166645at33090	Fragmented	Z_mays_g013187.t1	696.4	635	https://v10-1.orthodb.org/?query=166645at33090	Sister chromatid cohesion protein
+166660at33090	Complete	Z_mays_g027714.t1	225.7	144	https://v10-1.orthodb.org/?query=166660at33090	ATP-dependent helicase/deoxyribonuclease subunit B
+167076at33090	Fragmented	Z_mays_g000120.t1	97.5	77	https://v10-1.orthodb.org/?query=167076at33090	Oxoglutarate/iron-dependent dioxygenase
+167217at33090	Complete	Z_mays_g021294.t1	414.3	217	https://v10-1.orthodb.org/?query=167217at33090	tRNA (guanine-N(7)-)-methyltransferase
+167325at33090	Complete	Z_mays_g001393.t1	175.8	149	https://v10-1.orthodb.org/?query=167325at33090	Unnamed product
+167809at33090	Complete	Z_mays_g021603.t1	314.2	161	https://v10-1.orthodb.org/?query=167809at33090	Peptidyl-prolyl cis-trans isomerase
+167850at33090	Complete	Z_mays_g007767.t1	180.2	153	https://v10-1.orthodb.org/?query=167850at33090	Autophagy-related protein 3
+167932at33090	Missing
+168269at33090	Duplicated	Z_mays_g004546.t1	332.3	202	https://v10-1.orthodb.org/?query=168269at33090	P-loop containing nucleoside triphosphate hydrolase
+168269at33090	Duplicated	Z_mays_g004546.t2	332.3	202	https://v10-1.orthodb.org/?query=168269at33090	P-loop containing nucleoside triphosphate hydrolase
+168270at33090	Complete	Z_mays_g024731.t1	373.7	236	https://v10-1.orthodb.org/?query=168270at33090	Tab2-like
+168563at33090	Complete	Z_mays_g019092.t1	129.9	133	https://v10-1.orthodb.org/?query=168563at33090	Tetratricopeptide repeat
+169007at33090	Complete	Z_mays_g012333.t1	243.8	144	https://v10-1.orthodb.org/?query=169007at33090	tRNA/rRNA methyltransferase, SpoU type
+170939at33090	Complete	Z_mays_g007703.t1	514.3	307	https://v10-1.orthodb.org/?query=170939at33090	ATPase, AAA-type, conserved site
+170945at33090	Complete	Z_mays_g024852.t1	519.6	328	https://v10-1.orthodb.org/?query=170945at33090	Helicase, C-terminal
+171195at33090	Complete	Z_mays_g023435.t1	298.0	194	https://v10-1.orthodb.org/?query=171195at33090	urease accessory protein F
+171627at33090	Complete	Z_mays_g000904.t1	150.1	138	https://v10-1.orthodb.org/?query=171627at33090	OPI10 family
+171708at33090	Fragmented	Z_mays_g016903.t1	106.6	135	https://v10-1.orthodb.org/?query=171708at33090	WD40-repeat-containing domain
+171767at33090	Missing
+172000at33090	Fragmented	Z_mays_g023324.t1	246.8	156	https://v10-1.orthodb.org/?query=172000at33090	Ribosomal RNA small subunit methyltransferase H
+172535at33090	Complete	Z_mays_g021493.t1	497.0	313	https://v10-1.orthodb.org/?query=172535at33090	Ubiquinone biosynthesis monooxygenase COQ6, mitochondrial
+172666at33090	Missing
+173119at33090	Duplicated	Z_mays_g014988.t1	87.3	182	https://v10-1.orthodb.org/?query=173119at33090	DNA recombination and repair protein Rad51-like, C-terminal
+173119at33090	Duplicated	Z_mays_g031588.t1	74.4	155	https://v10-1.orthodb.org/?query=173119at33090	DNA recombination and repair protein Rad51-like, C-terminal
+173143at33090	Complete	Z_mays_g035341.t1	208.6	156	https://v10-1.orthodb.org/?query=173143at33090	Nucleoporin, NSP1-like, C-terminal
+173477at33090	Complete	Z_mays_g017147.t1	229.2	156	https://v10-1.orthodb.org/?query=173477at33090	PITH domain
+173581at33090	Complete	Z_mays_g013132.t1	372.5	224	https://v10-1.orthodb.org/?query=173581at33090	TatD family
+174202at33090	Complete	Z_mays_g009035.t1	204.4	139	https://v10-1.orthodb.org/?query=174202at33090	RNA methyltransferase RlmH
+174213at33090	Fragmented	Z_mays_g012952.t1	132.8	109	https://v10-1.orthodb.org/?query=174213at33090	Folate-sensitive fragile site protein Fra10Ac1
+174767at33090	Complete	Z_mays_g034702.t1	371.5	199	https://v10-1.orthodb.org/?query=174767at33090	Histidine phosphatase superfamily
+175583at33090	Complete	Z_mays_g025653.t1	119.3	106	https://v10-1.orthodb.org/?query=175583at33090	Plastid lipid-associated protein/fibrillin conserved domain
+175792at33090	Fragmented	Z_mays_g004881.t1	148.1	109	https://v10-1.orthodb.org/?query=175792at33090	Winged helix-like DNA-binding domain superfamily
+175963at33090	Complete	Z_mays_g012907.t1	334.9	193	https://v10-1.orthodb.org/?query=175963at33090	Plastid lipid-associated protein/fibrillin conserved domain
+176016at33090	Complete	Z_mays_g004807.t1	292.0	152	https://v10-1.orthodb.org/?query=176016at33090	GNAT domain
+176328at33090	Missing
+177296at33090	Fragmented	Z_mays_g026764.t1	136.2	87	https://v10-1.orthodb.org/?query=177296at33090	Methyltransferase domain
+177720at33090	Fragmented	Z_mays_g012025.t1	316.4	267	https://v10-1.orthodb.org/?query=177720at33090	Transglutaminase-like
+177964at33090	Complete	Z_mays_g003637.t1	346.4	164	https://v10-1.orthodb.org/?query=177964at33090	Peptidylprolyl isomerase
+178386at33090	Missing
+179975at33090	Complete	Z_mays_g024891.t1	227.6	124	https://v10-1.orthodb.org/?query=179975at33090	Pentapeptide repeat
+180408at33090	Complete	Z_mays_g020331.t1	276.5	163	https://v10-1.orthodb.org/?query=180408at33090	Cofactor assembly of complex C subunit B, CCB1
+180466at33090	Complete	Z_mays_g023404.t1	334.7	195	https://v10-1.orthodb.org/?query=180466at33090	Copper chaperone SCO1/SenC
+180674at33090	Fragmented	Z_mays_g018557.t1	317.5	177	https://v10-1.orthodb.org/?query=180674at33090	Nuclear protein
+181108at33090	Complete	Z_mays_g009034.t1	273.0	170	https://v10-1.orthodb.org/?query=181108at33090	Plastid lipid-associated protein/fibrillin conserved domain
+182493at33090	Complete	Z_mays_g032427.t1	212.7	163	https://v10-1.orthodb.org/?query=182493at33090	Cyclophilin-type peptidyl-prolyl cis-trans isomerase
+182513at33090	Duplicated	Z_mays_g038482.t1	471.5	280	https://v10-1.orthodb.org/?query=182513at33090	Protohaem IX farnesyltransferase
+182513at33090	Duplicated	Z_mays_g000483.t1	467.9	280	https://v10-1.orthodb.org/?query=182513at33090	Protohaem IX farnesyltransferase
+182936at33090	Fragmented	Z_mays_g010041.t1	138.4	114	https://v10-1.orthodb.org/?query=182936at33090	Etoposide-induced 2.4
+182952at33090	Complete	Z_mays_g028768.t1	214.7	173	https://v10-1.orthodb.org/?query=182952at33090	Transcriptional regulator TACO1-like
+183313at33090	Missing
+183396at33090	Complete	Z_mays_g008392.t1	188.0	111	https://v10-1.orthodb.org/?query=183396at33090	Protein of unknown function DUF393
+183719at33090	Missing
+183931at33090	Complete	Z_mays_g030133.t1	284.7	202	https://v10-1.orthodb.org/?query=183931at33090	WD40 repeat
+184066at33090	Complete	Z_mays_g028996.t1	138.5	96	https://v10-1.orthodb.org/?query=184066at33090	Protein of unknown function DUF3593
+184405at33090	Complete	Z_mays_g006430.t1	449.8	307	https://v10-1.orthodb.org/?query=184405at33090	DNA glycosylase
+184776at33090	Complete	Z_mays_g001355.t1	268.4	155	https://v10-1.orthodb.org/?query=184776at33090	NIF system FeS cluster assembly, NifU, C-terminal
+185172at33090	Complete	Z_mays_g021235.t1	173.7	106	https://v10-1.orthodb.org/?query=185172at33090	Molybdopterin synthase catalytic subunit
+185214at33090	Fragmented	Z_mays_g022334.t1	102.9	83	https://v10-1.orthodb.org/?query=185214at33090	Plastid lipid-associated protein/fibrillin conserved domain
+185696at33090	Complete	Z_mays_g011779.t1	563.1	345	https://v10-1.orthodb.org/?query=185696at33090	TCF25/Rqc1
+185941at33090	Fragmented	Z_mays_g036159.t1	82.7	68	https://v10-1.orthodb.org/?query=185941at33090	PsbP, C-terminal
+186340at33090	Complete	Z_mays_g002522.t1	339.5	179	https://v10-1.orthodb.org/?query=186340at33090	PsbP, C-terminal
+187462at33090	Complete	Z_mays_g016979.t1	379.6	260	https://v10-1.orthodb.org/?query=187462at33090	Cyclophilin-type peptidyl-prolyl cis-trans isomerase
+187866at33090	Complete	Z_mays_g017260.t1	162.2	159	https://v10-1.orthodb.org/?query=187866at33090	DTW
+187914at33090	Fragmented	Z_mays_g014898.t1	330.7	207	https://v10-1.orthodb.org/?query=187914at33090	Mur ligase, central
+188180at33090	Missing
+188436at33090	Complete	Z_mays_g034909.t1	298.6	174	https://v10-1.orthodb.org/?query=188436at33090	Mpv17/PMP22
+188583at33090	Fragmented	Z_mays_g003877.t1	327.7	193	https://v10-1.orthodb.org/?query=188583at33090	RuvA domain 2-like
+188938at33090	Missing
+189891at33090	Complete	Z_mays_g016860.t1	347.5	193	https://v10-1.orthodb.org/?query=189891at33090	Tetrapyrrole methylase
+190390at33090	Duplicated	Z_mays_g001976.t1	101.3	194	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g006164.t1	100.5	194	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g008749.t1	105.5	193	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g001620.t1	106.0	192	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g001621.t1	105.9	192	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g000140.t1	98.6	192	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g032048.t1	102.2	191	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g012586.t1	97.7	191	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g001180.t1	114.9	190	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g031645.t1	106.9	190	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g020067.t1	106.3	190	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g032049.t1	101.8	190	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g036839.t1	103.4	188	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g012649.t1	112.0	187	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g009460.t1	98.6	187	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g020066.t1	108.3	186	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g034257.t1	102.5	185	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g036840.t1	101.8	183	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+190390at33090	Duplicated	Z_mays_g027179.t1	103.0	182	https://v10-1.orthodb.org/?query=190390at33090	Haem peroxidase
+191125at33090	Fragmented	Z_mays_g026847.t1	292.6	178	https://v10-1.orthodb.org/?query=191125at33090	RNA-binding S4 domain
+191396at33090	Fragmented	Z_mays_g034568.t1	168.5	101	https://v10-1.orthodb.org/?query=191396at33090	C-5 cytosine methyltransferase
+191581at33090	Missing
+192090at33090	Missing
+192376at33090	Complete	Z_mays_g009050.t1	174.8	106	https://v10-1.orthodb.org/?query=192376at33090	Peptidyl-tRNA hydrolase II domain superfamily
+192456at33090	Complete	Z_mays_g003090.t1	130.9	159	https://v10-1.orthodb.org/?query=192456at33090	OTU domain
+192750at33090	Complete	Z_mays_g036309.t1	377.5	204	https://v10-1.orthodb.org/?query=192750at33090	ATP-dependent Clp protease proteolytic subunit
+193351at33090	Complete	Z_mays_g035803.t1	89.8	118	https://v10-1.orthodb.org/?query=193351at33090	Protein of unknown function DUF393
+193437at33090	Missing
+193683at33090	Complete	Z_mays_g003494.t1	199.1	127	https://v10-1.orthodb.org/?query=193683at33090	Multiple myeloma tumor-associated protein 2-like
+193777at33090	Fragmented	Z_mays_g008824.t1	255.9	131	https://v10-1.orthodb.org/?query=193777at33090	Peptidase M41-like
+193982at33090	Missing
+194002at33090	Missing
+194293at33090	Duplicated	Z_mays_g012058.t1	99.8	188	https://v10-1.orthodb.org/?query=194293at33090	rRNA adenine N(6)-methyltransferase
+194293at33090	Duplicated	Z_mays_g023507.t1	109.5	183	https://v10-1.orthodb.org/?query=194293at33090	rRNA adenine N(6)-methyltransferase
+194372at33090	Missing
+194467at33090	Complete	Z_mays_g021266.t1	317.7	179	https://v10-1.orthodb.org/?query=194467at33090	Protein of unknown function DUF4079
+195185at33090	Missing
+195354at33090	Complete	Z_mays_g021900.t1	231.4	158	https://v10-1.orthodb.org/?query=195354at33090	DNA glycosylase
+195527at33090	Fragmented	Z_mays_g001663.t1	159.8	125	https://v10-1.orthodb.org/?query=195527at33090	tRNA pseudouridine synthase
+195843at33090	Complete	Z_mays_g011049.t1	277.5	178	https://v10-1.orthodb.org/?query=195843at33090	Meiotic nuclear division protein 1 homolog
+196198at33090	Complete	Z_mays_g003797.t1	150.2	95	https://v10-1.orthodb.org/?query=196198at33090	Thioredoxin
+196248at33090	Missing
+196324at33090	Fragmented	Z_mays_g015338.t1	43.5	96	https://v10-1.orthodb.org/?query=196324at33090	Alpha/Beta hydrolase fold
+196325at33090	Complete	Z_mays_g031882.t1	247.1	241	https://v10-1.orthodb.org/?query=196325at33090	WD40 repeat
+196410at33090	Fragmented	Z_mays_g005337.t1	227.7	141	https://v10-1.orthodb.org/?query=196410at33090	Alpha-N-methyltransferase NTM1
+196443at33090	Missing
+196490at33090	Complete	Z_mays_g030529.t1	274.6	209	https://v10-1.orthodb.org/?query=196490at33090	YaeB, N-terminal domain superfamily
+196512at33090	Fragmented	Z_mays_g007308.t1	360.7	225	https://v10-1.orthodb.org/?query=196512at33090	Ribosome biogenesis GTPase RsgA
+196850at33090	Complete	Z_mays_g036303.t1	228.3	130	https://v10-1.orthodb.org/?query=196850at33090	Ribosome-binding factor A
+196873at33090	Complete	Z_mays_g012757.t1	250.2	133	https://v10-1.orthodb.org/?query=196873at33090	GNAT domain
+196991at33090	Complete	Z_mays_g003100.t1	200.3	179	https://v10-1.orthodb.org/?query=196991at33090	G-patch domain
+197780at33090	Fragmented	Z_mays_g031706.t1	248.2	141	https://v10-1.orthodb.org/?query=197780at33090	tRNA/rRNA methyltransferase, SpoU type
+197838at33090	Missing
+198012at33090	Complete	Z_mays_g013538.t1	190.6	123	https://v10-1.orthodb.org/?query=198012at33090	D-aminoacyl-tRNA deacylase
+198570at33090	Complete	Z_mays_g007487.t1	382.7	238	https://v10-1.orthodb.org/?query=198570at33090	F-box domain
+199163at33090	Missing
+199618at33090	Fragmented	Z_mays_g027989.t1	116.7	85	https://v10-1.orthodb.org/?query=199618at33090	tRNA (guanine(26)-N(2))-dimethyltransferase
+199795at33090	Missing
+200316at33090	Fragmented	Z_mays_g012181.t1	172.1	120	https://v10-1.orthodb.org/?query=200316at33090	Cyclophilin-type peptidyl-prolyl cis-trans isomerase
+200488at33090	Complete	Z_mays_g038212.t1	276.3	194	https://v10-1.orthodb.org/?query=200488at33090	5'-3' exonuclease, alpha-helical arch, N-terminal
+200499at33090	Complete	Z_mays_g017173.t1	460.6	292	https://v10-1.orthodb.org/?query=200499at33090	PPM-type phosphatase domain
+200687at33090	Complete	Z_mays_g022361.t1	323.0	180	https://v10-1.orthodb.org/?query=200687at33090	Pentapeptide repeat
+201861at33090	Complete	Z_mays_g031271.t1	380.1	242	https://v10-1.orthodb.org/?query=201861at33090	Ubiquinol-cytochrome c chaperone, CBP3
+202025at33090	Complete	Z_mays_g032472.t1	256.0	157	https://v10-1.orthodb.org/?query=202025at33090	Microbial collagenase
+203023at33090	Duplicated	Z_mays_g005515.t1	225.3	133	https://v10-1.orthodb.org/?query=203023at33090	Rubredoxin domain
+203023at33090	Duplicated	Z_mays_g015174.t1	217.4	132	https://v10-1.orthodb.org/?query=203023at33090	Rubredoxin domain
+203023at33090	Duplicated	Z_mays_g005516.t1	218.9	130	https://v10-1.orthodb.org/?query=203023at33090	Rubredoxin domain
+203023at33090	Duplicated	Z_mays_g005517.t1	215.4	120	https://v10-1.orthodb.org/?query=203023at33090	Rubredoxin domain
+203383at33090	Complete	Z_mays_g036053.t1	345.6	217	https://v10-1.orthodb.org/?query=203383at33090	Replication termination factor 2
+203818at33090	Complete	Z_mays_g028028.t1	137.1	90	https://v10-1.orthodb.org/?query=203818at33090	Ribosome biogenesis protein Nop16
+204117at33090	Missing
+204880at33090	Fragmented	Z_mays_g005766.t1	146.4	93	https://v10-1.orthodb.org/?query=204880at33090	Protein of unknown function DUF2301
+205308at33090	Complete	Z_mays_g003798.t1	321.6	187	https://v10-1.orthodb.org/?query=205308at33090	Ribonuclease H superfamily
+206164at33090	Missing
+206170at33090	Complete	Z_mays_g038563.t1	278.7	156	https://v10-1.orthodb.org/?query=206170at33090	uncharacterized protein LOC103486501
+207179at33090	Complete	Z_mays_g004137.t1	390.1	249	https://v10-1.orthodb.org/?query=207179at33090	Peroxisome biogenesis protein 12
+207898at33090	Missing
+208706at33090	Complete	Z_mays_g025927.t1	204.5	138	https://v10-1.orthodb.org/?query=208706at33090	Ribosome recycling factor
+208707at33090	Missing
+208849at33090	Duplicated	Z_mays_g026988.t1	117.8	72	https://v10-1.orthodb.org/?query=208849at33090	LSM domain, eukaryotic/archaea-type
+208849at33090	Duplicated	Z_mays_g022689.t1	100.8	62	https://v10-1.orthodb.org/?query=208849at33090	LSM domain, eukaryotic/archaea-type
+209015at33090	Missing
+209301at33090	Complete	Z_mays_g005119.t1	211.9	200	https://v10-1.orthodb.org/?query=209301at33090	Tetratricopeptide repeat
+209302at33090	Fragmented	Z_mays_g000999.t1	148.8	121	https://v10-1.orthodb.org/?query=209302at33090	Mitochondrial import inner membrane translocase subunit Tim21
+209516at33090	Missing
+210493at33090	Missing
+210551at33090	Complete	Z_mays_g021751.t1	307.1	177	https://v10-1.orthodb.org/?query=210551at33090	Thioredoxin
+210557at33090	Complete	Z_mays_g004999.t1	149.4	118	https://v10-1.orthodb.org/?query=210557at33090	Protein of unknown function DUF3054
+210851at33090	Complete	Z_mays_g002902.t1	249.3	127	https://v10-1.orthodb.org/?query=210851at33090	Glyoxalase/fosfomycin resistance/dioxygenase domain
+211645at33090	Fragmented	Z_mays_g027524.t1	102.5	67	https://v10-1.orthodb.org/?query=211645at33090	rRNA small subunit methyltransferase G
+212331at33090	Complete	Z_mays_g029772.t1	395.2	294	https://v10-1.orthodb.org/?query=212331at33090	Nucleoporin Nup54, alpha-helical domain
+212845at33090	Complete	Z_mays_g015339.t1	237.9	173	https://v10-1.orthodb.org/?query=212845at33090	PsbP, C-terminal
+213827at33090	Missing
+213828at33090	Complete	Z_mays_g038477.t1	208.1	120	https://v10-1.orthodb.org/?query=213828at33090	Domain of unknown function DUF304
+214313at33090	Missing
+215062at33090	Complete	Z_mays_g038384.t1	163.1	124	https://v10-1.orthodb.org/?query=215062at33090	N-acetyltransferase 9-like
+215487at33090	Complete	Z_mays_g004734.t1	92.7	92	https://v10-1.orthodb.org/?query=215487at33090	RecQ-mediated genome instability protein 2
+215817at33090	Duplicated	Z_mays_g030689.t1	403.2	283	https://v10-1.orthodb.org/?query=215817at33090	RNA recognition motif domain
+215817at33090	Duplicated	Z_mays_g036184.t1	380.9	256	https://v10-1.orthodb.org/?query=215817at33090	RNA recognition motif domain
+216228at33090	Complete	Z_mays_g000338.t1	194.2	141	https://v10-1.orthodb.org/?query=216228at33090	Protein of unknown function DUF1997
+216601at33090	Fragmented	Z_mays_g000096.t1	122.8	88	https://v10-1.orthodb.org/?query=216601at33090	Pyridoxamine 5'-phosphate oxidase, Alr4036 family, FMN-binding domain
+217014at33090	Missing
+217521at33090	Fragmented	Z_mays_g016136.t1	62.4	77	https://v10-1.orthodb.org/?query=217521at33090	CDP-alcohol phosphatidyltransferase
+218947at33090	Complete	Z_mays_g010123.t1	192.2	109	https://v10-1.orthodb.org/?query=218947at33090	Domain of unknown function DUF1279
+219128at33090	Missing
+219839at33090	Fragmented	Z_mays_g005657.t1	119.1	78	https://v10-1.orthodb.org/?query=219839at33090	Ribosomal protein L18
+220165at33090	Fragmented	Z_mays_g029336.t1	162.3	114	https://v10-1.orthodb.org/?query=220165at33090	Dimethylallyl, adenosine tRNA methylthiotransferase
+220316at33090	Complete	Z_mays_g017081.t1	174.8	131	https://v10-1.orthodb.org/?query=220316at33090	Co-chaperone Hsc20
+220587at33090	Duplicated	Z_mays_g014881.t1	276.1	206	https://v10-1.orthodb.org/?query=220587at33090	Protein OS9-like
+220587at33090	Duplicated	Z_mays_g002514.t1	271.1	206	https://v10-1.orthodb.org/?query=220587at33090	Protein OS9-like
+220589at33090	Fragmented	Z_mays_g031132.t1	297.3	233	https://v10-1.orthodb.org/?query=220589at33090	Rubisco LSMT, substrate-binding domain
+220981at33090	Complete	Z_mays_g030487.t1	252.9	172	https://v10-1.orthodb.org/?query=220981at33090	26S Proteasome non-ATPase regulatory subunit 9
+223902at33090	Duplicated	Z_mays_g027776.t1	170.9	103	https://v10-1.orthodb.org/?query=223902at33090	Thioredoxin domain
+223902at33090	Duplicated	Z_mays_g014381.t1	162.3	92	https://v10-1.orthodb.org/?query=223902at33090	Thioredoxin domain
+223902at33090	Duplicated	Z_mays_g011571.t1	152.9	90	https://v10-1.orthodb.org/?query=223902at33090	Thioredoxin domain
+225336at33090	Complete	Z_mays_g000512.t1	169.0	120	https://v10-1.orthodb.org/?query=225336at33090	Mechanosensitive ion channel MscS domain superfamily
+227848at33090	Complete	Z_mays_g017151.t1	257.0	190	https://v10-1.orthodb.org/?query=227848at33090	RWD domain
+228201at33090	Complete	Z_mays_g028605.t1	301.2	249	https://v10-1.orthodb.org/?query=228201at33090	Domain of unknown function DUF1995
+229764at33090	Complete	Z_mays_g002228.t1	461.0	290	https://v10-1.orthodb.org/?query=229764at33090	Shikimate kinase/gluconokinase
+229778at33090	Complete	Z_mays_g035321.t1	131.1	106	https://v10-1.orthodb.org/?query=229778at33090	Predicted protein
+229782at33090	Missing
+230103at33090	Complete	Z_mays_g013026.t1	504.6	304	https://v10-1.orthodb.org/?query=230103at33090	Ribosomal protein S23/S29, mitochondrial
+231151at33090	Fragmented	Z_mays_g001765.t1	75.9	86	https://v10-1.orthodb.org/?query=231151at33090	NAD(P)-binding domain
+231707at33090	Missing
+233744at33090	Fragmented	Z_mays_g014574.t1	74.2	57	https://v10-1.orthodb.org/?query=233744at33090	Protein Iojap/ribosomal silencing factor RsfS
+234046at33090	Fragmented	Z_mays_g024173.t1	89.6	76	https://v10-1.orthodb.org/?query=234046at33090	Prefoldin beta-like
+238204at33090	Complete	Z_mays_g004435.t1	137.3	74	https://v10-1.orthodb.org/?query=238204at33090	Predicted protein
+238385at33090	Complete	Z_mays_g005014.t1	100.0	64	https://v10-1.orthodb.org/?query=238385at33090	Photosystem I reaction centre subunit N, chloroplastic

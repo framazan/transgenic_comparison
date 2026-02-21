@@ -1,0 +1,17 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: viridiplantae_odb10 (Creation date: 2024-01-08, number of genomes: 57, number of BUSCOs: 425)
+# Summarized benchmarking in BUSCO notation for file /Users/filipr/Desktop/transgenic_comparison/protein_results/Z_mays_transgenic400M.prot.fasta
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:50.6%[S:44.0%,D:6.6%],F:30.4%,M:19.1%,n:425	   
+	215	Complete BUSCOs (C)			   
+	187	Complete and single-copy BUSCOs (S)	   
+	28	Complete and duplicated BUSCOs (D)	   
+	129	Fragmented BUSCOs (F)			   
+	81	Missing BUSCOs (M)			   
+	425	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4

@@ -15,7 +15,7 @@ from matplotlib.patches import Patch
 
 
 INCLUDE_GENOMES = [
-    'A_thaliana', 'O_sativa', 'Z_mays', 'P_trichocarpa'
+    'A_thaliana', 'O_sativa', 'Z_mays'
 ]
 
 
@@ -34,8 +34,18 @@ TOOL_STYLES = {
         "marker": ">",
         "label": "Tiberius (softmasked)",
     },
+    "transgenic400M": {
+        "color": "#ff7f0e",
+        "marker": "s",
+        "label": "Transgenic 400M",
+    },
+    "transgenic160M": {
+        "color": "#9467bd",
+        "marker": "D",
+        "label": "Transgenic 160M",
+    },
 }
-TOOLS_ORDER = ["annevo", "helixer", "tiberius", "tiberius_softmasked"]
+TOOLS_ORDER = ["annevo", "helixer", "tiberius", "transgenic400M", "transgenic160M"]
 
 GFF_LEVELS = [
     ("Exon level", "Exon level"),
@@ -46,7 +56,7 @@ def parse_name(name: str):
     # Split 'A_thaliana_annevo' → ('A_thaliana', 'annevo').
     # The tool suffix is matched longest‑first so that
     # 'tiberius_softmasked' is not mistaken for 'tiberius'.
-    for tool in ["tiberius_softmasked", "tiberius", "helixer", "annevo"]:
+    for tool in ["tiberius_softmasked", "tiberius", "helixer", "annevo", "transgenic400M", "transgenic160M"]:
         suffix = "_" + tool
         if name.endswith(suffix):
             return name[: -len(suffix)], tool

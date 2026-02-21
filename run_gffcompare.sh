@@ -6,6 +6,26 @@ ROOT_DIR="./"
 QUERY_DIR="$ROOT_DIR/standardized_results"   
 REF_DIR="$ROOT_DIR/reference_annotations"   
 OUT_DIR="$ROOT_DIR/gffcompare_results"
+TRANSGENIC_ONLY=false
+
+# --- Parse command line arguments ---
+while [[ $# -gt 0 ]]; do
+  case $1 in
+    --transgenic-only)
+      TRANSGENIC_ONLY=true
+      shift
+      ;;
+    -h|--help)
+      echo "Usage: $0 [--transgenic-only]"
+      echo "  --transgenic-only  Only process transgenic GFF files"
+      exit 0
+      ;;
+    *)
+      echo "Unknown option: $1"
+      exit 1
+      ;;
+  esac
+done
 
 mkdir -p "$OUT_DIR"
 
@@ -38,7 +58,12 @@ get_ref_gff() {
 shopt -s nullglob
 for query_gff in "$QUERY_DIR"/*.gff3; do
     
-    filename=$(basename "$query_gff")      
+    filename=$(basename "$query_gff")
+    
+    # Skip non-transgenic files if --transgenic-only is set
+    if [[ "$TRANSGENIC_ONLY" == true && ! "$filename" == *transgenic* ]]; then
+        continue
+    fi      
     base="${filename%.gff3}"               
     
     # --- FIX: Robust Species Detection ---
