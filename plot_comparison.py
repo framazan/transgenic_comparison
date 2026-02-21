@@ -160,21 +160,38 @@ def plot_gffcompare(gff_data, species_list):
         for ci, sp in enumerate(species_list):
             ax = axes[ri, ci]
 
+            # Collect all points for this species/row
+            points = []
             for tool in TOOLS_ORDER:
                 key = (sp, tool)
                 if key in gff_data and gff_key in gff_data[key]:
                     d = gff_data[key][gff_key]
-                    s = TOOL_STYLES[tool]
-                    ax.scatter(
-                        d["precision"],
-                        d["sensitivity"],
-                        color=s["color"],
-                        marker=s["marker"],
-                        s=120,
-                        edgecolors="black",
-                        linewidth=0.5,
-                        zorder=5,
-                    )
+                    points.append((tool, d["precision"], d["sensitivity"]))
+
+            # Jitter overlapping points
+            jittered = []
+            used = set()
+            for i, (tool, x, y) in enumerate(points):
+                # Check for overlap with previous points
+                offset_x, offset_y = 0, 0
+                for j, (t2, x2, y2) in enumerate(jittered):
+                    if abs(x - x2) < 2 and abs(y - y2) < 2:
+                        offset_x += 3 * ((i % 2) * 2 - 1)  # alternate left/right, now ±3
+                        offset_y += 3 * ((i % 3) - 1)      # alternate up/down, now ±3
+                jittered.append((tool, x + offset_x, y + offset_y))
+
+            for tool, x, y in jittered:
+                s = TOOL_STYLES[tool]
+                ax.scatter(
+                    x,
+                    y,
+                    color=s["color"],
+                    marker=s["marker"],
+                    s=120,
+                    edgecolors="black",
+                    linewidth=0.5,
+                    zorder=5,
+                )
 
             ax.set_xlim(0, 100)
             ax.set_ylim(0, 100)
