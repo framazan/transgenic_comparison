@@ -295,6 +295,15 @@ def standardize_gff(input_file, output_file, species_prefix, tool_name, genome_d
                 else:
                     attributes['ID'] = f"temp_{line_num}"
             
+            # Normalize invalid strand values early; resolve later from parent/children.
+            if strand not in ('+', '-'):
+                strand = '.'
+
+            # PASA expects CDS phase to be 0/1/2. Default invalid/missing phase to 0.
+            if type_ == 'CDS' and phase not in ('0', '1', '2'):
+                phase = '0'
+                fixes.add("Normalized missing/invalid CDS phase to 0")
+
             feature = {
                 'seqid': seqid,
                 'source': source,
@@ -375,7 +384,7 @@ def standardize_gff(input_file, output_file, species_prefix, tool_name, genome_d
             o['attributes']['Parent'] = new_mrna_id
             fixes.add("Created intermediate mRNAs for features attached directly to genes")
 
-    # 2.5. Create/fix exons, ensuring each CDS has a corresponding exon
+    # 2.5. Create/fix exons, strand consistency, and translation viability checks
     # This fixes issues where transgenic model outputs overlapping CDS/UTR features
     filtered_genes = {}
     for gene_id, gene in genes.items():
@@ -386,6 +395,25 @@ def standardize_gff(input_file, output_file, species_prefix, tool_name, genome_d
             has_cds = any(c['type'] == 'CDS' for c in children)
             utr_types = ('five_prime_UTR', 'three_prime_UTR')
             has_utr = any(c['type'] in utr_types for c in children)
+
+            # Ensure mRNA strand is valid and propagated to children.
+            # PASA fails hard if model orientation is undefined.
+            strand_candidates = []
+            if mrna['strand'] in ('+', '-'):
+                strand_candidates.append(mrna['strand'])
+            if gene['strand'] in ('+', '-'):
+                strand_candidates.append(gene['strand'])
+            strand_candidates.extend(
+                c['strand'] for c in children if c['strand'] in ('+', '-')
+            )
+            mrna_strand = strand_candidates[0] if strand_candidates else None
+            if mrna_strand is None:
+                fixes.add("Removed mRNAs with invalid/undefined strand")
+                continue
+            mrna['strand'] = mrna_strand
+            for child in children:
+                if child['strand'] not in ('+', '-'):
+                    child['strand'] = mrna_strand
             
             if not has_exon and has_cds:
                 # No exons exist: create one exon per CDS, then extend with adjacent UTRs
@@ -507,13 +535,30 @@ def standardize_gff(input_file, output_file, species_prefix, tool_name, genome_d
                 
                 fixes.add("Extended exons to cover adjacent UTR regions")
             
+            # Keep only transcript models that can be translated into at least one codon.
+            # Drop entire mRNA (and all linked exon/CDS/UTR features) otherwise.
+            cds_features = [c for c in mrna['children'] if c['type'] == 'CDS']
+            if not cds_features:
+                fixes.add("Removed mRNAs without CDS features")
+                continue
+
+            merged_cds = merge_intervals([(c['start'], c['end']) for c in cds_features])
+            cds_len = sum((end - start + 1) for start, end in merged_cds)
+            if cds_len < 3:
+                fixes.add("Removed mRNAs with CDS length < 3 bp (non-translatable)")
+                continue
+
             if has_exon:
                 valid_mrnas.append(mrna)
             else:
-                fixes.add("Removed mRNAs without exon or CDS coordinates")
+                fixes.add("Removed mRNAs without exon coordinates")
         
         if valid_mrnas:
             gene['children'] = valid_mrnas
+            # Harmonize gene strand from valid child mRNAs.
+            if gene['strand'] not in ('+', '-') and valid_mrnas:
+                gene['strand'] = valid_mrnas[0]['strand']
+                fixes.add("Set gene strand from child mRNA strand")
             filtered_genes[gene_id] = gene
         else:
             fixes.add("Removed genes with no valid mRNAs")
@@ -616,7 +661,7 @@ def main():
         print("  --transgenic-only  Only process transgenic result folders")
         sys.exit(0)
 
-    root_dir = "/Users/filipr/Desktop/transgenic_comparison"
+    root_dir = "/home/framazan/transgenic_comparison"
     results_root = os.path.join(root_dir, "results")
     genome_dir = os.path.join(root_dir, "genomes")
     output_dir = os.path.join(root_dir, "standardized_results")
